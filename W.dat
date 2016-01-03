@@ -1,0 +1,814 @@
+2015/8/26
+State  Region   Order Date   Shape Code  Material Code  radius   height   color  Customer Number  First Name   Last Name  Address
+KS West 2015/6/24 y a 33.1 36.2 Green A05-355685 Eric Haislett  Ste 7, 1410 E Iron Ave, Salina, Ks 674013285
+KS West 2015/3/7 o u 26.2 31 Orange M15-998594 William Holthaus  600 Sw Commerce Place, Topeka, Ks 666151234
+KS West 2015/1/24 o a 35 37.9 Red M15-343081 Dennis Mclaughlin  15375 W 95Th St, Lenexa, Ks 662191262
+MO West 2015/2/24 o a 31.9 34.4 Orange A05-663458 Gena Bonini  Bldg 110 Ste 2401, 4300 Goodfellow Blvd, Saint Louis, Mo 631201720
+MO West 2015/3/17 y u 12.2 15.4 Orange M30-775300 David Breiner  Bolling Federal Bldg 1008, 601 E 12Th Street, Kansas City, Mo 641062818
+MO West 2015/6/13 y a 20.1 21.7 Violet M30-644148 David Bruner  1305 Crown Drive, Kirksville, Mo 635012550
+MO West 2015/7/9 p a 8.4 -1 Orange M30-684414 Cynthia Caronia  601 E 12Th St, Rm 966, Kansas City, Mo 641062818
+MO West 2015/5/31 o a 25.3 30.3 Green A05-844210 Deborah Case  Room 1065, 601 E 12Th Street, Kansas City, Mo 641062818
+MO West 2015/4/30 y a 7.5 7.8 Yellow U02-823768 Helen Chaffin  1402 N Woodbine Road, Saint Joseph, Mo 645063611
+MO West 2015/4/6 y u 31.3 40.5 Yellow A05-264982 Karen Cole  2021 Independence Ave, Kansas City, Mo 641242309
+MO West 2015/8/3 y a 22.5 24.2 Orange M15-459069 Rich Elmore  4102 South Arizona Avenue, Joplin, Mo 648043216
+MO West 2015/2/21 y k 33.8 35.5 Red M30-748397 Laura Follmer  Room 836, 601 E 12Th Street, Kansas City, Mo 641062817
+MO West 2015/7/31 o k 4.6 5.5 Orange A05-929442 Marybeth Fritz  Ste 900, 200 N Broadway, Saint Louis, Mo 631022753
+MO West 2015/3/25 p k 32.5 -1 Violet A05-869461 Mitch Fuemmeler  507 East Main, Park Hills, Mo 636012623
+MO West 2015/1/5 p k 30.3 -1 Indigo M15-451622 Clayton Hayden  803 Gray Oak Drive, Columbia, Mo 652013731
+MO West 2015/5/13 y a 32.9 34.9 Yellow M30-927172 David Hung  6320 Euclid Ave, Kansas City, Mo 641321787
+MO West 2015/8/22 p k 28.1 -1 Red M30-423780 Jeanine Matthews  5669 Delamr, Saint Louis, Mo 631122615
+MO West 2015/7/30 p u 24.8 -1 Green M30-574602 Monica Rempe  Room 965, 601 E 12Th Street, Kansas City, Mo 641062818
+MO West 2015/4/28 p k 22.7 -1 Blue M15-734788 Karen Scanlan  Bldg 110 Ste 2300A, 4300 Goodfellow Blvd, Saint Louis, Mo 631201720
+MO West 2015/6/7 p u 32.1 -1 Indigo U02-425035 Colleen Wienck  Rm 1402, 601 East 12Th St, Kansas City, Mo 641062818
+MT West 2015/7/11 y u 35.7 38.7 Blue U02-324785 James Capp  2008 23Rd St S, Great Falls, Mt 594055147
+ND West 2015/6/30 y k 22.9 23.1 Violet M30-348061 Gail Lorenzen  Ste 150, 655 1St Ave N, Fargo, Nd 581024932
+NE West 2015/6/3 p k 6.7 -1 Indigo U02-769313 Cheryl Bauer-Cohen  Ste 500, 1000 N 90Th Street, Omaha, Ne 681142718
+NE West 2015/3/27 y k 31 32.4 Violet M30-581359 Brian Schneider  Bldg/Rm 604, N 109 Ct, Omaha, Ne 681540000
+NM West 2015/6/1 y a 10.7 14.5 Violet U02-278342 Randy Burson  4650 North Butler, Farmington, Nm 874012372
+OK West 2015/6/13 p a 24 -1 Red A05-559838 Nikole Anderson  506 W Utah, Chickasha, Ok 730185852
+OK West 2015/1/26 y u 28 30.2 Indigo M30-558248 Mary Eldredge  524 South 2Nd Street, Mcalester, Ok 745015812
+OK West 2015/6/12 o k 24 27.8 Red M15-868799 Robert Everidge  902 S George Nigh Expressway, Mcalester, Ok 745017280
+OK West 2015/2/12 o u 23.1 27.2 Indigo A05-356518 Mary Grady  301 North West 6Th Street, Room 300, Oklahoma City, Ok 731022822
+OK West 2015/6/6 p V 27.9 -1 Indigo M30-565542 Georgina Hernandez  200 Ne 27, Moore, Ok 731604104
+OK West 2015/6/27 o k 25.3 33.7 Indigo A05-504825 Mindi Walker  909 Federal Street, Shawnee, Ok 748044018
+OK West 2015/8/4 y u 4.2 4.5 Yellow A05-296575 Jennifer Whitehead  308 Creek Pl, Okmulgee, Ok 744476730
+OR West 2015/5/4 y a 18.9 19.5 Green A05-340454 Daria Roper  Suite 201, 211 E 7Th Ave, Eugene, Or 974012722
+OR West 2015/3/28 p k 7.8 -1 Blue M30-924503 Carol Young  2205 Cove Ave, La Grande, Or 978503904
+TX West 2015/2/7 y a 22 25.9 Green M15-999579 Jaonna Beck  2300 Dunson Drive, Balch Springs, Tx 751804852
+TX West 2015/1/11 p k 21.6 -1 Indigo A05-887220 Candy Clemons  402 Isom Antonio, San Antonio, Tx 782160000
+TX West 2015/1/22 y u 6.5 8.2 Orange U02-803825 Janette Cuellar  611 Clinic Drive, Longview, Tx 756055172
+TX West 2015/3/28 o k 8.4 11.2 Red U02-811378 Veronica Drake  550, 1301 Young St, Dallas, Tx 752025433
+TX West 2015/8/28 o a 24.7 25.6 Blue M30-989958 Lana Gamble  10222 San Pedro Ave, San Antonio, Tx 782163820
+TX West 2015/6/28 p k 26.2 -1 Red A05-419426 Juan Gomez  Ste 200, 2009 W Jefferson, Harlingen, Tx 785505292
+TX West 2015/4/4 p k 24 -1 Blue U02-611117 Lisa Herron  Ste 500, 12790 Merit Drive, Dallas, Tx 752519400
+TX West 2015/2/3 o a 30 36.4 Orange M30-731401 Julie Hubbard  3250 Craig Drive, Mckinney, Tx 750704537
+TX West 2015/7/19 y u 25.7 31.8 Red M15-386147 Ronald Jesz  Rm 809, 1301 Young St, Dallas, Tx 752025433
+TX West 2015/4/28 p a 5.7 -1 Blue M15-625071 Chad Long  Rm 550, 1301 Young St, Dallas, Tx 752025433
+TX West 2015/5/22 y a 30.2 33.2 Yellow A05-236932 Domingo Mata  215 Calle Del Norte, Laredo, Tx 780419130
+TX West 2015/3/29 y u 22 22 Indigo M30-786677 Heather Nagy  1301 Young St, Ste 500, Dallas, Tx 752025433
+TX West 2015/1/31 y u 2.4 2.8 Orange M15-942944 Thuc-Huyen-T Nguyen  1301 Young St, Ste 640, Dallas, Tx 752025433
+TX West 2015/2/28 p u 20.1 -1 Green A05-483875 Martin Olguin  2005 W Jefferson Ave, Harlingen, Tx 785505280
+TX West 2015/1/2 y u 26.1 28.4 Orange A05-460892 Jackie Sledge  1202 E South 11Th St, Abilene, Tx 796024223
+TX West 2015/3/6 M u 34.6 37.1 Green U02-834217 Zipporah Westbrook  1509 Sedberry Street, Marshall, Tx 756701297
+TX West 2015/6/4 p a 9.6 -1 Green M30-443105 Elliot Williams  3300 Watters Road, Pasadena, Tx 775042013
+TX West 2015/5/29 y a 28.8 41.2 Blue M15-371984 Linda Witherspoon  2201 Colorado Blvd, Denton, Tx 762057523
+UT West 2015/2/25 p a 33.4 -1 Indigo M15-523516 Cassandra Herrick  Wallace F Bennett Fed Bldg, 125 S State Street Rm 3102, Salt Lake City, Ut 841381107
+WA West 2015/5/24 o k 15.2 18 Yellow U02-673530 William Chin  Ste 100, 636 120Th Ave Ne, Bellevue, Wa 980053028
+WA West 2015/8/19 y a 33.3 36.3 Red A05-807065 Martin Doyle  151 Sw 156 Street, Burien, Wa 981664503
+WA West 2015/4/29 y u 23.1 23.2 Yellow A05-338905 Jill Gordon  Ste A, 710 E College Way, Mount Vernon, Wa 982735563
+WA West 2015/1/2 p a 26.6 -1 Red A05-883334 Elaine Gualtieri  Ste 2900, 701 Fifth Ave, Seattle, Wa 981047075
+WA West 2015/3/8 o k 23.8 27.1 Violet A05-589170 Marsha Jollensten  13510 Aurora Ave N, Ste B, Seattle, Wa 981337522
+WA West 2015/4/2 y u 18.1 18.7 Orange A05-324862 Travis Leifeste  9594 Mickelberry Rd Nw, Silverdale, Wa 983838339
+WA West 2015/6/17 o a 14.4 14.9 Yellow M15-933520 Peou Lim  9594 Mockelberry Road Nw, Silverdale, Wa 983838339
+WA West 2015/2/14 y k 10.1 11.5 Indigo M15-365761 William Louden  Ste 2900 Ms 302B, 701 Fifth Ave, Seattle, Wa 981047075
+WA West 2015/3/22 o u 31.9 37.1 Red M30-551626 Pete Magyari  Studio 6, 1901 C Street Sw, Auburn, Wa 980017426
+WA West 2015/8/22 y k 24.9 29.7 Blue M30-792668 Linda Shaw  Ste 2900 Columbia Tower, 701 Fifth Ave, Seattle, Wa 981047097
+WA West 2015/5/20 y u 10.3 10.5 Indigo U02-280295 Kriste Stern  Suite A, 2608 S 47Th Street, Tacoma, Wa 984096425
+WA West 2015/6/16 p u 24.7 -1 Red U02-383401 Keri Thompson  Ste 2900 Ms904, 701 Fifth Ave, Seattle, Wa 981047075
+WY West 2015/6/23 y u 9 10.1 Red M30-901074 Faye Kaiser  Ste 140, 3001 E Pershing Blvd, Cheyenne, Wy 820015712
+AK West 2015/7/30 y k 24.7 24.9 Violet A05-268238 Edgar Mojica  Room 138, 101 12Th Ave, Fairbanks, Ak 997016237
+AZ West 2015/3/23 y a 21.8 23.6 Violet M30-541862 Cynthia Cross  Ste 200, 3737 N 7Th Street, Phoenix, Az 850145069
+AZ West 2015/4/21 y u 31 35.4 Blue U02-326873 Kacie Mas  Ste B, 16241 N Tatum Blvd, Phoenix, Az 850323441
+AZ West 2015/5/27 y k 21.2 22.8 Indigo M15-447881 Josephine Rice  Ste 265, 201 N Bonita Ave, Tucson, Az 857453027
+AZ West 2015/6/2 p u 24.5 -1 Violet M30-764751 Linda Woodbeck  Suite 200, 3737 N 7Th St, Phoenix, Az 850145069
+CA West 2015/8/18 y k 18.4 20.1 Green A05-796087 Maria Ballon  8505 Aero Drive, San Diego, Ca 921231722
+CA West 2015/6/27 o k 28.9 31.2 Blue A05-769452 Penelope Baumann  367 Via Vera Cruz, San Marcos, Ca 920782619
+CA West 2015/5/23 o a 22.4 23 Indigo M30-856988 Douglas Brown  1098 Valencia Street, San Francisco, Ca 941102427
+CA West 2015/6/2 y a 10.4 11 Yellow U02-813356 Matt Burris  Ste 5300, 501 W Ocean Blvd, Long Beach, Ca 908024228
+CA West 2015/1/1 y k 20.7 21 Yellow M30-950747 Artina Chambers  1301 Clay Street, 200 N, Oakland, Ca 946125232
+CA West 2015/7/10 o a 22 24.2 Orange M30-594713 Jeff Corey  Ste 200, 601 Allerton, Redwood City, Ca 940631592
+CA West 2015/1/19 y u 5.1 6.6 Violet A05-450490 Melody Davis  1122 N Vine St, Los Angeles, Ca 900381616
+CA West 2015/1/11 y k 1.5 1.6 Indigo M15-425154 April Doyle  890 W Morton Ave, Porterville, Ca 932573132
+CA West 2015/6/21 p k 19.8 -1 Yellow M15-402841 Carina Echeverria  2160 S El Camino Real, Oceanside, Ca 920546203
+CA West 2015/1/7 p u 7.7 -1 Indigo U02-615889 Edna Fong  3Rd Fl, 1221 Nevin Ave, Richmond, Ca 948013123
+CA West 2015/7/14 o Z 8 11 Violet M15-496221 Olivia Hamud  2216 W Beverly Blvd, Montebello, Ca 906402302
+CA West 2015/8/12 p a 20.6 -1 Yellow A05-712088 Janet Hankin  Ste 410N, 1301 Clay St, Oakland, Ca 946125219
+CA West 2015/2/20 p u 34 -1 Violet A05-633750 Gary Hazel  2Nd Fl Computer Rm, 1221 Nevin Ave, Richmond, Ca 948013123
+CA West 2015/6/27 o u 14.8 16 Indigo M30-539796 Dawn Heywood  11855 Edgewood Road, Auburn, Ca 956033407
+CA West 2015/7/29 o k 32.5 37.6 Blue M15-262101 Tamara Hofelich  Ste 2, 46-845 Monroe St, Indio, Ca 922015566
+CA West 2015/7/29 y u 25.8 36 Blue A05-698848 Jeffrey Jesmok  Cps/6Th Fl, 1221 Nevin Ave, Richmond, Ca 948013123
+CA West 2015/2/20 o a 14.7 15.1 Red M15-504037 Joseph Kent  3240 S Higuera St, San Luis Obispo, Ca 934016920
+CA West 2015/1/14 y k 18.6 19.2 Yellow M30-541093 Casey Kim  4000 Wilshire Blvd, Los Angeles, Ca 900103402
+CA West 2015/8/3 y a 14.8 15.7 Indigo A05-459245 Edward Lazell  1221 Nevin Ave, 6Th Flr, Richmond, Ca 948013123
+CA West 2015/4/22 p a 33.1 -1 Green M30-865720 Vester Levingston  Ste 400, 12121 Wilshire Blvd, Los Angeles, Ca 900251268
+CA West 2015/1/9 p a 30.4 -1 Green A05-441941 Raymond Loesch  1122 W Washington Blvd, Ste 201, Los Angeles, Ca 900153364
+CA West 2015/6/1 o a 10.3 11.7 Green M30-551684 Won Loh  Fhfb Rocc 2Nd Floor, 1221 Nevin Ave, Richmond, Ca 948013123
+CA West 2015/1/22 o a 34.6 35.6 Blue U02-496191 Walter Magallon  1333 Front St, San Diego, Ca 921013603
+CA West 2015/1/2 o a 11.3 12 Red M15-856760 Jo-Ann-A Magpusao  Salinas Teleservice Ctr, 100 E Alvin Drive, Salinas, Ca 939062404
+CA West 2015/8/3 o u 12.7 13 Red M30-912912 Charles Melvin  3144 Broadway, Eureka, Ca 955013838
+CA West 2015/7/20 y a 7.1 9.4 Orange M30-812360 Travis Mundy  2424 Arden Way Suite 200, Sacramento, Ca 958252460
+CA West 2015/4/21 o u 19.2 22.3 Indigo A05-324306 Mark Newe  26051 Acero Rd, Mission Viejo, Ca 926912784
+CA West 2015/5/16 o a 16.1 19.1 Blue M15-475019 Maria Perez  2005 Long Beach Blvd, Long Beach, Ca 908064905
+CA West 2015/7/12 y k 5.6 5.8 Orange A05-899156 Rachel Pugh  800 S Claremont St, Ste 101, San Mateo, Ca 944021449
+CA West 2015/6/11 p k 28.7 -1 Yellow U02-828281 Gloria Rodriguez  1059 First St, Gilroy, Ca 950204817
+CA West 2015/1/24 p a 34.1 -1 Indigo A05-979969 Luis Salas  3840 Crenshaw Blvd, Los Angeles, Ca 900081821
+CA West 2015/8/11 y u 27.4 32.1 Orange M15-359631 Pamela Schwarz  Ste B, 17075 Newhope St, Fountain Valley, Ca 927084299
+CA West 2015/6/24 y k 4.7 6.4 Violet U02-843533 Patricia Talamantez  104 N Mentor Ave, Pasadena, Ca 911061711
+CA West 2015/5/11 o u 4.4 4.5 Red M15-290844 Louise Vanderven  910 Cirby Way, Roseville, Ca 956614481
+CA West 2015/7/10 p u 6.8 -1 Yellow M30-283605 Alex Vega  Suite 300, 22690 Cactus Avenue, Moreno Valley, Ca 925539024
+CA West 2015/4/7 o k 21.3 21.6 Violet U02-779317 Cindy Velasquez  2575 Haley Street, Bakersfield, Ca 933052836
+CA West 2015/5/21 o k 26.3 27.1 Red M30-634746 Teresa Villalpando  3164 Garrity Way, Richmond, Ca 948061983
+CA West 2015/1/5 p u 33.6 -1 Violet U02-371361 Stacy Wadley  Rm 230, 4040 Civic Center Dr, San Rafael, Ca 949034195
+CA West 2015/4/9 y k 6.9 7.4 Green M30-324737 Mary Walter  Suite 1, 6477 Telephone Road, Ventura, Ca 930034459
+CO West 2015/8/6 p u 33.7 -1 Violet M30-322209 David Benn  115 N 10Th Street, Canon City, Co 812123460
+CO West 2015/1/22 p k 34.4 -1 Yellow M15-459742 Pamela Cotton  07/01/103, 1961 Stout St, Denver, Co 802941961
+CO West 2015/2/12 p u 27.7 -1 Yellow M30-796481 Jacqueline Detmer  13151 W Alameda Pkwy, Lakewood, Co 802283108
+CO West 2015/1/23 y u 21.5 21.8 Violet U02-399631 Shayla Hadley  1049 N Academy Blvd, Colorado Springs, Co 809094401
+CO West 2015/4/22 y a 33.7 40.8 Blue M15-927904 Angela Hardin  07/01/100, 1961 Stout Street, Denver, Co 802941961
+CO West 2015/8/18 y a 24.1 28.7 Green U02-482068 Philip Mocon  07/01/135, 1961 Stout St, Denver, Co 802941961
+CO West 2015/1/20 p u 18.4 -1 Violet U02-750800 Leslie Montoya  3769 Parker Ave, Pueblo, Co 810082218
+CO West 2015/1/16 p a 33.9 -1 Indigo A05-912393 Sandy Morgan  07/01/117, 1961 Stout St, Denver, Co 802941961
+CO West 2015/1/23 y k 3 3.2 Yellow M15-512037 Edward Sandrowski  06/01/145, 1961 Stout St, Denver, Co 802941961
+CO West 2015/8/17 y a 3.6 3.7 Violet U02-369424 Bethany Wolf  Suite 101, 201 14Th St, Glenwood Springs, Co 816014290
+HI West 2015/6/4 o u 31.9 40 Violet A05-365848 Emilou Mikami  Room 1-204, 300 Ala Moana Blvd, Honolulu, Hi 968501204
+HI West 2015/2/7 y k 29.7 39.4 Orange A05-634249 Malia Taylor  Room 1-114, 300 Ala Moana Blvd, Honolulu, Hi 968501114
+ID West 2015/1/5 y u 3.7 4.7 Blue M30-595825 Brenda Steinbach  623 E Wallace Ave, Coeur D Alene, Id 838142957
+KS West 2015/8/15 p a 27 -1 Yellow M30-303433 James Brown  Suite A, 2125 N Penn Ave, Independence, Ks 673012142
+KS West 2015/7/15 y a 7 7 Green M15-995954 Richard Fowler  2204 Summerlon Circle, Dodge City, Ks 678012985
+KS West 2015/6/24 o a 19.8 22.9 Indigo M30-888685 Norman Franker  1440 Wakarusa Dr Ste 200, Lawrence, Ks 660493879
+KS West 2015/8/17 o a 32.6 34.7 Indigo A05-384057 Jennifer Rose  Ste A, 1121 Hudson Ave, Manhattan, Ks 665039921
+MO West 2015/7/19 y k 14.9 17.9 Violet M30-258071 Jason Albers  Room 1100 City Center Square, 1100 Main St, Kansas City, Mo 641052120
+MO West 2015/3/15 M k 22.3 22.6 Yellow M30-434646 Jason Brown  3404 W 10Th St, Sedalia, Mo 653012198
+MO West 2015/3/29 y u 21.5 30.4 Green M15-290611 Karen Crittenden  800 South Bypass, Kennett, Mo 638573245
+MO West 2015/6/29 p k 26.8 -1 Yellow U02-508180 Nekosher Dillard  Richard Bolling Federal Bldg, 601 E 12Th St, Kansas City, Mo 641062818
+MO West 2015/7/1 o a 29.7 32.5 Orange M30-984657 Deborah Frank  Rm 1302, 601 E 12Th Street, Kansas City, Mo 641062818
+MO West 2015/3/21 p u 32.1 -1 Green M30-905951 Keely Griffin  1100 Main St Ste 1100, Kansas City, Mo 641055146
+MO West 2015/1/1 y u 35.5 48.1 Violet M30-829406 Le'Ah Gruber  Ste 5, 43 Prairie Dell Plaza, Union, Mo 630844341
+MO West 2015/1/5 y k 6.7 6.7 Indigo M30-954483 Deborah Iser  Rm 1102, 601 E 12Th, Kansas City, Mo 641062818
+MO West 2015/6/5 y k 34 45.2 Yellow A05-417483 Jo Kase  711 York Drive, Sikeston, Mo 638013309
+MO West 2015/8/12 y u 27.6 36.1 Orange A05-474968 Marilyn Keck  Ste 1071, 601 E 12Th St, Kansas City, Mo 641062818
+MO West 2015/8/12 o k 8.2 10.5 Orange A05-542274 Carolyn Lammert  1285 Fern Ridge Parkway, Creve Coeur, Mo 631414402
+MO West 2015/2/12 o k 31 34.3 Indigo U02-534926 Austin Mcguffee  Ste C, 2143 E Primrose, Springfield, Mo 658044586
+MO West 2015/5/15 o a 35.4 37.5 Indigo M15-971547 Michael Morton  Rm 1008, 601 E 12Th St, Kansas City, Mo 641062818
+MO West 2015/8/7 o a 8.2 8.2 Blue M15-954471 Paula O-Brien  601 E 12Th St Ste 850, Kansas City, Mo 641062817
+MO West 2015/5/1 y k 15.4 20 Red A05-572371 Carmen Perez  Bldg 735, 601 E 12Th Street, Kansas City, Mo 641062818
+MO West 2015/8/3 o k 19.8 20.4 Yellow A05-295660 Crystal Sigg  601 E 12Th Street, Kansas City, Mo 641062818
+MO West 2015/1/27 y k 23.1 27.7 Green M30-585072 Michelle Storzer  3402 Buttonwood Drive, Columbia, Mo 652013718
+MO West 2015/7/1 o u 31 36 Orange A05-823870 Nikki Thomas  5669 Delmar Blvd, Saint Louis, Mo 631122615
+MT West 2015/7/27 p k 5.4 -1 Red M15-951739 Amy Gordon  3701 American Way, Missoula, Mt 598081952
+MT West 2015/1/7 y k 17.9 23.5 Violet U02-354813 Linda Madsen  Ste 500, 2900 4Th Ave N, Billings, Mt 591011271
+ND West 2015/4/24 p k 20.1 -1 Blue U02-449435 Shannon Marquart  1414 20Th Ave Sw, Minot, Nd 587016454
+NE West 2015/3/27 p u 29.1 -1 Violet A05-899109 Melissa Claussen  Ste 1, 115 N Webb Rd, Grand Island, Ne 688034053
+NM West 2015/5/6 p k 17.9 -1 Blue A05-449929 Gabriel Guzman  Po Box 31470, Albuquerque, Nm 871901470
+NM West 2015/5/19 p k 25.1 -1 Orange U02-321150 Daniel Herman  501 E Bender, Hobbs, Nm 882402318
+NM West 2015/7/26 p a 33.3 -1 Orange M15-643122 Katherine Jaramillo  Rm 200, 555 Broadway Blvd Ne, Albuquerque, Nm 871022362
+NV West 2015/3/31 o a 32.6 35 Violet M15-870654 Peggy Stauffer  Ste 100, 1250 S Buffalo Drive, Las Vegas, Nv 891178328
+NV West 2015/5/16 o a 7.3 7.3 Red U02-752270 Daryll Wadlington  Suite 100, 1250 S Buffalo Dr, Las Vegas, Nv 891178328
+OR West 2015/6/8 y k 5.8 5.9 Red A05-796242 Theresa Quade  Ste 100, 336 Sw Cyber Dr, Bend, Or 977021684
+OR West 2015/7/8 p k 24.4 -1 Violet M15-354435 Violeta Vega  Ste 101, 3501 Excel Drive, Medford, Or 975048067
+TX West 2015/5/4 p k 4.5 -1 Violet A05-820725 Laura Aguilar  600 Texas Ave, El Paso, Tx 799011429
+TX West 2015/6/18 p k 28.9 -1 Indigo M15-481504 Eric Alfaro  5826 16Th St, Lubbock, Tx 794165126
+TX West 2015/8/9 p k 6.9 -1 Violet M30-608008 Jason Arrington  Rm A938, 1301 Young St, Dallas, Tx 752025433
+TX West 2015/2/26 o a 14.1 14.6 Blue M15-651811 Wanda Bush  1301 Young St, Suite A823, Dallas, Tx 752025433
+TX West 2015/6/30 o u 23 25.9 Violet M30-810285 Joseph Chavez  11111 Gateway Blvd West, El Paso, Tx 799355401
+TX West 2015/2/16 y u 33.6 38.7 Orange U02-947464 Deborah Christopher  9945 Bissonnet St, Houston, Tx 770368203
+TX West 2015/7/29 y u 13.4 15.5 Violet M30-606173 Kimberly Elder  2010 N. Highway 360, Grand Prairie, Tx 750501423
+TX West 2015/1/9 p k 17.5 -1 Green U02-615999 Mary Fabila  400 S Garland, Plainview, Tx 790729507
+TX West 2015/7/14 y a 24.5 30.1 Indigo M30-261635 Erica Figueroa  2717 Terrell Rd, Greenville, Tx 754027302
+TX West 2015/5/1 p a 8.3 -1 Red A05-347153 Enedina Gonzales  2901 Alta Mesa Blvd, Fort Worth, Tx 761335711
+TX West 2015/3/3 p k 33.9 -1 Blue A05-597395 Laura Guzman  3438 E Southcross Blvd, San Antonio, Tx 782231633
+TX West 2015/3/7 o u 28.5 30.9 Yellow A05-317788 Julie Hahn  221 S 45Th Street, Corsicana, Tx 751103830
+TX West 2015/3/13 y a 31.8 36.1 Blue M15-669865 Shelley Hallman  2851 Southwest Blvd, San Angelo, Tx 769045776
+TX West 2015/1/13 p a 32.7 -1 Indigo M15-433705 Shemeya Harmon  16200 Dillard Dr, Jersey Village, Tx 770402075
+TX West 2015/6/18 p k 19.6 -1 Orange U02-496868 Marietta Holt  Ste 100, 1950 Ne Green Oaks Blvd, Arlington, Tx 760063287
+TX West 2015/3/7 y k 18.2 21.8 Violet A05-439439 Terry Johnson  Rm 400, 1301 Young St, Dallas, Tx 752025433
+TX West 2015/3/11 y a 33.9 34.5 Yellow M30-480801 Alex Juarez  Rm 300, 1301 Young St, Dallas, Tx 752025433
+TX West 2015/8/21 o u 18.4 21.7 Blue M15-433457 Darryl Kalich  927 S State Hwy 123 Byp, Seguin, Tx 781559754
+TX West 2015/3/28 o k 25.7 28.3 Green U02-270614 Curtis Lynch  2921 N Valderas, Angleton, Tx 775152762
+TX West 2015/8/12 p u 30.1 -1 Yellow M15-373738 Andrew Martinez  Room 670, 1301 Young St, Dallas, Tx 752025433
+TX West 2015/8/4 y u 34.8 45.1 Violet M30-937126 Anna Mauch  4314 Wendover St, Wichita Falls, Tx 763094704
+TX West 2015/5/1 p u 4.1 -1 Yellow M30-919852 Debbra Nealy  3231 M L King Jr Blvd, Dallas, Tx 752100000
+TX West 2015/4/3 y u 30.8 35.8 Orange M30-384487 John Nimmer  100 Dean Box Drive, Waxahachie, Tx 751655352
+TX West 2015/8/18 y a 27 36.3 Yellow M30-396958 Thomas Owens  702 East Denman Avenue, Lufkin, Tx 759014861
+TX West 2015/7/30 p u 34.2 -1 Indigo A05-488383 Kimberly Richard  Ste A, 8455 Dishman Road, Beaumont, Tx 777134235
+TX West 2015/7/2 p k 3.4 -1 Red A05-405652 Eloisa Sanchez  2015 E 37Th St, Odessa, Tx 797626212
+TX West 2015/7/30 o k 31.2 41.4 Red A05-311671 Paula Smith  2015 E 37Th St, Odessa, Tx 797626212
+TX West 2015/2/18 p u 27.7 -1 Indigo M15-334380 John Story-Iii  4314 Wendover Street, Wichita Falls, Tx 763094704
+TX West 2015/2/18 p a 31.9 -1 Blue M15-393824 Dorothy Straten  1700 Lake Air Dr Ste A, Waco, Tx 767102978
+TX West 2015/6/22 o a 22.6 25.9 Green U02-866781 Chandra Thomas  611 Clinic Drive, Longview, Tx 756055172
+TX West 2015/1/23 p a 28.1 -1 Green A05-728448 Felicia White  16200 Dillard Drive, Jersey Village, Tx 770402075
+TX West 2015/2/4 p u 12.4 -1 Green A05-721193 Kellye Zackery  Rm A908, 1301 Young St, Dallas, Tx 752025433
+WA West 2015/7/12 y k 8.8 11.4 Blue M15-932242 Rachel Churchward  3809 Broadway Ave, Everett, Wa 982015031
+WA West 2015/7/25 p k 17.5 -1 Red M15-757669 Janice Duvall  Ste 2900 Ms 291B, 701 5Th Ave, Seattle, Wa 981047075
+WA West 2015/6/3 p a 8 -1 Violet U02-734655 Paul Flores  Suite B, 13510 Aurora Ave N, Seattle, Wa 981337522
+WA West 2015/1/28 y k 21 24.6 Violet M15-771887 Tina Gordon  880 Ne Rose St, College Place, Wa 993242001
+WA West 2015/8/18 p a 8.8 -1 Red A05-969113 Yoo Kim  9Th Floor, 915 Second Avenue, Seattle, Wa 981741009
+WA West 2015/3/25 p u 20.9 -1 Blue M15-820494 Amy-E-N Morgan  Ste 2900, 701 5Th Avenue, Seattle, Wa 981047075
+WA West 2015/6/11 p u 31.4 -1 Violet A05-824045 Kathryn Richardson  Suite 200, 714 North Ironbridge Way, Spokane, Wa 992024929
+WA West 2015/4/22 y u 10.1 11.9 Green M30-592228 Katherine Ruban  Ste 401, 321 Ramsay Way, Kent, Wa 980324544
+AK West 2015/1/31 y k 34.7 35 Yellow M15-447155 Alexandra Wormuth  188 W Northern Lights Blvd Ste 610, Anchorage, Ak 995033984
+AZ West 2015/3/21 o k 6.1 6.3 Indigo A05-813095 Jill Dyer  205 N Marina Street, Prescott, Az 863013105
+AZ West 2015/3/11 p k 8.6 -1 Violet U02-384340 Barbara Robello  702 W Jerome Ave, Mesa, Az 852105992
+CA West 2015/4/23 y a 14.4 21 Yellow M15-437149 Sarah Arnold  Suite 155, 928 E Blanco Rd, Salinas, Ca 939014462
+CA West 2015/3/26 o a 8.9 10.8 Orange U02-293959 Arlene Chavez  3Rd Flr, 1001 Lootens Place, San Rafael, Ca 949013112
+CA West 2015/3/19 y k 30.5 38 Red U02-589889 Hung Hinh  1165 E Route 66, Glendora, Ca 917403703
+CA West 2015/1/11 o u 13.1 13.1 Orange M30-397304 Katherine Kane  3240 S Higuera St, San Luis Obispo, Ca 934016920
+CA West 2015/5/18 p u 14 -1 Red U02-662841 Martha Marzigliano  171 East Compton Blvd, Compton, Ca 902202410
+CA West 2015/3/12 o k 12.8 15 Indigo M30-457809 Patricia Mrofka  2660 Park Marina Dr Ste A, Redding, Ca 960012848
+CA West 2015/7/6 o a 3.1 3.4 Orange M30-708220 Kenneth Pezzotti  Frank Hagel Federal Building, 1221 Nevin Ave, Richmond, Ca 948013123
+CA West 2015/3/22 y a 20.4 21.1 Red M15-459938 Steve Ponzio  1059 First St, Gilroy, Ca 950204817
+CA West 2015/6/24 o a 20.2 24.6 Indigo A05-502665 Maria Schlosser  510 Commerce Ct, Manteca, Ca 953365067
+CA West 2015/5/2 o u 12 14.8 Violet U02-794229 Joseph Spanish  Suite 101, 605 N Arrowhead Ave, San Bernardino, Ca 924011157
+CA West 2015/1/25 y a 26.4 30.7 Green U02-546807 William Topf  Room A, 2099 Range Ave, Santa Rosa, Ca 954013518
+CA West 2015/2/6 y a 4.7 5 Red M15-638486 Melina Uchytil  Ste 180, 1111Civic Drive, Walnut Creek, Ca 945963893
+CA West 2015/5/2 y a 34.5 35.6 Orange A05-517047 Paul Vu  Ste 500, 1851 East First Street, Santa Ana, Ca 927054070
+CO West 2015/8/28 y u 5.7 6 Red M30-968586 Juan Sanchez  Ste 4147, 1961 Stout Street, Denver, Co 802944000
+HI West 2015/3/16 p k 18.6 -1 Blue M15-750486 Valerie Smith  Room 3 303, 300 Ala Moana Blvd, Honolulu, Hi 968503303
+KS West 2015/4/7 o u 3.6 3.9 Violet M30-425396 Katherine Komer  15375 W 95Th St, Lenexa, Ks 662191262
+KS West 2015/8/30 y u 17.5 17.8 Blue M15-251660 Jennifer Spencer  Suite A, 3712 Sw Burlingame Rd, Topeka, Ks 666091299
+MO West 2015/5/12 o u 25.4 27.3 Green A05-419300 Kimberley Kieffer  Rm 735, 601 E 12Th St, Kansas City, Mo 641062818
+MO West 2015/6/16 o a 9.4 14 Red A05-529400 Cynthia Ragland  Rm 1065, 601 E 12Th St, Kansas City, Mo 641062818
+NM West 2015/3/25 y k 33.3 46.4 Orange A05-370472 Heather Billings  Ste 400, 201 3Rd St Nw, Albuquerque, Nm 871023331
+NM West 2015/1/23 y V 21.9 22.6 Green M15-416475 Nadine Clark  4300Cutler Ne, Albuquerque, Nm 871103987
+NM West 2015/5/17 p u 36 -1 Indigo A05-362006 James Sandoval  4433 Jager Dr Ne, Rio Rancho, Nm 871447601
+OK West 2015/6/30 y k 30 37.6 Orange M15-381097 Janie Coburn  2401 W. Shawnee, Muskogee, Ok 744012275
+OK West 2015/6/12 o a 7.5 8.6 Red M30-990467 Kimberly Graham  2108 Denver Harnar Dr, Miami, Ok 743544003
+OK West 2015/8/14 p u 24 -1 Orange A05-928967 Nancy Shaw  Room 300, 301 North West 6Th Street, Oklahoma City, Ok 731022822
+OR West 2015/6/17 y u 22.5 24.4 Red U02-509729 Karen Colebank  17Th Flr, 601 Sw Second Ave, Portland, Or 972043168
+OR West 2015/2/15 o k 19.9 22.9 Green U02-293726 Dawn Stone  Suite 110, 1750 Mcgilchrist St Se, Salem, Or 973021691
+SD West 2015/8/21 o k 4.4 5.5 Green M30-268137 Elizabeth Decker  1720 South Southeastern Ave, Sioux Falls, Sd 571038201
+TX West 2015/7/8 o k 3.4 4.5 Appleblossom U02-722737 James Dobbins  4747 Bellaire Blvd, Ste 400, Bellaire, Tx 774014520
+TX West 2015/3/5 o k 31.8 45 Violet U02-994569 Linda Gilbert  Suite 460, 1301 Young Street, Dallas, Tx 752025433
+TX West 2015/5/25 y a 29.2 36.3 Yellow A05-727466 Kristen Jennings  221 S 45Th Street, Corsicana, Tx 751103830
+TX West 2015/4/19 y u 15 15.4 Orange U02-630353 Luis Martinez  1301 Young St, Rm 410, Dallas, Tx 752025433
+TX West 2015/3/29 o k 22.5 22.8 Blue U02-394068 Alec Shepherd  411 Richland Hills Dr, San Antonio, Tx 782452495
+TX West 2015/7/5 p a 9.5 -1 Violet A05-820535 Patricia Wheeler  927 S State Hwy 123 Byp, Segun, Tx 781550000
+WA West 2015/3/14 p a 9.8 -1 Blue A05-810853 K Barton  Ste 200, 714 North Ironbridge Way, Spokane, Wa 992024929
+WA West 2015/1/24 y u 16.1 19.1 Violet U02-783728 David Brown  2608 South 47Th Street, Ste A, Tacoma, Wa 984096425
+WA West 2015/4/22 p k 23.3 -1 Blue A05-378464 Kevin Link  Ste 2900 Columbia Center, 701 Fifth Ave, Seattle, Wa 981047097
+WA West 2015/4/4 y a 10.2 10.2 Violet U02-310311 Francisca Martinez  Suite 100, 636 120Th Ave Ne, Bellevue, Wa 980053028
+WA West 2015/2/24 y k 17.9 19.5 Green M30-848145 Lam Tran  Ste 2900 Ms 351A, 701 5Th Ave, Seattle, Wa 981047075
+AZ West 2015/3/21 o k 24.8 27 Red M15-906445 James Barney  Ste 407, 2500 E Cooley, Show Low, Az 859015271
+AZ West 2015/3/3 y u 27 34.9 Yellow M30-244422 Arthur Meza  Ste 210, 250 N 7Th Avenue, Phoenix, Az 850072755
+AZ West 2015/8/1 p k 5.5 -1 Orange M15-630076 Stephanie Petford  3808 N First Avenue, Tucson, Az 857191304
+AZ West 2015/3/8 p u 16.7 -1 Blue U02-592218 Inez Yanora  253 W Superstition Blvd, Apache Junction, Az 851204125
+CA West 2015/2/24 p u 12.2 -1 Indigo U02-321897 Amy Allen  6Th Fl, 1221 Nevin Ave, Richmond, Ca 948013123
+CA West 2015/2/27 y k 10.2 10.7 Indigo A05-511454 Celia Andrino  355 Paseo Nuevo, Santa Barbara, Ca 931013383
+CA West 2015/8/3 p k 24.7 -1 Green U02-963232 Cheryl Bernal  16Th Fl, 301 Howard St, San Francisco, Ca 941052252
+CA West 2015/8/20 p a 34.9 -1 Green M15-781435 Nickolaus Cabrera  2500 Fontaine Rd, San Jose, Ca 951212131
+CA West 2015/2/18 y u 4.2 4.7 Red M15-696260 Brad Castleman  Suite 300, 22690 Cactus Avenue, Moreno Valley, Ca 925539024
+CA West 2015/1/28 y a 4.8 5.2 Violet M15-895926 Joseph Castor  355 Paseo Nuevo, Santa Barbara, Ca 931013383
+CA West 2015/4/2 o a 17.2 17.6 Violet U02-445551 Scott Chung  Ste 100, 3116 W March Lane, Stockton, Ca 952192374
+CA West 2015/3/1 y u 25.1 32.8 Blue M15-767073 Nancy Dominguez  456 San Fernando Mission Blvd, San Fernando, Ca 913403542
+CA West 2015/7/11 o u 23.2 27.9 Indigo U02-437764 Alma Echeverria  6303 Rugby Ave, Huntington Park, Ca 902554002
+CA West 2015/7/24 o k 25.1 27.5 Blue M15-968282 Peggy Francis  2Nd Floor, 601 Allerton Street, Redwood City, Ca 940631591
+CA West 2015/3/27 p a 11 -1 Violet M30-410595 Miguel Garibay  Suite 101, 330 N Harris St, Hanford, Ca 932303980
+CA West 2015/8/26 y u 31.9 34.6 Violet A05-370862 Lori Gov  9351 Telstar Ave, El Monte, Ca 917312815
+CA West 2015/7/30 o u 18.5 20.3 Blue U02-653504 Ella Griffin  Rm 1200, 606 S Olive St, Los Angeles, Ca 900141663
+CA West 2015/6/21 y k 4.9 5.8 Blue M15-277492 Maria Gudino  12429 S Avalon Blvd, Los Angeles, Ca 900612709
+CA West 2015/1/2 o a 21.1 27.4 Orange A05-485542 Anne Hang  4000 Wilshire Blvd, Los Angeles, Ca 900103402
+CA West 2015/4/29 p a 7.8 -1 Red M30-340349 Coral Hanson  1502 Bailey Ave, Needles, Ca 923633112
+CA West 2015/7/12 o u 23.4 30.6 Red M30-597316 Anne Hiura  1122 N Vine St, Hollywood, Ca 900381616
+CA West 2015/5/7 p k 16.3 -1 Yellow M30-450366 Rosa Holper  17075 Newhope St, Ste B, Fountain Valley, Ca 927084299
+CA West 2015/2/7 o a 9.2 13.5 Yellow M30-773411 Lisa Hughes  10668 Sierra Ave, Fontana, Ca 923377512
+CA West 2015/2/24 y a 13.1 14.1 Red M30-765500 Jeffrey Inabnit  600 W Olive Ave, Merced, Ca 953482423
+CA West 2015/7/22 y k 19.2 24 Blue M30-907347 Thien Khuu  24301 Southland Drive, Ste 500, Hayward, Ca 945451552
+CA West 2015/4/19 o k 19.8 20.9 Indigo M15-671341 Yee Kwong  R6 Sst, 1221 Nevin Ave, Richmond, Ca 948013123
+CA West 2015/1/22 p k 18.4 -1 Red M30-622073 Elbert Lee  6Th Floor, 1221 Nevin Ave, Richmond, Ca 948013123
+CA West 2015/1/6 p a 9.7 -1 Indigo M30-521194 Lance Lee  11900 Gilbert Street, Garden Grove, Ca 928412703
+CA West 2015/6/8 y k 5.5 6.1 Blue M30-400330 Erika Leonard  6140 Cottle Road, San Jose, Ca 951235103
+CA West 2015/7/16 p a 3.1 -1 Blue A05-340403 Sharlene Lew  6140 Cottle Rd, San Jose, Ca 951235103
+CA West 2015/7/22 o u 3.1 3.1 Green M15-290022 Janice Liu  215 N Soto Street, Los Angeles, Ca 900332914
+CA West 2015/8/22 p u 29.2 -1 Green A05-646075 Mattie Mitchell  Room 200, 2100 Franklin, Oakland, Ca 946123097
+CA West 2015/6/5 p k 24.1 -1 Violet U02-593454 Vesna Moreland  230 East Spruce Avenue, Inglewood, Ca 903012709
+CA West 2015/1/19 p a 6.2 -1 Blue A05-368720 Keri Murphy  56492 Twentynine Palms Hwy, Yucca Valley, Ca 922840000
+CA West 2015/7/5 y k 20.8 27 Orange M30-655016 Fernando Peralta  Ste 100, 3100 Mowry Ave, Fremont, Ca 945381509
+CA West 2015/5/19 o k 16.2 16.2 Yellow M30-577273 Gregory Ricks  360 22Nd St Ste 400, Oakland, Ca 946123029
+CA West 2015/8/13 y a 25.6 26.3 Yellow A05-506591 Vicki Ryals  Ste 900N, 1301 Clay Street, Oakland, Ca 946125252
+CA West 2015/1/8 o k 3 3.3 Yellow M30-513574 Mark Schaub  560 E Hoover Ave, Crescent City, Ca 955312442
+CA West 2015/8/8 M a 10.5 10.7 Orange M15-887239 Julie Trinh  22815 Calle San Juan De Los Logos, Moreno Valley, Ca 925539046
+CA West 2015/7/28 p a 29.5 -1 Violet M30-299995 Jason Welsh  355 Paseo Nuevo, Santa Barbara, Ca 931013383
+CA West 2015/3/10 y a 10 11.6 Indigo M30-600730 Eleanor Young-Smith  1221 Nevin Ave, Richmond, Ca 948013123
+CO West 2015/4/10 p u 27.8 -1 Green A05-897659 Sukey Austin  4Th Floor, 301 S Howes Street, Fort Collins, Co 805212715
+CO West 2015/6/1 p u 15.8 -1 Violet A05-686316 Yolanda Cruz  Ste 401, 111 So Tejon Street, Colorado Springs, Co 809035116
+CO West 2015/5/28 y k 9.1 11.1 Blue A05-727225 Kathy Davidson  Ste 600, 1244 N Speer Blvd, Denver, Co 802043584
+CO West 2015/6/10 y k 19.9 20.6 Green A05-777907 Jeanne Dillon  07/01/145, 1961 Stout St, Denver, Co 802941961
+CO West 2015/1/21 M u 8.2 11.5 Yellow U02-499658 Ryan Eisenbarth  06/01/136, 1961 Stout St, Denver, Co 802941961
+CO West 2015/6/27 y k 23.8 29.8 Red M15-499658 Carolyn Hawkins  Ste 752, 1244 N Speer Blvd, Denver, Co 802043584
+CO West 2015/3/9 o k 8.4 9.3 Yellow M15-408075 Mark Prendergast  1049 N Academy Blvd, Colorado Springs, Co 809094401
+CO West 2015/2/2 o u 28.6 32.8 Green A05-245006 Nolan Russell  1805 Pavilion Dr, Montrose, Co 814015378
+CO West 2015/6/24 p u 34.5 -1 Yellow M30-694321 Meagan Wiggs  4Th Floor, 301 S Howes Street, Fort Collins, Co 805224002
+HI West 2015/3/18 y a 19 20.7 Indigo M15-630692 Anthony Tarrant  970 Manawai Street, Kapolei, Hi 967074531
+HI West 2015/4/6 p k 31.2 -1 Blue U02-277720 Hung Vu  2200 Main St, Ste 125, Wailuku, Hi 967931643
+HI West 2015/4/26 o u 6.8 9 Orange A05-387044 Tessy Yokota  Rm 1 114, 300 Ala Moana Blvd, Honolulu, Hi 968501114
+KS West 2015/2/11 o a 19.8 21.8 Indigo M15-286664 Lisa Ginzel  Ste A, 3712 Burlingame Rd, Topeka, Ks 666091299
+KS West 2015/4/7 y k 27.4 34.4 Violet U02-668175 Carolyn Sourk  3207 N Cypress Street, Wichita, Ks 672264005
+KS West 2015/4/8 y u 7.7 10.7 Violet M30-890518 Christina Webel  3216 N Cypress St, Wichita, Ks 672264002
+MO West 2015/1/6 o k 7.9 8 Blue U02-464886 Shirlene Atkinson  11753 West Florissant Ave, Florissant, Mo 630336744
+MO West 2015/7/13 p a 29.7 -1 Indigo A05-323772 Dennis Banks  Bolling Bldg Rm 1071, 601 E 12Th St, Kansas City, Mo 641062818
+MO West 2015/8/24 o a 25.5 27.8 Red M30-819900 Sean Brown  1601 Nw Platte Rd, Kansas City, Mo 641508504
+MO West 2015/7/11 o k 21 23.1 Orange M15-283900 Debbie Clifton  Ste 100, 717 N 16Th St, Saint Louis, Mo 631031838
+MO West 2015/5/17 y u 20.8 21.7 Yellow M15-563082 David Cullinane  Rm 1208, 601 East 12Th St, Kansas City, Mo 641062818
+MO West 2015/2/16 p a 21.8 -1 Green M15-458603 Randoe Dice  6320 Euclid Ave, Kansas City, Mo 641321787
+MO West 2015/6/25 o k 5.6 5.8 Red M30-820234 Tina Lombardo  8800 Watson Rd, Saint Louis, Mo 631195268
+MO West 2015/3/9 p u 21.5 -1 Red M30-784828 Marsha Marten  Rm 965, 601 E 12Th St, Kansas City, Mo 641062818
+MO West 2015/5/19 o u 7.8 8.6 Orange A05-484299 Kerry North  Ste 100, 1215 Fern Ridge Parkway, Creve Coeur, Mo 631414405
+MT West 2015/2/5 o k 28.3 30 Indigo A05-555046 Jennifer Samson  Wj Jameson Bldg Ste 500, 2900 4Th Ave North, Billings, Mt 591011266
+NE West 2015/2/11 y k 13.7 15.1 Yellow A05-871192 Susan Lewis  604 N 109Th Ct, Omaha, Ne 681541716
+NE West 2015/5/5 y a 11 12.6 Orange M15-597842 Sheri Olsson  415 Valley View Drive, Scottsbluff, Ne 693611482
+NM West 2015/7/18 p u 16.1 -1 Red U02-581726 Carole Owens  2070 East Aztec Ave, Gallup, Nm 873014804
+NM West 2015/6/13 p a 10 -1 Violet U02-691107 Roselind Valenzuela  1922 Fifth Street, Santa Fe, Nm 875053467
+NV West 2015/8/24 o k 3.5 3.9 Blue A05-773788 Annaliza Gil  4340 Simmons St, North Las Vegas, Nv 890323222
+NV West 2015/1/8 p u 25 -1 Blue M15-987009 Thomas Mcallister  Suite 1010, 300 S 4Th St, Las Vegas, Nv 891016027
+OK West 2015/6/26 o u 18 20.7 Blue M15-696237 Aimee Eaton  524 S 2Nd St, Mcalester, Ok 745015812
+OK West 2015/7/16 o a 20.4 22.3 Blue M15-467859 Lynn Floyd  1610 Sw Lee Blvd, Lawton, Ok 735015616
+OK West 2015/1/24 y a 8.7 9.6 Yellow A05-474131 Christina Grounds  506 W Utah Ave, Chickasha, Ok 730185852
+OK West 2015/2/24 o k 24.7 24.8 Violet A05-702967 Cameron Riggs  909 E Federal, Shawnee, Ok 748044018
+OK West 2015/1/1 p a 29.4 -1 Green U02-932687 Crystal Snider  410 Opal Ave, Clinton, Ok 736014628
+SD West 2015/7/5 o u 34 35.1 Indigo A05-452391 Cindy Hagen  Federal Bldg Rm 111, 115 4Th Ave Se, Aberdeen, Sd 574014310
+SD West 2015/6/21 y k 8.8 9.9 Orange M15-702699 Debbie Hartford  Suite 201, 605 Main St, Rapid City, Sd 577015016
+TX West 2015/4/16 p k 30.9 -1 Blue M15-475631 Anna Allen  Ste 28, 300 Early Blvd, Brownwood, Tx 768022132
+TX West 2015/5/20 o k 34.3 37.6 Blue M15-603635 Robin Assarian  2120 W Briargate Dr, Bryan, Tx 778022157
+TX West 2015/8/12 o u 26.4 26.7 Red A05-531890 Thelma Benavidez  10824 North Central Expressway, Dallas, Tx 752311004
+TX West 2015/6/27 y k 3.1 3.3 Orange A05-774710 Karen Buitron  215 Calle Del Norte, Laredo, Tx 780419130
+TX West 2015/6/22 y u 31.2 33 Blue M15-624346 Patricia Cormier  Ste A 702, 1301 Young Street, Dallas, Tx 752025433
+TX West 2015/2/11 p a 34.9 -1 Red U02-854242 Rashida Donastorg-Bess  Rm 340, 1301 Young St, Dallas, Tx 752025433
+TX West 2015/4/26 p u 20.7 -1 Violet U02-687201 Sylvia Garcia  Rm 460, 1301 Young Street, Dallas, Tx 752025433
+TX West 2015/8/7 p k 12.2 -1 Green A05-732627 James Gibson  Ste 200, 900 E Bugg Lane, San Marcos, Tx 786668005
+TX West 2015/7/8 y k 12.6 14.8 Yellow M15-894212 Shane Gibson  2201 Colorado Blvd, Denton, Tx 762057523
+TX West 2015/6/27 o a 29.1 41.9 Red U02-805093 Tanya Gonzalez  10703 Stancliff Rd, Houston, Tx 770994306
+TX West 2015/4/4 y k 7.8 7.9 Green M30-885564 Melissa Huett  9945 Bissonnet, Houston, Tx 770368203
+TX West 2015/3/21 p u 17 -1 Violet A05-490176 D'Andrea Kelly  700 N Pearl St Ste 600, Dallas, Tx 752017490
+TX West 2015/2/11 y u 30.4 35.8 Blue M15-370039 Robert Kennedy  5509 S Donnybrook Ave, Tyler, Tx 757036112
+TX West 2015/7/12 o k 8.4 8.8 Red M15-755367 Rocio Marroquin  2300 Dunson Drive, Balch Springs, Tx 751804852
+TX West 2015/5/5 y k 14.2 14.3 Orange A05-514713 Louis Perry  5735 Summerhill Road, Texarkana, Tx 755031634
+TX West 2015/3/26 y a 21.9 23.2 Indigo A05-283390 Melissa Purifoy  600 E Peyton, Sherman, Tx 750900209
+TX West 2015/1/5 p k 18 -1 Red M30-983885 Duane Raffety  Ste 100, 1950 Ne Green Oaks Blvd, Arlington, Tx 760063287
+TX West 2015/2/20 p k 17.3 -1 Yellow A05-343333 Maria Reyes  1013 Business Park Dr, Mission, Tx 785726053
+TX West 2015/2/20 p u 8.5 -1 Violet M30-772344 Luis Rivera-Melendez  1029 Camino La Costa, Austin, Tx 787523907
+TX West 2015/2/11 o k 29.2 29.6 Blue A05-491164 Robin Stevens-Wright  Suite 315, 650 N Sam Houston Pkwy E, Houston, Tx 770605911
+TX West 2015/2/17 o k 8.6 8.8 Blue U02-447083 Alma Villarreal  10222 San Pedro Ave, San Antonio, Tx 782163820
+TX West 2015/6/4 o k 30.1 33.2 Red M30-622450 Linda Washeck  Rm 550, 1301 Young St, Dallas, Tx 752025433
+TX West 2015/7/13 o a 14.6 14.6 Orange U02-381821 Kecia Williams-Boston  4015 Aldine Bender Rd, Houston, Tx 770323910
+TX West 2015/2/20 y k 5 5 Red M30-555537 Joseph Wilson  Ste 640, 1301 Young St, Dallas, Tx 752025433
+TX West 2015/3/22 o u 14 14.4 Blue A05-524587 Susan Withers  326 Dry Bed Rd, Pipe Creek, Tx 780635113
+UT West 2015/3/7 y u 10.6 12.4 Green M15-505085 Shane Betts  485 N Freedom Blvd, Provo, Ut 846012824
+UT West 2015/5/15 o k 35.5 40 Violet U02-574960 Brendon Gallego  Suite 2403, 324 25Th Street, Ogden, Ut 844012334
+UT West 2015/8/13 o u 12.4 13.9 Violet A05-829531 Edna Jimenez  Ste 500, 175 E 400Th South, Salt Lake City, Ut 841112366
+UT West 2015/1/2 p u 11.4 -1 Indigo M30-733035 Taberlee Reid  Ste 100, 348 E Winchester, Murray, Ut 841078515
+UT West 2015/1/7 y k 4.2 4.2 Yellow U02-297105 Gary Sanders  Ste 102, 923 S River Rd, St George, Ut 847900502
+UT West 2015/8/5 o a 35.2 38.4 Violet A05-967991 Aaron Warner  Ste 102, 923 S River Rd, Saint George, Ut 847900502
+WA West 2015/2/12 y k 35.1 37.1 Green U02-925083 Michael Backlund  Ste A, 710 E College Way, Mount Vernon, Wa 982735563
+WA West 2015/8/30 y a 20.9 28.3 Yellow M15-262377 Kathleen Brown  Ste 150, 840 Ocean Beach Hwy, Longview, Wa 986324084
+WA West 2015/2/24 p k 13.8 -1 Green M30-264932 Lindsay Hengtgen  Ste 2900 Mis301, 701 Fifth Ave, Seattle, Wa 981047075
+WA West 2015/8/22 y k 31.8 35.2 Green M30-883600 Lynette Kam  1901 C Street Sw, Ste 7, Auburn, Wa 980017426
+WA West 2015/2/28 p a 17.8 -1 Green A05-760657 Prim Long  Ste 2900 Ms 102, 701 5Th Ave, Seattle, Wa 981047075
+WA West 2015/8/27 y a 13.1 14.5 Yellow M15-651503 Christopher Maley  Ste 207, 18905 33Rd Ave W, Lynnwood, Wa 980364730
+WA West 2015/8/29 y k 19.8 21.9 Red U02-931553 Brian Peters  Ste 1000, 701 Pike St, Seattle, Wa 981013950
+WA West 2015/3/9 o u 14.6 15.9 Indigo A05-907354 Sean Roberts  Ste 2900 10Th Floor, 701 5Th Ave, Seattle, Wa 981047075
+WA West 2015/8/21 o k 28.1 31.6 Violet A05-502565 Colleen Try  Ste 100, 714 N Ironbridge Way, Spokane, Wa 992024929
+WY West 2015/3/13 p a 29.8 -1 Violet U02-312368 Carol Russo  Ste 140, 3001 E Pershing Blvd, Cheyenne, Wy 820015712
+AK West 2015/6/7 p a 12.6 -1 Indigo M30-857302 Mark Gustilo  Ste 610, 188 W Northern Lights Blvd, Anchorage, Ak 995033984
+CA West 2015/4/10 y u 25.8 28.8 Orange M30-625106 David Chan  40 Massie Circle, Sacramento, Ca 958234301
+CA West 2015/7/3 o k 24.8 27.7 Blue A05-367680 Allison Choi  Ste 1070, 888 S Figueroa Street, Los Angeles, Ca 900175308
+CA West 2015/1/15 o V 32.1 39.8 Green A05-690828 Jennifer Cooper  Ste A, 2660 Park Marina, Redding, Ca 960012848
+CA West 2015/2/2 y k 4.9 5.7 Violet U02-486543 Alma Cortez  Suite 200, 2424 Arden Way, Sacramento, Ca 958252460
+CA West 2015/6/18 o k 28.5 32.7 Violet M30-895361 Marlene Del-Corto  Rm 504, 555 Battery St, San Francisco, Ca 941112319
+CA West 2015/3/28 y k 9.9 11.4 Indigo A05-717998 Jolaunne Dempsey  Suite 263, 7200 Bancroft Ave, Oakland, Ca 946052412
+CA West 2015/6/1 y k 17.1 22.8 Violet A05-658488 Rochelle Devaughn  Ste 207, 14500 Roscoe Blvd, Panorama City, Ca 914024195
+CA West 2015/1/30 o u 22.8 22.8 Red M15-572787 Veronica Diaz  Suite 1070, 888 S Figueroa St, Los Angeles, Ca 900175308
+CA West 2015/5/3 p u 22.5 -1 Indigo A05-446338 Madeleine Dowd  11855 Edgewood Rd, Auburn, Ca 956033407
+CA West 2015/2/1 p k 17.6 -1 Yellow M30-321770 Susan Fletcher  Ste 500, 800 Colorado Blvd, Pasadena, Ca 911012108
+CA West 2015/2/16 p u 26.1 -1 Red A05-320682 Jesus Gamboa  611 W 6Th St, 2Nd Floor, Los Angeles, Ca 900173101
+CA West 2015/8/25 o u 20.6 21 Violet A05-905814 Laurie Gandy  1221 Nevin Ave, 2Nd Fl, Richmond, Ca 948013123
+CA West 2015/6/20 y a 18.4 19.3 Indigo U02-745342 Gabriel Garcia  626 L Street, Chula Vista, Ca 919111006
+CA West 2015/6/28 p a 16.2 -1 Violet M15-784559 Judy Gladney-Meux  4747 Feather River Dr, Stockton, Ca 952198002
+CA West 2015/5/15 p u 7 -1 Blue U02-602448 Rodrigo Gudino  Ste 110, 322 E Thousand Oaks Blvd, Thousand Oaks, Ca 913605804
+CA West 2015/5/6 y k 11.8 14 Indigo A05-408683 Robert Henry  1100 East Holt Blvd, Ontario, Ca 917612023
+CA West 2015/8/30 o u 9.3 9.6 Orange A05-367198 Richard Jackson  605 North Arrowhead Ave, Suite 101, San Bernardino, Ca 924011157
+CA West 2015/6/29 p k 20.3 -1 Orange A05-960724 Bryan Kay  Ste 150, 1370 E Lassen Ave, Chico, Ca 959736602
+CA West 2015/8/26 y k 14.9 16.6 Red M30-991087 Ann Keag  5140 E Olive Ave, Fresno, Ca 937272423
+CA West 2015/1/14 o u 27 31.9 Blue M30-784145 Esther Khon  2500 Fontaine Rd, San Jose, Ca 951212131
+CA West 2015/4/9 p a 19.2 -1 Blue U02-309459 Carlean Leavell  Rm 1200, 606 S Olive St, Los Angeles, Ca 900141663
+CA West 2015/8/23 p a 29.7 -1 Green U02-787109 Richard Lebo  1420 W Olive Avenue, Burbank, Ca 915062406
+CA West 2015/1/22 y a 19.7 19.9 Orange M15-694196 Stephen Leung  Ste 800, 160 Spear Street, San Francisco, Ca 941051545
+CA West 2015/1/25 p a 31.1 -1 Violet M15-555969 Miriam Marquez  26051 Acero Road, Mission Viejo, Ca 926912784
+CA West 2015/5/28 y a 26 28.1 Yellow A05-380632 Alma Mascorro  20439 Nordhoff St, Chatsworth, Ca 913116112
+CA West 2015/3/20 p a 9.4 -1 Blue A05-507327 Theresa Mcfall  Santa Cruza Ssa, 169 Walnut Ave, Santa Cruz, Ca 950603818
+CA West 2015/6/29 o u 16.7 17.5 Blue M30-704353 Jeannette Nunes  7961 University Ave, La Mesa, Ca 919425518
+CA West 2015/2/12 p k 6.3 -1 Green A05-567372 William Palmer  Ste 320, 27200 Tourney Road, Valencia, Ca 913551823
+CA West 2015/3/4 y a 13.7 18 Yellow M30-911472 Janet Perez  Bldg/Rm 100, 3116 W March Lane, Stockton, Ca 952192369
+CA West 2015/3/8 p u 29.6 -1 Orange M30-853773 Espie Rodriguez  215 N Soto St, Los Angeles, Ca 900332914
+CA West 2015/4/23 y u 4.4 5.4 Orange A05-553287 James Russell  Ste 301, 180 Westgate Drive, Watsonville, Ca 950762469
+CA West 2015/5/10 y a 3.6 4.3 Indigo A05-769564 Diane Sanchez  1901 E Noble Avenue, Visalia, Ca 932921516
+CA West 2015/3/4 o a 30.2 31.7 Green M15-630126 Ellen Schoendorfer  5Th Floor, 1851 East First Street, Santa Ana, Ca 927054017
+CA West 2015/1/23 o a 35.9 38.5 Orange M30-294819 Susie Sherer  890 W Morton Avenue, Porterville, Ca 932573132
+CA West 2015/3/25 p u 29.3 -1 Green M30-575215 Renata Terry  1221 Nevin Ave, Richmond, Ca 948013123
+CA West 2015/8/28 y a 16.6 17.1 Yellow A05-267888 Annie Wu  560 Kearny St, San Francisco, Ca 941082503
+CA West 2015/1/6 y u 34.1 37.2 Violet M30-696854 Carolyn Yee  Suite 201, 501 S Vincent Ave, West Covina, Ca 917906712
+CO West 2015/2/6 y V 20.8 25.9 Red A05-548895 Kent Averett  1961 Stout St, Ste 06-145, Denver, Co 802946000
+CO West 2015/5/5 y a 6.6 6.6 Red A05-984550 Christopher Digiacomo  8000 Southpark Lane, Little, Co 801205640
+CO West 2015/8/3 o a 16.8 17.6 Green M15-367757 Michelle Douhaj  Ste 250, 14280 E Jewell Ave, Aurora, Co 800127939
+CO West 2015/8/17 y a 31 36.8 Blue M15-977177 Albert Fauerbach  5Th Floor, 1961 Stout Street, Denver, Co 802941961
+CO West 2015/8/5 o u 29.7 32.4 Green A05-721919 Kathleen Hernandez  Suite 250, 14280 E Jewell Ave, Aurora, Co 800127939
+CO West 2015/2/2 p k 17.6 -1 Yellow A05-640259 Shelley Laliberte  8000 Southpark Lane, Littleton, Co 801205640
+CO West 2015/8/13 M a 30.2 42.3 Blue M30-978470 Muoi Nguyen  Ste 4141, 1961 Stout Street, Denver, Co 802944000
+CO West 2015/5/2 o k 28.4 33.9 Violet A05-960901 Dora Ordonez  Suite 600, 1244 N Speer Blvd, Denver, Co 802043584
+CO West 2015/8/15 o a 13.7 18.1 Violet A05-901147 Kimberly Rickey  Ste 200, 1500 Champa St, Denver, Co 802022918
+CO West 2015/7/14 y u 29 40.2 Indigo M15-807999 Ernesto Rivera-Virella  825 N Crest Drive, Grand Junction, Co 815068692
+HI West 2015/6/20 p a 16.4 -1 Indigo M30-235475 Tamila Singleton  Bldg/Rm 710, 111 E Puainako Street, Hilo, Hi 967205288
+ID West 2015/7/22 p u 27.3 -1 Blue U02-292057 Kristen Biddiscombe  1617 19Th Ave, Lewiston, Id 835014004
+ID West 2015/3/22 o k 15.7 17.2 Yellow M30-919621 Barbara Dischinger  Suite F, 1246 Yellowstone Ave, Pocatello, Id 832014373
+ID West 2015/1/14 p u 5.6 -1 Red A05-584032 Sunny Littlefield  118 S Kimball Ave, Caldwell, Id 836053734
+ID West 2015/6/23 o u 21.4 29.4 Orange U02-813145 Amy Moison  2196 Channing Way, Idaho Falls, Id 834048034
+KS West 2015/4/2 y k 22.5 27.6 Orange A05-769526 Cecilia Fields  850 Nebraska Ave, Kansas City, Ks 661012112
+KS West 2015/5/5 p u 30.1 -1 Red A05-672569 Daniel Hung  Ste A, 1121 Hudson Ave, Manhattan, Ks 665039921
+KS West 2015/1/17 y u 22 23.3 Blue A05-469301 Lori Perkins  3207 N Cypress Dr, Wichita, Ks 672264005
+MO West 2015/8/7 p u 3.7 -1 Violet M15-918042 Rebeca Avila  Rm 1200 S, 601 East 12Th Street, Kansas City, Mo 641062818
+MO West 2015/8/8 p u 16.4 -1 Red M15-450186 Jeffrey Bridges  2600 Kanell Blvd, Poplar Bluff, Mo 639013001
+MO West 2015/8/25 p k 31.8 -1 Blue U02-889321 Alicia Burris  Ste 600, 2300 Main St, Kansas City, Mo 641082415
+MO West 2015/1/13 o u 18.5 22.1 Indigo M30-271987 Terry Crowley  Ste 1065, 601 E 12Th St, Kansas City, Mo 641062818
+MO West 2015/6/8 y a 17.9 21.9 Indigo A05-737271 Leslye Elbert  Bldg 110 Ste 1313A, 4300 Goodfellow Blvd, Saint Louis, Mo 631201720
+MO West 2015/1/14 y a 19.8 25.2 Orange A05-822492 Matthew Fuller  1612 Imperial Dr, West Plains, Mo 657751813
+MO West 2015/7/19 o u 33.1 34.1 Yellow M30-591913 James Gottlieb  8800 Watson Rd, Saint Louis, Mo 631195268
+MO West 2015/5/13 y k 29.5 36.8 Violet U02-688765 Vicki Lichtenegger  Suite 100, 717 N 16Th Street, Saint Louis, Mo 631031838
+MO West 2015/5/29 y a 13.2 16.8 Orange U02-652090 Rhonda Matney  2600 Kanell, Poplar Bluff, Mo 639013001
+MO West 2015/3/21 p a 23.3 -1 Yellow M30-260978 Diane Mormann  129 Scott Station Road, Jefferson City, Mo 651094975
+MO West 2015/2/2 y k 34.2 38.2 Orange U02-605975 Karen Scruggs  Ste 350, 2301 Mcgee, Kansas City, Mo 641082648
+MO West 2015/3/28 p a 27.1 -1 Indigo U02-735151 Sara Skinner  2546 S Jefferson Ave, Lebanon, Mo 655364234
+MO West 2015/5/11 o u 5.6 6.1 Yellow U02-298897 Ruth Taylor  129 Scott Station Road, Jefferson City, Mo 651094975
+MT West 2015/1/2 p k 26.6 -1 Violet M15-680012 Denise Newman  Rm 100, 2900 4Th Ave N, Billings, Mt 591011266
+ND West 2015/1/19 p a 26.1 -1 Orange A05-328202 Deborah Larson  402 Demers Ave, Ste 300, Grand Forks, Nd 582014573
+ND West 2015/1/25 p k 5 -1 Red M15-817568 Rochelle Olson  Rm 320, 657 N 2Nd Ave, Fargo, Nd 581024727
+NE West 2015/6/23 p a 14.2 -1 Indigo U02-844981 Cynthia Lupomech  Room 204, 300 E 3Rd St, North Platte, Ne 691014070
+NM West 2015/1/1 p a 8 -1 Yellow U02-915021 Marco Hernandez  2141 Summit Court, Las Cruces, Nm 880118238
+NM West 2015/5/17 p u 22.8 -1 Green M15-485245 Rita Lopez  4650 N Butler, Farmington, Nm 874012372
+NM West 2015/4/28 p u 7.7 -1 Violet M15-758423 Alfred Martinez  500 Lead Sw, Albuquerque, Nm 871023314
+NM West 2015/6/30 p k 28.6 -1 Violet A05-329475 Anthony Romero  1208 Aracineiga Dr, Clovis, Nm 881013801
+NV West 2015/1/30 p a 16.9 -1 Indigo A05-531508 Martin Aguilar  1170 Harvard Way, Reno, Nv 895022107
+NV West 2015/5/17 o k 28.6 39.8 Violet A05-386565 Christina Reitz  10416 S Eastern Ave, Henderson, Nv 890523957
+OK West 2015/4/21 p u 33.7 -1 Indigo A05-577618 Kurtis Jones  4750 S Garnett Rd, Tulsa, Ok 741465222
+OK West 2015/6/29 y k 19.3 24.5 Red M30-483885 Shelly Thompson  410 Opal Ave, Clinton, Ok 736014628
+OR West 2015/6/6 p a 10.3 -1 Blue A05-513001 Cheryl Bailey  1538 Sw Yamhill St, Portland, Or 972051824
+OR West 2015/2/8 y a 12.5 16.8 Orange M30-703744 Sara Cole  Robert Duncan Plaza, 333 Sw 1St Ave Suite 400, Portland, Or 972043409
+OR West 2015/6/1 o a 4.7 6.2 Indigo A05-703219 Deedra Crofcheck  Ste 110, 1390 Waverly Dr Se, Albany, Or 973226958
+OR West 2015/4/29 o a 25.6 28 Blue A05-967631 Jamie Davison  908 Se 5Th Avenue, Ontario, Or 979143810
+OR West 2015/1/20 p u 30.9 -1 Yellow A05-994486 Clay Kelly  Suite 100, 1229 Se 3Rd Street, Pendleton, Or 978014100
+OR West 2015/4/14 y u 27.7 34.8 Orange M15-672016 Tracy Pulkrabek  115 W Bond Street, Astoria, Or 971036009
+OR West 2015/8/28 o a 35.4 37.8 Red M15-978949 Shane Van-Matre  Suite 110, 401 E 3Rd Street, The Dalles, Or 970582563
+SD West 2015/7/26 o u 3 4.3 Indigo M15-512533 Robert Hudson  514 10Th Ave Se, Watertown, Sd 572015271
+SD West 2015/8/5 y k 16.9 18.6 Yellow U02-326993 Katie Wienk  5021 S Nevada Ave, Sioux Falls, Sd 571082265
+TX West 2015/5/23 y a 35.5 35.9 Violet A05-259369 Stella Alvarez  1029 Camino La Costa, Austin, Tx 787523907
+TX West 2015/7/7 o u 6.7 8.1 Red M15-844958 Laura Breaux  2835 Gulf Freeway South, League City, Tx 775736781
+TX West 2015/2/4 o a 21.6 23.9 Orange A05-883620 Johanna Evans  A 908, 1301 Young St, Dallas, Tx 752025433
+TX West 2015/3/17 p a 32 -1 Green M30-611434 Paula Houston  2304W Ferguson Road, Mount Pleasant, Tx 754552932
+TX West 2015/8/12 y u 8.7 9.9 Blue M15-377960 Lora Lyons  2835 Gulf Freeway South, League City, Tx 775736781
+TX West 2015/5/11 o a 9.7 11.5 Blue U02-300669 Danielle Montgomery  Rm 9A27, 819 Taylor Street, Fort Worth, Tx 761026128
+TX West 2015/1/31 o a 20.6 21.8 Violet M30-562310 Emmanuel Njiki  Suite 500, 12790 Merit Drive, Dallas, Tx 752519400
+TX West 2015/4/7 o k 13.4 13.4 Violet M30-727975 Avis Smothers  2901 Victory Lane, Brenham, Tx 778336082
+TX West 2015/4/25 p k 16.2 -1 Red A05-991862 Derek Stovall  1301 Young St Rm 257, Dallas, Tx 752025433
+UT West 2015/4/19 o u 7.3 8.5 Red A05-285827 Ryan Konold  Ste 100, 348 Winchester St, Murray, Ut 841078515
+WA West 2015/7/25 o a 4 4.4 Red A05-426702 Jacek Cameron-Rulkowski  701 Fifth Ave, Ste 2900 Ms 302C, Seattle, Wa 981047075
+WA West 2015/7/19 p u 25.6 -1 Violet M15-400448 Rebecca Halvorsen  Ste 2900, 701 5Th Ave, Seattle, Wa 981047075
+WA West 2015/2/11 y a 14.2 15.1 Indigo M15-903156 Toni Hunt  300 5Th Ave Ste 500, Seattle, Wa 981043389
+WA West 2015/5/15 o k 7.4 8 Red A05-685451 Ngocxuan Huynh  701 5Th Ave, Suite 2900 M/S 201, Seattle, Wa 981047097
+WA West 2015/2/7 p a 14.5 -1 Violet A05-808691 Melissa Johansson  820 Simpson Ave, Hoquiam, Wa 985503813
+WA West 2015/1/22 o k 22.9 25.9 Yellow U02-428674 Tracy Kinkade  9Th Floor, 915 Second Ave, Seattle, Wa 981741009
+WA West 2015/5/29 y a 23.2 24.1 Yellow M15-291158 Kyung Lee  Suite 207, 18905 33Rd Ave W, Lynnwood, Wa 980364730
+WA West 2015/2/10 y a 23.7 28 Red M30-967407 Sylvia Sandoval  Rm 212, 301 Yakima Street, Wenatchee, Wa 988012990
+WA West 2015/2/25 p k 27.4 -1 Yellow A05-678953 William Segarra  710 Alabama St, Bellingham, Wa 982253829
+AK West 2015/7/9 p k 13.9 -1 Blue M30-768258 Washington Parks  Social Security Administration, Po Box 21327, Juneau, Ak 998021327
+AZ West 2015/2/7 p k 25.8 -1 Yellow U02-997736 Billie Armenta  Ste 100, 250 North 7Th Avenue, Phoenix, Az 850072751
+AZ West 2015/7/17 o a 33.3 45.6 Blue M15-796485 Darlene Brooks  Ste 265, 201 North Bonita Avenue, Tucson, Az 857453027
+AZ West 2015/6/15 y k 12 13.7 Yellow U02-542639 Wilma Carrasquillo-Facio  1235 S Redondo Center Dr, Yuma, Az 853652039
+AZ West 2015/2/19 p a 34.3 -1 Indigo M30-265724 Rita Ciadella  16241 N Tatum Blvd, Phoenix, Az 850323441
+AZ West 2015/8/1 p u 8.8 -1 Indigo M15-764715 Natalie Flores  Suite 600, 2700 North Central Ave, Phoenix, Az 850041179
+AZ West 2015/8/6 p k 22.3 -1 Blue A05-769216 Sylvia Johnson  1760 N Mastick Way, Nogales, Az 856211013
+CA West 2015/7/17 y u 8.9 9.5 Violet A05-803877 Emmanuel Barbier  Annex 1St Fl, 90 7Th St, San Francisco, Ca 941036701
+CA West 2015/3/13 p k 13.4 -1 Orange M30-433049 Daniel Boone  320 Davis St, San Leandro, Ca 945772861
+CA West 2015/1/20 y u 7.4 9.3 Yellow M15-367094 Amanda Bowen  745 Morning Star Dr, Sonora, Ca 953705193
+CA West 2015/1/6 o k 22 23.4 Orange A05-804251 Norma Braswell  Annex First Floor, 90 7Th Street, San Francisco, Ca 941036701
+CA West 2015/4/15 o a 30.1 32.2 Yellow U02-501983 Drina Brown  12429 S Avalon Blvd, Los Angeles, Ca 900612709
+CA West 2015/5/8 o a 24.7 28.8 Orange U02-312316 Teressa Brown  1221 Nevin Ave, Richmond, Ca 948013123
+CA West 2015/3/8 y u 19.7 21.6 Yellow U02-594447 Agrippino Buscemi  1420 W Olive Avenue, Burbank, Ca 915062406
+CA West 2015/5/28 o a 13.7 16.2 Violet M30-717469 Nelson Campbell  44451 20Th St W, Lancaster, Ca 935342702
+CA West 2015/5/24 y u 34.3 46 Violet A05-916355 Miranda Castro  1960 South Oregon St, Yreka, Ca 960973481
+CA West 2015/2/8 y a 27.3 27.6 Green M30-876994 Paul Chan  Ste 200, 611 West Sixth Street, Los Angeles, Ca 900173113
+CA West 2015/2/6 p a 20.8 -1 Indigo U02-642101 Eugene Choi  11900 Gilbert Street, Garden Grove, Ca 928412703
+CA West 2015/1/5 p a 26.2 -1 Green A05-537246 Quincy Chu  1122 W Washington Blvd, Los Angeles, Ca 900153349
+CA West 2015/7/4 p a 23.4 -1 Yellow M30-860398 Darlene Correa  Room 330, 280 S First Street, San Jose, Ca 951133005
+CA West 2015/3/3 p a 32.5 -1 Green M30-650739 Tamiko Crockett  22600 Crenshaw Blvd, Torrance, Ca 905053021
+CA West 2015/8/26 y u 33.7 36.8 Blue U02-487730 Maria Daghlian  2615 Crow Court, Antioch, Ca 945097916
+CA West 2015/8/20 o u 31 38.5 Indigo U02-587941 Akilah Dailey  Rm 200, 605 N Arrowhead Ave, San Bernardino, Ca 924011157
+CA West 2015/3/29 p u 16.6 -1 Orange M30-748289 Paul Delgado  1165 E Route 66, Glendora, Ca 917403703
+CA West 2015/5/28 o a 28.9 37.6 Yellow A05-702918 Shanise Earl-Johnson  640 W Locust Ave, Fresno, Ca 936501093
+CA West 2015/2/18 T k 25.8 33 Blue A05-486918 Rocio Figueroa  2216 W Beverly Blvd, Montebello, Ca 906402302
+CA West 2015/4/24 o u 10.5 13.6 Violet A05-370870 Juan Garcia  355 Percy St, Yuba City, Ca 959915428
+CA West 2015/1/21 o k 18.6 19.4 Violet M30-277951 Ocbeyden Garcia  770 W Hamilton Ave, Campbell, Ca 950080403
+CA West 2015/7/23 o k 25.4 31.4 Yellow M15-915111 Michael Garrett  Ste 950, 401 West A Street, San Diego, Ca 921017998
+CA West 2015/3/23 p k 20.9 -1 Orange U02-251420 Sandra Goodman  106 Plaza Dr, Ste A, Vallejo, Ca 945913702
+CA West 2015/2/17 p k 3.2 -1 Orange A05-774148 Jacqueline Highbaugh  Po Box 4115, Richmond, Ca 948040115
+CA West 2015/1/23 p a 16.2 -1 Green U02-846334 Constance Hunter  Ssa Tsc, 100 E Alvin Dr, Salinas, Ca 939062404
+CA West 2015/7/9 o u 17 20.5 Orange M30-828339 Deborah Jackson  Rm 200, 605 N Arrowhead Ave, San Bernardino, Ca 924011157
+CA West 2015/8/1 y a 16.2 18.4 Orange M30-796539 Ronald Jackson  Suite 112, 7898 Mission Grove Parkway, Riverside, Ca 925085053
+CA West 2015/6/25 o u 35.8 38 Red A05-668089 Cheryl Jolivet  1120 W La Veta Ave Ste 600, Orange, Ca 928684215
+CA West 2015/2/24 y k 24.9 27 Blue U02-724986 Sherry Jones  Frank Hagel Federal Bldg, 1221 Nevin Ave, Richmond, Ca 948013123
+CA West 2015/2/18 o u 11.4 13.1 Blue M30-273011 Michael Knobel  Suite 12-300, 501 I Street, Sacramento, Ca 958147313
+CA West 2015/8/11 o a 15.2 21.5 Green M15-299000 Edward Lee  Ste 320, 710 S Central Ave, Glendale, Ca 912044612
+CA West 2015/1/4 o k 17 20 Green M30-540155 Adria Leslie  Ste 500, 24301 Southland Drive, Hayward, Ca 945451552
+CA West 2015/5/9 y a 28 33.1 Yellow U02-455570 Adriana Lomeli  640 W Locustave, Fresno, Ca 936501093
+CA West 2015/7/26 o k 34.5 40.4 Blue M15-889593 Theresa Mcclelland  1100 East Holt Blvd, Ontario, Ca 917612023
+CA West 2015/4/26 p u 34.5 -1 Orange U02-293314 Justin Mccuin  115 Table Mountain Blvd, Oroville, Ca 959653503
+CA West 2015/5/18 o k 6.9 8.2 Indigo M30-945321 Sara Nolasco  Madera Fo 947, 348 E Yosemite Ave, Madera, Ca 936383627
+CA West 2015/2/25 o u 5.5 6.2 Orange U02-833218 Shelly Parreira  Suite 125, 2440 Tulare Street, Fresno, Ca 937212218
+CA West 2015/8/30 y a 28.6 30.9 Violet A05-975582 Maria Ramirez  Ste 1000, 825 Riverside Pkwy, West Sacramento, Ca 956051514
+CA West 2015/5/7 y a 26.3 31.9 Yellow U02-239379 Pat Ramos  900 S Garfield Ave, Alhambra, Ca 918014441
+CA West 2015/8/4 y k 14.5 16.1 Yellow A05-941356 Saul Ramos  12440 Imperial Hwy Ste 170, Norwalk, Ca 906508396
+CA West 2015/6/18 o u 3.6 4.4 Green M15-782644 Florenda Rodriguez  Ste 206, 222 E Carrillo Street, Santa Barbara, Ca 931017154
+CA West 2015/8/24 o k 33 34 Blue M15-637031 Jesse Rodriguez  Ste 110, 322 E Thousand Oaks Blvd, Thousand Oaks, Ca 913605804
+CA West 2015/6/23 y u 24.7 26.7 Red U02-585671 Janet Rohrssen  Ste A, 2099 Range Ave, Santa Rosa, Ca 954013518
+CA West 2015/6/12 o u 30.7 31.9 Orange M15-943088 Esther Salazar  Ste 1000, 825 Riverside Pkwy, West Sacramento, Ca 956051514
+CA West 2015/7/13 y k 21.9 23.7 Indigo U02-889755 Victoria Salazar  Ste 150, 3230 E Imperial Hwy, Brea, Ca 928216736
+CA West 2015/3/28 y u 19 21.9 Blue A05-535052 Leticia Salcido  Suite E1, 1521 N Carpenter Rd, Modesto, Ca 953511217
+CA West 2015/1/3 o u 23.8 30.6 Indigo U02-457050 Sandra Soria  Suite 102, 1850 Soscol Ave, Napa, Ca 945591356
+CA West 2015/5/17 y k 24.3 25.3 Red A05-696793 Shirley Taylor  900 S Garfield Ave, Alhambra, Ca 918014441
+CA West 2015/7/5 y u 24.3 24.7 Yellow A05-767347 Raisa Thomas  7961 University Ave, La Mesa, Ca 919425518
+CA West 2015/5/17 y a 24.4 25.6 Green U02-275774 Stephanie Urioste  1449 W Redlands Blvd, Redlands, Ca 923738021
+CA West 2015/4/25 o a 13.8 16.3 Blue M30-870719 Jose Velasco  Rm 2436, Professional Parkway, Santa Maria, Ca 934551683
+CA West 2015/3/23 p u 9.3 -1 Blue M30-842539 Jerrold Whitehead  Ste 201, 355 Gellert Blvd, Daly City, Ca 940152671
+CA West 2015/1/28 p a 28.7 -1 Orange M15-941220 Dwight Williams  626 L Street, Chula Vista, Ca 919111006
+CA West 2015/8/14 p u 26 -1 Indigo A05-447115 Linda Zamfino  410 North, 1301 Clay Street, Oakland, Ca 946125217
+CO West 2015/3/19 y u 4.1 4.4 Yellow M30-586870 Pamela Cannon  22775 E Ottawa Pl, Aurora, Co 800164268
+CO West 2015/7/25 p u 30 -1 Blue U02-857626 Lauren Eitel  Ste A, 5400 W 11Th St, Greeley, Co 806344624
+CO West 2015/1/16 o k 5.6 7.2 Indigo M30-921926 Timothy Garrett  06/01/136, 1961 Stout St, Denver, Co 802941961
+CO West 2015/4/17 p a 33.4 -1 Yellow A05-291759 Samantha Hall  07/01/132, 1961 Stout St, Denver, Co 802941961
+CO West 2015/5/22 y a 31.1 33.6 Violet A05-377573 Piper Kelley  Suite 200, 1500 Champa Street, Denver, Co 802022918
+CO West 2015/3/13 o k 18.9 22.5 Blue M15-682947 Kirk Lima  06/01/106, 1961 Stout St, Denver, Co 802941961
+CO West 2015/4/5 p k 32.2 -1 Yellow U02-310763 Elsa Ortiz  13151 W Alameda Pkwy, Lakewood, Co 802283108
+CO West 2015/2/16 o a 7.4 7.5 Blue U02-726884 Debra Rochford  103 Sheppard Dr 120, Durango, Co 813033401
+CO West 2015/6/28 o u 35.3 35.3 Indigo M30-874513 Purvis Young  Bldg 67 Rm 890 Denver Fed Ctr, 6Th And Kipling, Denver, Co 802250000
+HI West 2015/8/6 p k 35.1 -1 Orange A05-662673 Lauren Hirata  970 Manawai Street, Kapolei, Hi 967074531
+HI West 2015/5/10 p u 20.9 -1 Yellow A05-250269 Jiah Yim  Ste 105, 4334 Rice St, Lihue, Hi 967661395
+ID West 2015/1/29 p k 25 -1 Orange M15-899456 Junior Edwards  Ste 275, 720 E Park Blvd, Boise, Id 837127765
+ID West 2015/5/19 p a 11.4 -1 Orange U02-985016 Kelly Murray  Ste 101, 1249 S Vinnell Way, Boise, Id 837091696
+KS West 2015/5/19 y k 16.8 22.4 Red A05-643269 Shawn Cole  3010 W. 18Th Ave, Emporia, Ks 668016191
+KS West 2015/6/28 p k 12.4 -1 Violet A05-992004 Penny Emmele  3216 N Cypress St, Wichita, Ks 672264002
+KS West 2015/1/1 y a 33.5 34.7 Green A05-746054 Eric Moore  Ste 7, 1410 E Iron Ave, Salina, Ks 674013285
+KS West 2015/8/29 o u 25.9 26 Blue A05-419996 David Stepp  850 Nebraska Ave, Kansas City, Ks 661012112
+KS West 2015/6/4 p k 28 -1 Green U02-511169 Kristine Warren  600 Sw Commerce Place, Topeka, Ks 666151234
+MO West 2015/5/25 y a 20.7 22.9 Green M15-540371 Stacey Amos  Ste 900, 200 North Broadway, Saint Louis, Mo 631022753
+MO West 2015/5/20 p k 3.8 -1 Blue U02-746427 Margaret Arnold  Rm 350, 2301 Mcgee, Kansas City, Mo 641082648
+MO West 2015/1/30 y k 25.5 26 Yellow A05-849554 Leslie Asher  Fo 752, 800 South By-Pass, Kennett, Mo 638570000
+MO West 2015/6/3 p k 28.4 -1 Blue A05-646435 Kathleen Bailey  650 Gravois Bluffs Blvd, Fenton, Mo 630267714
+MO West 2015/1/22 o a 0.1 0.1 Orange M15-822688 Christopher Cassell  Ssanrc, 6000 E Geospace Dr, Independence, Mo 640563330
+MO West 2015/1/25 y a 6.7 7.4 Green M30-647170 Eugene Cogorno-Iii  Ste 325, 1224 Fern Ridge Pkwy, St Louis, Mo 631414410
+MO West 2015/6/9 p k 4.7 -1 Orange U02-882090 Scott Comer  1604 Bldg, 601 E 12 St, Kansas City, Mo 641062891
+MO West 2015/7/19 o k 23.2 31.8 Blue A05-878744 Rosalinda Eischen  2021 Independence Ave, Kansas City, Mo 641242309
+MO West 2015/2/26 o a 32.6 44.6 Yellow U02-993257 Lucinda Hamilton  Suite C, 2143 E Primrose, Springfield, Mo 658044586
+MO West 2015/6/27 y a 8.3 8.8 Violet M30-825394 Richard Holder  120 S Commerce, Nevada, Mo 647724261
+MO West 2015/3/29 p u 17.9 -1 Red A05-531288 Lori Hughes  1813 E 10Th Street, Rolla, Mo 654014604
+MO West 2015/5/5 y k 24 25.5 Orange A05-540848 Dean Jepson  Room 1502, 601 E 12Th Street, Kansas City, Mo 641062818
+MO West 2015/2/26 y k 7.2 8.1 Green U02-357937 Ronald Keubler  4800 Executive Centre Pkwy, Saint Peters, Mo 633762593
+MO West 2015/3/24 y a 8.1 9.3 Orange M15-958814 Shawn Lindsey  Section 5 Office, 601 E 12Th St, Kansas City, Mo 641062818
+MO West 2015/3/2 y u 25.4 34.5 Violet A05-875943 Sandra Mack  11753 West Florissant Ave, Florissant, Mo 630336744
+MO West 2015/2/11 p a 5.3 -1 Red A05-756701 Michele Powell  4102 S Arizona Ave, Joplin, Mo 648043216
+MO West 2015/2/18 o k 7.2 7.3 Blue M30-868222 Kevin Price  601 E 12Th St, Bldg 1 Rm 965, Kansas City, Mo 641062818
+MO West 2015/5/29 p u 4.4 -1 Orange M30-634764 Mark Rudloff  4800 Executive Centre Pkwy, St. Peters, Mo 633762593
+MO West 2015/5/31 p k 7.3 -1 Indigo A05-792498 Matthew Skelton  803 Gray Oak Dr, Columbia, Mo 652013731
+MO West 2015/3/24 o u 4.2 4.4 Yellow M30-970050 Michael Sonderman  11Th Floor Rm 1129, 601 E 12Th St, Kansas City, Mo 641062818
+MO West 2015/7/20 o u 14 16.4 Orange A05-942427 Eleonore Turner  Rm 1046, 601 E 12Th St, Kansas City, Mo 641062818
+MO West 2015/8/12 o a 18.8 22.4 Orange M30-587572 Jeffrey Watson  Ste 5, 43 Prairie Dell Plaza, Union, Mo 630844341
+MO West 2015/3/13 p a 32.7 -1 Indigo M30-285994 Tina Williams  8620 N Green Hills Rd, Kansas City, Mo 641541912
+MO West 2015/2/17 o u 12.6 14.9 Indigo M15-252483 Danny Zimmerman  518 W S Hills Dr, Maryville, Mo 644683653
+MT West 2015/6/22 p k 8.5 -1 Red M30-808916 Theresia Watson  3205 N 27Th Ave, Bozeman, Mt 597183147
+MT West 2015/6/21 o u 29.6 36.4 Red A05-391075 Terra Whiteman  Ste D, 275 Corporate Drive, Kalispell, Mt 599013498
+MT West 2015/2/13 p a 29.7 -1 Orange A05-984207 Marie Zieske  Suite 1600 Baucus Fed Bldg, 10 W 15Th St, Helena, Mt 596269701
+ND West 2015/3/31 p u 16.1 -1 Blue M30-534743 Tana Pomplun  Ste 100, 1680 E Capitol Ave, Bismarck, Nd 585015603
+NE West 2015/5/6 p a 6.6 -1 Violet M15-413549 Tonya Butler  Suite 1, 115 N Webb Rd, Grand Island, Ne 688034053
+NM West 2015/6/1 y k 22.1 28.2 Green M30-440044 Leanne Maldonado  Albuquerque Tsc, 500 Lead Ave Sw, Albuquerque, Nm 871023314
+NM West 2015/7/22 o u 26.9 36.6 Yellow U02-274842 Michelle Ponce  2141 Summit Ct, Las Cruces, Nm 880118238
+NM West 2015/2/24 y a 8.5 9 Violet M15-490999 Renee Romero  500 N Richardson Ave Ste 122, Roswell, Nm 882014761
+NM West 2015/1/6 p u 27.6 -1 Green A05-619534 Theresa Vallez  Rm 201, 555 Broadway Blvd Ne, Albuquerque, Nm 871022380
+OK West 2015/3/14 p a 24.7 -1 Violet A05-390247 Vicki Beames  321 S Holiday Drive, Ardmore, Ok 734012575
+OK West 2015/4/29 o u 15 18 Orange M15-518344 Kevin Brooks  900 Leisure Ln, Bartlesville, Ok 740067986
+OK West 2015/3/31 o k 20 21.5 Yellow U02-909775 Kelli Cluck  4750 S Garnett Road, Tulsa, Ok 741465222
+OK West 2015/6/16 y a 11.6 13.6 Green M30-836031 Janis Jones  2615 Villa Prom, Oklahoma City, Ok 731072468
+OK West 2015/5/17 o k 21 26.1 Violet M30-802094 David Landeros  1306 Tarby Rd, Poteau, Ok 749535501
+OK West 2015/2/14 o a 13.3 15.5 Orange M30-610497 Jana Tacl  200 Ne 27Th, Moore, Ok 731604104
+OK West 2015/1/24 o a 19.6 23.4 Red U02-350657 Melinda Vann  518 East Lakeview Road, Stillwater, Ok 740752825
+OR West 2015/8/9 p u 27.2 -1 Red M30-901939 Cory Burgess  1538 Sw Yamhill Street, Portland, Or 972051824
+OR West 2015/2/7 o a 19.1 21.9 Orange A05-262685 Kent Corkran  Suite 100, 11975 Sw 2 Street, Beaverton, Or 970053042
+OR West 2015/5/9 p a 32.6 -1 Orange A05-761734 Lory Simpson  2504 Oakmont Way, Eugene, Or 974015543
+OR West 2015/6/22 o k 3.3 3.5 Orange M15-429415 Claudia Tavarez  11975 Sw 2Nd Street, Beaverton, Or 970053042
+SD West 2015/5/3 p a 18 -1 Green M15-881164 Claudia Gurnon  200 4Th St Sw Rm 105, Huron, Sd 573502431
+TX West 2015/7/10 p k 21 -1 Blue M15-641778 Carla Almond  1301 Young St Rm 410, Dallas, Tx 752025433
+TX West 2015/2/8 p a 9 -1 Violet A05-558788 Fifi Beene-Woolridge  1A07, 819 Taylor St, Fort Worth, Tx 761026114
+TX West 2015/4/19 p k 16 -1 Green M30-329114 Kimberly Belknap  Bldg B, 5508 Highway 290 West, Austin, Tx 787358832
+TX West 2015/7/17 y a 1 1.1 Orange M15-869951 Marian Bruster  700 N Pearl, Suite 600, Dallas, Tx 752017490
+TX West 2015/6/19 p u 14 -1 Blue M15-467869 Adriana Chastant  104 Parkview Drive, Georgetown, Tx 786264522
+TX West 2015/2/25 y k 22.8 31 Yellow U02-682308 Brian Cunningham  402 Isom Road, San Antonio, Tx 782165100
+TX West 2015/3/16 p u 31.5 -1 Red U02-683997 Linda Edwards  1301 Young St, Ste 1, Dallas, Tx 752025433
+TX West 2015/4/13 o a 5.6 6.7 Indigo A05-512199 Yvonne Emanuel  2475 Cliff Creek Drive, Dallas, Tx 752373867
+TX West 2015/6/2 p k 22.2 -1 Red M30-398808 Karen Engle  5414 Aldine Mail Rd, Houston, Tx 770394920
+TX West 2015/2/1 p k 17.3 -1 Blue M15-746236 Charlene Galvan  5414 Aldine Mail Road, Houston, Tx 770394920
+TX West 2015/6/13 o u 24.4 25.6 Violet M30-794763 Manuel Garcia-Jr  1000 Medical Ctr Blvd, Alice, Tx 783324212
+TX West 2015/2/4 o a 19.1 21.1 Indigo A05-323033 Amy Green  2805 Pine Mill Rd, Paris, Tx 754603457
+TX West 2015/6/2 y u 34.3 37 Orange A05-417738 Deborah Grinnell-Perez  Rm 600, 1301 Young Street, Dallas, Tx 752025433
+TX West 2015/2/7 o a 31.4 35.4 Blue A05-861506 Mary Hernandez  2005 W Jefferson, Harlingen, Tx 785505280
+TX West 2015/3/7 y a 34.8 41.2 Orange M30-481550 Eddie Herrera  2006 East Fm 700, Big Spring, Tx 797205063
+TX West 2015/8/23 p k 31 -1 Red M30-992535 Christopher Huffman  1301 Young St, Rm 410, Dallas, Tx 752025433
+TX West 2015/8/8 p u 25.7 -1 Yellow M15-736989 Kaysha Lewis-Melancon  Rm 400, 4747 Bellaire Blvd, Bellaire, Tx 774014520
+TX West 2015/7/6 y k 6 7.2 Red U02-538515 Tammy London  511 N Main, Temple, Tx 765013246
+TX West 2015/4/3 o k 34 35.4 Indigo M30-940694 Judy Martinez  3004 N Mccoll Rd, Mcallen, Tx 785015514
+TX West 2015/2/4 y k 31.1 31.8 Indigo A05-689010 Linda Matthews  3300 Watters Rd, Pasadena, Tx 775042013
+TX West 2015/5/24 p k 6.1 -1 Yellow U02-598961 April Nelson-Johnson  Rm 410, 1301 Young St, Dallas, Tx 752025433
+TX West 2015/6/11 p u 3.1 -1 Green U02-865119 Davee Nielson  Rm 530, 1301 Young St, Dallas, Tx 752025433
+TX West 2015/1/7 o k 25.8 27.4 Red M30-236903 Courtney Olson  2921 N Valderas, Angleton, Tx 775152762
+TX West 2015/6/5 o k 28.1 32.1 Blue M15-302286 Jonathan Rasco  1301 Young St, Dallas, Tx 752025433
+TX West 2015/4/3 p k 31.8 -1 Red U02-254653 Andrea Reich  2851 Southwest Blvd, San Angelo, Tx 769045776
+TX West 2015/6/10 o k 11.6 13.1 Violet U02-818107 Tonya Robinson  Rm 400, 1301 Young St, Dallas, Tx 752025433
+TX West 2015/1/21 p k 7.9 -1 Yellow A05-714822 Larry Saenz  1202 E South 11Th Street, Abilene, Tx 796024223
+TX West 2015/8/12 p k 25.2 -1 Orange M15-323935 Joel Smith  600 Sgt Ed Holcomb Blvd N, Conroe, Tx 773041152
+TX West 2015/2/11 p a 27.9 -1 Sapphire A05-909439 Karen Smith  Rm 9A27 Federal Bldg, 819 Taylor Street, Fort Worth, Tx 761026124
+TX West 2015/1/23 p k 3.2 -1 Indigo U02-260254 Kimberlee Smith  3801 S Port Ave, Corpus Christi, Tx 784154534
+TX West 2015/6/7 y u 15.7 16.3 Red M30-980568 Kelley Thiel  2901 Victory Lane, Brenham, Tx 778336082
+TX West 2015/4/6 y u 14 15.6 Green A05-753761 Kristen Thomas  2010 N Hwy 360, Grand Prairie, Tx 750501423
+TX West 2015/5/31 o a 18.8 19.4 Green M30-370930 Jesus Velez  4015 Aldine Bender Rd, Houston, Tx 770323910
+TX West 2015/4/20 y a 23.8 25.3 Blue M30-712041 Rose Wilkerson  4750 Canyon Drive, Amarillo, Tx 791098043
+TX West 2015/2/22 y u 23.7 26.3 Red M15-357439 Raphael Williams  1711 W Henderson, Cleburne, Tx 760334101
+TX West 2015/5/21 o u 26.6 29 Indigo U02-975482 Starlitt Woodring  8989 Lakes At 610 Dr, Houston, Tx 770542526
+WA West 2015/4/5 o u 26.4 36.9 Indigo A05-917492 Marilou Abenojar  701 5Th Ave, Suite 2900 Ms 292 B, Seattle, Wa 981047097
+WA West 2015/2/10 y k 13.5 13.5 Blue M15-757388 Teresa Deleon-Cook  Suite 401, 321 Ramsay, Kent, Wa 980324544
+WA West 2015/2/21 o a 6.8 8 Yellow U02-338810 Sylvia Forgey  3809 Broadway, Everett, Wa 982015031
+WA West 2015/6/20 p a 21.3 -1 Red A05-437670 Oscar Gomez  Ste A, 8131 West Klamath Ct, Kennewick, Wa 993365251
+WA West 2015/8/12 y k 11.8 15 Orange M30-722102 Stephen Howe  Ste 1000, 701 Pike Street, Seattle, Wa 981013950
+WA West 2015/4/9 o a 7.8 9.7 Indigo A05-555461 James Johnson  Ste 2900 Ms 351 A, 701 5Th Ave, Seattle, Wa 981047097
+WA West 2015/4/2 o u 30.8 37.1 Blue M30-759585 Victoria Klein  402 Yauger Way Sw, Olympia, Wa 985028660
+WA West 2015/4/12 p a 17 -1 Violet A05-608115 Debora Macdonald  Ste 100, 714 N Iron Bridge Way, Spokane, Wa 992024929
+WA West 2015/7/5 y u 23.6 25.3 Indigo U02-616273 Amy Throop  Suite 500, 805 Broadway Street, Vancouver, Wa 986603333
+WA West 2015/6/9 p a 19.1 -1 Violet A05-309551 Denise Worthy  Suite 500, 300 5Th Ave, Seattle, Wa 981043389
+WY West 2015/1/28 y a 35.2 35.2 Orange M30-663891 Delbert Lloyd  150 East B Street, Casper, Wy 826017004
+WY West 2015/2/24 p u 8.2 -1 Red U02-689920 Angie Simmons  Suite A, 909 Long Drive, Sheridan, Wy 828013282
+AZ West 2015/7/14 y k 26.6 34.9 Red M15-561543 Denna Moulder  Suite 210, 250 N 7Th Ave, Phoenix, Az 850072755
+AZ West 2015/3/30 o u 17.8 20.9 Violet M15-614398 Sandra Perez  250 N 7Th Ave, Ste 100, Phoenix, Az 850072751
+AZ West 2015/3/2 p a 12.2 -1 Green A05-483381 Diane Seetin-Sanchez  Bldg/Rm 430, 18444 North 25Th Ave, Phoenix, Az 850231261
+CA West 2015/8/21 o a 11.8 13.6 Indigo M30-252622 Nelson Arcilla  Fhfb, 1221 Nevin Ave, Richmond, Ca 948013123
+CA West 2015/2/22 p u 15.3 -1 Yellow M15-600427 Katie Banks  40 Massie Circle, Sacramento, Ca 958234301
+CA West 2015/8/18 p u 10.8 -1 Indigo M15-974558 Araceli Benner  Ste A, 8581 Folsom Blvd, Sacramento, Ca 958263707
+CA West 2015/1/21 y a 9.3 9.5 Blue U02-916015 Darlene Castaneda  2575 Haley St, Bakersfield, Ca 933052836
+CA West 2015/8/4 y k 22.7 27.2 Violet M15-379900 Kristina Castillo  Suite 101, 330 North Harris St, Hanford, Ca 932303980
+CA West 2015/4/3 o k 32.4 32.9 Green M15-973335 Jennifer Chang  800 E Colorado Blvd Ste 500, Pasadena, Ca 911012108
+CA West 2015/7/2 o u 9.1 12.3 Blue U02-847654 Gail Clark  Rm 900N, 1301 Clay Street, Oakland, Ca 946125252
+CA West 2015/2/17 y a 34 35.8 Indigo M30-503075 Thomas Daniels  Suite 600, 1120 W La Veta Avenue, Orange, Ca 928684215
+CA West 2015/8/1 o k 14.3 15.9 Yellow M15-532564 Kathy Dittimus  Rm 12-300, 501 I Street, Sacramento, Ca 958147313
+CA West 2015/7/20 y u 22.2 22.3 Blue M15-944305 Lourdes Esquer  Ste 950, 401 West A St, San Diego, Ca 921017998
+CA West 2015/1/17 p u 21.1 -1 Yellow U02-531764 Ricky Gonzales  4201 E Ramon Rd, Palm Springs, Ca 922641422
+CA West 2015/1/2 p a 27.6 -1 Red M15-551369 Liliana Gonzalez  960 W Mission Blvd, Pomona, Ca 917661445
+CA West 2015/3/29 y u 15.7 17.9 Yellow A05-959769 Richard Hatch  900 S Harbor Blvd, Anaheim, Ca 928055529
+CA West 2015/4/15 o a 10.8 11.8 Red U02-371229 Mai Her  Ste 3, 1110 W Kettleman Lane, Lodi, Ca 952406032
+CA West 2015/6/2 p a 10.7 -1 Blue A05-964818 Norberto Huerta  960 W Mission Blvd, Pomona, Ca 917661445
+CA West 2015/8/11 o a 33.6 38.1 Yellow A05-829947 Sylvia Huerta  1098 Valencia St, San Francisco, Ca 941102427
+CA West 2015/8/18 o a 20.5 28.2 Blue M15-660939 Shelley Hurt  367 Via Vera Cruz, San Marcos, Ca 920782619
+CA West 2015/8/14 y k 32.5 40.8 Red U02-695690 Marion Irby  Suite 900, 525 B St, San Diego, Ca 921014475
+CA West 2015/1/28 p k 14.7 -1 Indigo M30-698774 Hardeep Johl  355 Percy Ave, Yuba City, Ca 959915428
+CA West 2015/2/2 y k 31.7 32.6 Yellow M30-815917 Sandra Leblanc  Suite 150, 3230 E Imperial Hwy, Brea, Ca 928216736
+CA West 2015/8/31 o u 16.3 21.5 Yellow A05-337465 Ruby Lee  1221 Nevin Ave, Richmond, Ca 948013123
+CA West 2015/6/21 o a 30.2 45.1 Violet A05-605090 Nancy Long  521 South Orchard Avenue, Ukiah, Ca 954825022
+CA West 2015/3/25 y u 16.6 20 Blue A05-303300 Henry Macias  Ste 250, 2000 Outlet Center Drive, Oxnard, Ca 930365060
+CA West 2015/7/14 p a 34.9 -1 Red M30-531865 Martha Martinez  910 Cirby Way, Roseville, Ca 956614481
+CA West 2015/1/21 y k 32.1 44.7 Green M15-504641 Yesenia Martinez-Esparza  3007 N Imperial Ave, El Centro, Ca 922436311
+CA West 2015/2/15 y a 24.4 26.1 Blue U02-270008 Cheryce Mayes  22815 Calle San Juan, De Los Lagos, Moreno Valley, Ca 925530000
+CA West 2015/1/3 y u 34.4 40.1 Green U02-699311 Benjamin Morando  Suite 800, 525 B Street, San Diego, Ca 921014477
+CA West 2015/3/3 p k 20.3 -1 Orange M15-654077 Patricia Nicasio  Southeast Fresno Office, 5140 East Olive Ave, Fresno, Ca 937272423
+CA West 2015/1/27 y u 6.6 7 Yellow U02-453731 Julisa Pena  20439 Nordhoff Street, Chatsworth, Ca 913116112
+CA West 2015/3/14 p k 29.7 -1 Violet U02-732594 Erika Perez  3164 Garrity Way, Richmond, Ca 948061983
+CA West 2015/3/26 p a 4.2 -1 Orange M30-884066 Mary Russell  Rm 900N, 1301 Clay Street, Oakland, Ca 946125252
+CA West 2015/2/1 p a 29.9 -1 Violet U02-582573 Gloria Schaaf  888 S. Figueroa Street, Ste 1150, Los Angeles, Ca 900170000
+CA West 2015/8/19 p u 17.3 -1 Orange A05-765111 Jeanette Silva  Ste B, 8581 Folsom Blvd, Sacramento, Ca 958263707
+CA West 2015/8/29 y k 27.2 30.4 Green A05-613187 Natasha Sledge  Bldg 400, 12121 Wilshire Blvd, Los Angeles, Ca 900251268
+CA West 2015/5/27 o a 33.9 37.6 Red M15-410193 Marcus Smith  Fhfb 5Th Fl, 1221 Nevin Ave, Richmond, Ca 948013123
+CA West 2015/7/19 o u 34.7 38 Blue M15-365308 Laura Stanley  Ste 200, 7200 S Greenleaf Ave, Whittier, Ca 906021364
+CA West 2015/2/5 y a 27.6 29.9 Green A05-701112 Serey Tan  4747 Feather River Dr, Stockton, Ca 952198002
+CA West 2015/7/31 o u 4.2 4.8 Blue U02-323411 Carolyn Thomas  13955 Park Ave, Victorville, Ca 923922434
+CA West 2015/6/12 o u 5.4 6.5 Orange U02-765210 Rocio Trinidad  900 S Harbor Blvd, Anaheim, Ca 928055529
+CA West 2015/7/29 p k 14.6 -1 Indigo U02-361963 Griselda Valdivia  4957 Paramount Blvd, Lakewood, Ca 907122903
+CA West 2015/4/12 p k 8 -1 Orange M30-811323 Danny Wimberly  104 N Mentor Ave, Pasadena, Ca 911061711
+CA West 2015/7/24 p a 34.4 -1 Green A05-865557 Shui Yan  Suite 201, 2011 Palomar Airport Rd, Carlsbad, Ca 920111431
+CO West 2015/4/30 p a 14.8 -1 Indigo M15-630521 John Bryant  4949 Pearl East Cir, Boulder, Co 803012560
+CO West 2015/1/5 p u 21.2 -1 Violet M30-860402 Pamela Hixon  Ste 4169, 1961 Stout Street, Denver, Co 802944000
+CO West 2015/6/13 y u 6.8 8 Violet U02-380938 Sandra Pino  3769 Parkway Blvd, Pueblo, Co 810080000
+HI West 2015/5/19 p k 35.5 -1 Gladiola A05-261063 Lori-Ann-T Yamada  Rm 3 303, 300 Ala Moana Blvd, Honolulu, Hi 968503303
+ID West 2015/1/13 o a 34.3 45.7 Blue M15-368464 Miguel Madrigal  2196 Channing Way, Idaho Falls, Id 834048034
+KS West 2015/5/11 p a 14.7 -1 Yellow M15-271860 Rebecca Ewy  811 E 30Th Ave, Ste A, Hutchinson, Ks 675024350
+KS West 2015/7/24 y a 25.7 28.7 Green M15-265160 James Feyerherm  1212 E 27Th Street, Hays, Ks 676012106
+KS West 2015/5/26 o a 15.9 18.6 Blue M30-665770 Chad Ingram  Suite A, 811 E 30Th Ave, Hutchinson, Ks 675024350
+MO West 2015/2/3 y u 34.1 39.6 Blue M30-692396 Steven Bonee  2445 Cape Centre Dr, Cape Girardeau, Mo 637035771
+MO West 2015/4/26 p u 31.3 -1 Blue A05-322625 Toni Clark  Suite 100, 1570 West Battlefield, Springfield, Mo 658074163
+MO West 2015/4/25 o k 27.1 27.2 Blue A05-863242 Bryon Harris  601 E 12Th St Rm 1116, Kansas City, Mo 641062818
+MO West 2015/2/7 y u 13.6 15 Indigo A05-624403 Micheal Hill  8620 N Green Hills Rd, Kansas City, Mo 641541912
+MO West 2015/6/27 o k 23.8 27.9 Red A05-319976 Angela Huwar  1105 S Mitchelle Ave, Chillcothe, Mo 646013715
+MO West 2015/2/5 y u 25.8 26.3 Yellow M15-357783 James Jones  120 S Commerce, Nevada, Mo 647724261
+MO West 2015/5/18 y k 32.9 43.2 Blue M30-682878 Nicole Jones  Ste 100, 650 Gravois Bluffs, Fenton, Mo 630267714
+MO West 2015/3/10 p u 29 -1 Indigo A05-677074 William Laws  Suite 100, 1570 W Battlefield, Springfield, Mo 658074163
+MO West 2015/4/23 o a 24.7 34.2 Violet U02-359589 Raymond Nedilnycky  2445 Cape Centre Drive, Cape Girardeau, Mo 637035771
+MO West 2015/4/21 p a 24.7 -1 Red M15-880600 Emily Pratt  4800 Executive Centre Parkway, St Peters, Mo 633762593
+MO West 2015/3/21 p k 19 -1 Indigo M30-446094 Linda Rechtin  Rm 1053, 601 E 12Th St, Kansas City, Mo 641062818
+MO West 2015/8/3 y a 21.7 21.8 Violet A05-336761 John Taber  601 E 12Th, Bolling Fed Bldg Rm 1102, Kansas City, Mo 641062818
+MT West 2015/2/5 y k 3.9 4.1 Blue M15-610298 Catherine Holeman  2201 Harrison Ave, Butte, Mt 597016002
+ND West 2015/1/9 o u 34.4 36.3 Green M30-960065 Karri Smith  Suite 100, 1680 E Capitol Ave, Bismarck, Nd 585015603
+NE West 2015/4/4 o u 20.5 22.3 Blue M30-827810 Michael Mcwilliams  Ste 1, 605 Iron Horse Dr, Norfolk, Ne 687015891
+NE West 2015/6/4 y u 20.7 28.5 Blue M30-951819 Joann Nash  415 Valley View Dr, Scottsbluff, Ne 693611482
+NM West 2015/4/4 o a 3.2 3.4 Orange M15-363040 Alex Griego  1922 5Th St, Santa Fe, Nm 875053467
+NV West 2015/8/31 o u 19.5 25.2 Green M15-251986 Rebecca Archer  1170 Harvard Way, Reno, Nv 895022107
+NV West 2015/7/15 y u 6.8 7 Indigo M15-292582 Miki Taguchi  Ste 1010, 300 South Fourth Street, Las Vegas, Nv 891016027
+OK West 2015/8/27 p a 12.8 -1 Yellow A05-733598 Rebecca Beach  121 S 12Th Ave, Durant, Ok 747014921
+OK West 2015/5/25 o u 16.4 20 Green A05-481899 Cheryl Cornelius-Ochs  450, 2 W 2Nd Street, Tulsa, Ok 741033111
+OK West 2015/7/28 y u 3.6 4.5 Red A05-485049 Leah Jackson  9801 N Kelley, Oklahoma City, Ok 731312433
+OK West 2015/5/5 y k 20.5 26.7 Red M15-464152 Kimberly Swan  518 E Lakeview Rd, Stillwater, Ok 740752825
+OR West 2015/1/20 y k 16.7 17.3 Violet A05-998650 Scott Incardona  17925 Se Division St, Portland, Or 972361065
+OR West 2015/2/8 y k 19.3 22.4 Red U02-969421 Leslie Larosa  Suite 120, 660 Hawthorne Ave Se, Salem, Or 973016684
+OR West 2015/6/9 y u 23.7 23.9 Green U02-480338 Leann Samsel-Palmer  194 Beverly Drive, Oregon City, Or 970453725
+OR West 2015/6/19 o k 29.3 29.9 Indigo A05-846470 Brian Thomas  17925 Se Division Street, Portland, Or 972361065
+SD West 2015/4/1 o a 33.3 35.4 Blue M15-796541 Patricia Pibal  5021 S Nevada Ave, Sioux Falls, Sd 571082265
+TX West 2015/1/10 p k 6 -1 Blue M15-882827 David Bowman  8208 9Th Avenue, Port Arthur, Tx 776428016
+TX West 2015/8/28 y k 8.8 10.8 Violet A05-393628 Eileen Boyd  550, 1301 Young St, Dallas, Tx 752025433
+TX West 2015/4/10 p k 8.7 -1 Yellow M30-884316 Lazaro Cabrera  3004 N Mccoll Rd, Mcallen, Tx 785015514
+TX West 2015/5/31 o u 6 6.3 Yellow M30-676478 Tanya Campbell  8989 Lakes At 610 Dr, Houston, Tx 770542526
+TX West 2015/1/20 o u 28.5 33.6 Yellow M30-470854 Erika Campuzano  10703 Stancliff Rd, Houston, Tx 770994306
+TX West 2015/1/19 o u 27.2 29.9 Yellow U02-716259 Leslie Eackles  600 E Peyton St, Sherman, Tx 750900209
+TX West 2015/6/18 y u 30.2 36.8 Red A05-607183 Sharon Frazier  1060 Guadalupe St, Kerrville, Tx 780284920
+TX West 2015/8/4 o a 16.4 19.4 Indigo M30-854521 Larry Gallup  8208 Ne Zac Lentz Pkwy, Victoria, Tx 779043128
+TX West 2015/5/17 o k 33.3 38.2 Yellow A05-851000 Troy Gardner  A809, 1301 Young Street, Dallas, Tx 752025433
+TX West 2015/3/4 p a 26.1 -1 Green M30-550949 Karen Helmer  1A07, 819 Taylor St, Fort Worth, Tx 761026114
+TX West 2015/5/8 o a 13.7 16.5 Indigo M30-634948 Susan Hoban  Suite 400, 4747 Bellaire Blvd, Bellaire, Tx 774014520
+TX West 2015/5/19 p k 29.8 -1 Red M30-904685 Shirl James  5735 Summerhill Rd, Texarkana, Tx 755031634
+TX West 2015/7/25 y a 34.6 37.7 Red A05-634035 Claudia Lopez  406 South Texas Dr, Eagle Pass, Tx 788525282
+TX West 2015/6/21 o k 7.7 8.1 Orange U02-956804 Diana Miller  2333N Hobart, Pampa, Tx 790652704
+TX West 2015/2/10 p a 32.2 -1 Blue A05-556385 Vanessa Perez-Diaz  Room 400, 4747 Bellaire Blvd, Bellaire, Tx 774014520
+TX West 2015/4/12 o a 15.9 17.4 Red M30-468866 Kevin Pruitt  200, 900 Bugg Lane, San Marcos, Tx 786668005
+TX West 2015/3/21 Q u 7.1 7.6 Blue M15-656406 Irene Ramirez  5825 16Th Street, Lubbock, Tx 794165125
+TX West 2015/1/20 y u 13.7 14 Violet M15-874131 Marsha Schroeder  3438 E Southcross Blvd, San Antonio, Tx 782231633
+TX West 2015/5/3 p a 7 -1 Red M15-856875 Helen Smith  10824 North Central Expwy, Dallas, Tx 752311004
+TX West 2015/7/1 o k 33.8 36.4 Indigo U02-451119 Delisa Stephens  2475 Cliff Creek Crossing Drive, Dallas, Tx 752373867
+TX West 2015/7/3 p k 13.6 -1 Green M30-778322 Kristyn Vanecek  511 N Main St, Temple, Tx 765013246
+UT West 2015/1/9 p a 17 -1 Red M15-237311 Esther Medina  Suite 550, 175 E 400 S, Salt Lake City, Ut 841112314
+UT West 2015/4/8 p k 28.6 -1 Indigo M30-383674 Troy Sato  Rm 2403, 324 25Th St, Ogden, Ut 844012365
+UT West 2015/5/14 y a 11.8 14.1 Violet U02-298830 Carrie Towner  Rm 3102, 125 S State Street, Salt Lake City, Ut 841381107
+WA West 2015/2/5 p u 14.7 -1 Blue U02-520850 Pamela Ambrose  801 Fruitvale Blvd, Yakima, Wa 989021467
+WA West 2015/5/26 o u 35.9 41.9 Green A05-670119 Shelly Anderson  Ste 2900 Ms 201, 701 Fifth Ave, Seattle, Wa 981047075
+WA West 2015/8/4 p u 18.5 -1 Blue A05-412781 Douglas Bork  Dchr, 1901 C St Sw, Auburn, Wa 980017426
+WA West 2015/7/15 p k 17.3 -1 Indigo U02-784411 Judith Bruehl  Federal Bldg Rm 212, 301 Yakima Street, Wenatchee, Wa 988012966
+WA West 2015/1/28 p a 25 -1 Violet M30-463600 Nora Coutis  Ste 100, 1821 Cooks Hill Road, Centralia, Wa 985318100
+WA West 2015/8/8 o k 7 7.9 Blue A05-958053 Joan Cruz  1901 C St Sw, Auburn, Wa 980017426
+WA West 2015/7/30 y a 17.2 18.8 Orange U02-652215 Carol Hetland  1901 C St Sw, Auburn, Wa 980017426
+WA West 2015/5/1 p k 10.5 -1 Green M15-582350 Margaret Lonkert  Ste 2900 Ms 241, 701 5Th Ave, Seattle, Wa 981047075
+WA West 2015/7/23 y u 3.7 4.9 Indigo M15-743796 Mark Strong  801 Fruitvale Blvd, Yakima, Wa 989021467
+WA West 2015/6/9 y u 3.7 3.8 Red M15-636105 Michael Webb  Ste 2900 Ms302C, 701 Fifth Ave, Seattle, Wa 981047075
+AK West 2015/3/19 y k 4.7 6.3 Red M15-366095 Frances Oda  Room A11, 222 W 8Th Street, Anchorage, Ak 995137510
+AK West 2015/4/15 p a 23.9 -1 Red A05-695726 Clarence Thompson  66, 222 West 8Th Ave, Anchorage, Ak 995137510
+AZ West 2015/8/4 y k 5.7 6.3 Blue M30-331583 Colette Rafferty  Suite B, 16241 N Tatum Blvd, Phoenix, Az 850323441
+AZ West 2015/2/24 o u 13 15.9 Green A05-830844 Barbara Reimers  702 W Jerome Ave, Mesa, Az 852105992
+AZ West 2015/7/10 p u 32.9 -1 Red A05-498944 Jorge Sanchez  Suite 100, 88 W 38 Street, Tucson, Az 857750001
+AZ West 2015/4/11 y a 4.7 6 Blue U02-592816 Steven Steinhauer  253 W Superstition Blvd, Apache Junction, Az 851204125
+AZ West 2015/6/27 p a 22.9 -1 Indigo U02-372129 Daniel Torres  600 E 15Th St, Douglas, Az 856071628
+CA West 2015/6/14 y u 19 19.9 Orange A05-669739 Wanda Adams  2508 Verne Roberts Circle, Antioch, Ca 945097904
+CA West 2015/5/4 y k 13.9 17.3 Yellow M30-260668 Alfreda Armstrong  720 E Main Street, Barstow, Ca 923112354
+CA West 2015/2/12 M a 16.5 17 Red U02-906132 Katherine Blum  2160 S El Camino Real, Oceanside, Ca 920546203
+CA West 2015/1/5 o u 9.3 12 Violet M15-745086 Stephanie Bonner  1901 E Noble Ave, Visalia, Ca 932921516
+CA West 2015/2/7 y k 20.9 21.2 Green A05-780374 Nicole Botha  Ste 250, 1610 Arden Way, Sacramento, Ca 958154034
+CA West 2015/7/31 p k 31.1 -1 Blue M30-932382 Cheryl Buchanan  Rm 244, 280 S First Street, San Jose, Ca 951133014
+CA West 2015/5/24 p k 5.8 -1 Violet M30-493468 Sandra Chavez  6303 Rugby Ave, Huntington Park, Ca 902554002
+CA West 2015/7/4 p k 13.3 -1 Indigo A05-236451 Amy Chou  Ste 700, 611 West 6Th Street, Los Angeles, Ca 900173107
+CA West 2015/3/9 y u 23.4 23.7 Yellow M15-369292 Lynne Davis  2440 Tulare St, Ste 300, Fresno, Ca 937212292
+CA West 2015/6/11 y u 5.5 6.5 Green M30-724132 Amanda Donahue  560 E Hoover Ave, Crescent City, Ca 955312442
+CA West 2015/6/30 p a 33 -1 Yellow A05-992507 America Donatto  2530 E Plaza Blvd, National City, Ca 919504038
+CA West 2015/6/12 p k 26.5 -1 Blue U02-581578 Jacquelyn Dulis  Ste 350, 700 E El Camino Real, Mountain View, Ca 940402810
+CA West 2015/1/12 p u 7.1 -1 Blue M30-575081 Linda Garcia  Ste 206, 222 E Carrillo St, Santa Barbara, Ca 931017154
+CA West 2015/1/23 o k 35 38.4 Blue M15-801717 Jamie Gilliam  2500 Fontaine Road, San Jose, Ca 951212131
+CA West 2015/3/26 y k 26.6 28.8 Red U02-686577 Tigran Gumushyan  Ste 300, 11500 W Olympic Blvd, Los Angeles, Ca 900641528
+CA West 2015/3/27 o k 24 25.1 Blue U02-453215 Mario Gutierrez  Suite 201, 501 S Vincent Ave, West Covina, Ca 917906712
+CA West 2015/1/11 p k 12.1 -1 Violet A05-312219 Michelle Hernandez  1333 Front St, San Diego, Ca 921013603
+CA West 2015/6/17 p k 15.5 -1 Blue A05-749289 Dawn Holland  5300 Office Park Dr, Bakersfield, Ca 933090618
+CA West 2015/5/19 o u 21.1 29.6 Indigo M30-514713 Grace Imbrunetti  Suite E1, 1521 N Carpenter Rd, Modesto, Ca 953511217
+CA West 2015/2/23 p a 9.7 -1 Blue M30-295277 Erika Lawrence  846 Arnele Ave, El Cajon, Ca 920202504
+CA West 2015/2/21 p a 33.6 -1 Yellow U02-755055 Maria Lomeli  3007 N Imperial Ave, El Centro, Ca 922436311
+CA West 2015/1/29 o a 16.6 17 Blue A05-806507 Gayle Mackenzie  10668 Sierra Ave, Fontana, Ca 923377512
+CA West 2015/4/14 y k 19.1 21.8 Violet A05-300974 Christina Mejia  2603 Riverside Dr, Susanville, Ca 961304776
+CA West 2015/4/25 o a 10.3 10.5 Violet M30-884753 Albert Meraz  3095 W Devonshire Ave, Hemet, Ca 925455003
+CA West 2015/8/6 M u 14.7 19.4 Indigo M15-442873 Maria Miranda  4201 E Ramon Road, Palm Springs, Ca 922641422
+CA West 2015/8/24 o k 3.7 4 Violet M15-307431 Diane Nelson  3916 Missouri Flat Rd, Ste A, Placerville, Ca 956675265
+CA West 2015/4/16 o k 25.8 38.7 Orange M30-952471 Thuhang Nguyen  770 West Hamilton Ave, Campbell, Ca 950080403
+CA West 2015/1/29 p k 16.3 -1 Green M15-763150 Lena Phan  Frank Hagel Fed Bldg, 1221 Nevin Ave Chr/Etdt 3Rd Fl, Richmond, Ca 948013123
+CA West 2015/5/12 o k 25 29.9 Orange U02-680950 Cozetta Ratliff  Ste 300, 2440 Tulare St, Fresno, Ca 937212292
+CA West 2015/2/12 o k 23.6 29.4 Yellow M30-813537 Aaron Roberts  Ste 207, 14500 Roscoe Blvd, Panorama City, Ca 914024195
+CA West 2015/3/4 o k 27.7 31.1 Violet M30-498604 George Roznetinsky  Ste 320, 710 S Central Ave, Glendale, Ca 912044612
+CA West 2015/8/18 y k 26.7 31.5 Blue M15-610656 Donald Ruesch  2011 Palomar Airport Rd, Ste 201, Carlsbad, Ca 920111431
+CA West 2015/1/6 o k 16.2 17.9 Blue M30-827385 Irene Saenz  Ste 250, 12440 E Imperial Hwy, Norwalk, Ca 906508398
+CA West 2015/1/11 p k 13 -1 Red A05-349402 Maria Samaroo  Equity/16, 301 Howard Street, San Francisco, Ca 941052252
+CA West 2015/5/21 y k 29.7 44.5 Indigo U02-971236 Tiffany Simmons  9351 Telstar Ave, El Monte, Ca 917312815
+CA West 2015/4/10 o k 3.5 3.8 Orange M30-746105 Donna Spriggs  1221 Nevin Ave, Richmond, Ca 948013123
+CA West 2015/3/26 y a 10.6 12.6 Green U02-625159 Angela Stanfel  Ste 101, 800 S Claremont Street, San Mateo, Ca 944021449
+CA West 2015/1/10 y a 9.6 10.4 Violet M15-888947 Douglas Stewart  3750 S Robertson Blvd, Ste 105, Culver City, Ca 902322343
+CA West 2015/3/2 y u 33.2 36.2 Blue A05-978285 Jan Stewart  Bldg C, 2234 Girard Street, Delano, Ca 932153808
+CA West 2015/3/7 y u 7.8 8.2 Violet A05-332053 Adam Terry  2045 Allston Way, Berkeley, Ca 947041417
+CA West 2015/8/25 p k 8.8 -1 Violet M30-753919 Corwin Thompson  Bldg C, 2234 Girard St, Delano, Ca 932153808
+CA West 2015/6/26 p k 13.3 -1 Blue M30-573200 Rocio Uribe-Stewart  Ste 700 At&T Bldg, 611 W 6Th Street, Los Angeles, Ca 900173101
+CA West 2015/5/23 y k 34.7 42.9 Green A05-722242 Carla Valadez  Ste 220, 700 Main Street, Suisun City, Ca 945852494
+CA West 2015/8/26 o k 32.1 34.3 Violet M30-760255 Charles Wong  5Th Floor, 555 Battery Street, San Francisco, Ca 941112312
+CA West 2015/7/12 p k 21.7 -1 Red M30-644119 Darlena Yanez  Ste 250, 1610 Arden Way, Sacramento, Ca 958154034
+CO West 2015/4/18 y k 23.1 25.1 Violet A05-965096 Patricia-Ann-Marie Blot  Ste 4147, 1961 Stout Street, Denver, Co 802944000
+CO West 2015/1/25 p a 21.5 -1 Yellow U02-801050 Chiung-Fen Chen  Rm 5120, 1961 Stout Street, Denver, Co 802945000
+CO West 2015/3/21 o a 24.8 32 Orange M15-684754 Angelique Justin  111 S Tejon St, Suite 401, Colorado Springs, Co 809035116
+CO West 2015/2/15 y u 9.2 11.8 Green A05-629673 Mark Travis  06/01/100, 1961 Stout St, Denver, Co 802941961
+CO West 2015/1/30 p u 29.7 -1 Blue U02-973395 Lisa Walker  Rogers Federal Bldg Ste 06 145, 1961 Stout Street, Denver, Co 802941961
+CO West 2015/5/29 p u 18.8 -1 Violet U02-540807 Jeremy Young  Ste 101, 4949 Pearl East Circle, Boulder, Co 803012577

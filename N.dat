@@ -1,0 +1,747 @@
+2015/8/26
+State  Region   Order Date   Shape Code  Material Code  radius   height   color  Customer Number  First Name   Last Name  Address
+IA North 2015/8/26 p u 4.9 -1 Red M30-673785 Daniel Baer  3165 Williams Blvd Sw, Cedar Rapids, Ia 524041422
+IA North 2015/4/24 y a 20.8 21.1 Violet A05-964994 Denise Jones  Suite 1, 20 Arena Way, Council Bluffs, Ia 515017065
+IA North 2015/1/3 p a 11.5 -1 Violet M15-916199 Mark Owens  Ste 100, 1100 6Th Street, Coralville, Ia 522411756
+IA North 2015/2/1 p a 16.6 -1 Red M30-858795 John Paletta  2502 S 2Nd St, Marshalltown, Ia 501584403
+IL North 2015/5/26 y a 30 32.8 Yellow A05-679813 Monica Ayala  1033, University Place, Evanston, Il 602013196
+IL North 2015/3/28 y a 19.3 20.7 Red M30-525438 Delores Britton  15401 S 94Th Ave, Orland Park, Il 604623827
+IL North 2015/6/6 p k 32.6 -1 Violet A05-912535 James Bushman  790 Fletcher Dr, Elgin, Il 601234755
+IL North 2015/7/28 o u 30.7 34.1 Yellow A05-638244 Wanda Cepulkowski  Ste 201, 2301 W 22Nd St, Oak Brook, Il 605231223
+IL North 2015/2/12 p a 6.7 -1 Yellow A05-303382 Linda Christian  1670 Lebanon Avenue, Belleville, Il 622212466
+IL North 2015/2/23 o a 6.3 6.4 Violet M30-551018 Matthew Dietrich  Suite 2951, 200 W Adams St, Chicago, Il 606065210
+IL North 2015/7/31 o u 14.3 18.2 Green A05-845973 Judith Fredricks  10Th Fl, 600 West Madison St, Chicago, Il 606612406
+IL North 2015/7/13 p k 8.5 -1 Orange U02-691206 Carole Grayson  10Th Floor, 600 W Madison Street, Chicago, Il 606612406
+IL North 2015/7/7 o k 11.8 12.1 Violet A05-594023 Juan Herrera  5130 W North Ave, Chicago, Il 606394447
+IL North 2015/1/9 o a 30.8 31.2 Orange M30-345308 Justin Kessl  2416 S Pulaski Rd, Chicago, Il 606233718
+IL North 2015/3/13 o a 20.9 21.4 Violet U02-859602 Valeria Knighton  552 Houbolt Road, Joliet, Il 604318318
+IL North 2015/2/4 p k 14.8 -1 Blue M30-373443 Brian Larson  400 N Vermilion St, Danville, Il 618324648
+IL North 2015/8/5 o a 27.1 28.4 Blue M30-710768 Babafemi Littlejohn  Fmt 10Th Fl, 600 W Madison St, Chicago, Il 606612406
+IL North 2015/2/22 y k 35.2 40 Turquoise M15-684215 Lakeisel Marks-Evans  5Th Fl, 600 W Madison Ne, Chicago, Il 606612406
+IL North 2015/1/7 o u 33.8 41.8 Violet M30-310721 Khrusharon Mccullough  5Th Flr Sw, 600 W Madison St, Chicago, Il 606612406
+IL North 2015/7/22 o k 22.5 27.3 Red M15-873486 Karel Muehring  3328 W Willow Knolls Dr, Peoria, Il 616141008
+IL North 2015/1/17 o u 4.5 5.7 Green U02-576300 Victoria Odonnell  1St Flr Health Unit, 600 W Madison, Chicago, Il 606612406
+IL North 2015/8/25 p k 10 -1 Indigo M30-425697 Noemi Quinones  200 W Adams, Ste 2901, Chicago, Il 606065234
+IL North 2015/1/2 o u 18.9 20.3 Indigo A05-727025 Rory Robinson  600 W Madison, Chicago, Il 606612406
+IL North 2015/6/12 y u 7.2 8.2 Orange M15-431767 Kimberley Runge  104, 18 Veterans Drive, Harrisburg, Il 629463320
+IL North 2015/7/12 o a 4.2 4.3 Indigo M15-289353 Darrin Salzman  2450 Lake Shore Dr, Woodstock, Il 600986911
+IL North 2015/2/11 p a 35.7 -1 Orange M30-905966 Tina Smiley  4631 S Ashland Ave, Chicago, Il 606093252
+IL North 2015/4/28 p k 34.5 -1 Indigo M30-278166 Elaine Walker  600 W Madison St, 10Th Fl Oarc-Pco, Chicago, Il 606612406
+IL North 2015/1/30 y a 1 1 Yellow A05-324272 Marilyn Zavoskey-Davis  600 West Madison Street, Dpb 3Rd Floor, Chicago, Il 606612406
+IN North 2015/4/27 y a 15.9 21 Red A05-430789 Robert Bennett  2300 N Green River Rd, Evansville, In 477151404
+IN North 2015/8/14 y a 25.1 26.4 Yellow A05-361843 Kenneth Corder  3700 Blackiston Blvd, New Albany, In 471508508
+IN North 2015/5/23 o u 10.8 11.9 Violet U02-406207 Virgen Gonzalez  2122 Lincolnway Ct, Fort Wayne, In 468192139
+IN North 2015/3/10 o u 12.2 13.3 Red M15-341924 Gwendolyn Smith-Leak  117 S Scatterfield Rd, Anderson, In 460123104
+IN North 2015/2/12 o u 23.2 31.5 Yellow A05-701054 Agnes Taylor  2300 N Green River Rd, Evansville, In 477151404
+IN North 2015/7/13 o k 19.9 20.1 Blue M15-621662 Sharon Warner  6511 Brotherhood Way, Fort Wayne, In 468254299
+MA North 2015/3/1 p a 27.8 -1 Yellow M15-387970 Brian Cronin  198 Columbia Road, Hanover, Ma 23392380
+MA North 2015/8/27 p u 34 -1 Blue M30-344698 Sara Gogan  Bldg B, 259 North Street, Hyannis, Ma 26013834
+MA North 2015/6/27 y a 22.7 27.3 Green M15-287144 Leanne Graney  Suite 210N, 1250 Hancock Street, Quincy, Ma 21694331
+MA North 2015/1/23 p u 17.5 -1 Blue A05-870383 Heidi Lamb  4238 Washington St, Roslindale, Ma 21312517
+MA North 2015/7/14 p k 24.4 -1 Blue M30-653430 Carla Medeiros  One Edgewater Drive, Norwood, Ma 20624674
+MA North 2015/5/12 o k 16 16.8 Blue A05-321275 Monica Ramirez  10Th Floor, One Bowdoin Square, Boston, Ma 21142927
+MA North 2015/3/8 y u 3.8 4.2 Orange M30-587241 Michelle Soohoo  Rm 148, 10 Causeway St, Boston, Ma 22221047
+MA North 2015/2/2 p k 23.8 -1 Red M15-346382 Alex Valdez  Suite 300, 151 Warren St, Lowell, Ma 18522647
+MA North 2015/2/26 o u 17.2 20 Violet M15-704874 Laurie Zastrow  210N, 1250 Hancock St, Quincy, Ma 21694331
+ME North 2015/1/18 y u 6.1 6.1 Yellow M30-807319 Lucille Craib  District Office, 231 A Park Street, Rockland, Me 48412127
+ME North 2015/1/15 y a 29.1 29.9 Green M15-448090 Justin Groshon  Suite 1450, 110 Main St, Saco, Me 40723517
+ME North 2015/7/9 o u 6.4 8.8 Yellow M15-450371 Lori Lancaster  Ste 150, 550 Forest Avenue, Portland, Me 41011505
+ME North 2015/2/1 o a 35.9 46.4 Orange M30-946048 David Mahoney  Federal Bldg Rm 208, 202 Harlow St, Bangor, Me 44014901
+MI North 2015/7/11 y u 27.8 30.2 Yellow A05-637900 Steven Calley  Suite 100, 2163 University Park Dr, Okemos, Mi 488643977
+MI North 2015/6/26 o a 24.6 31.2 Yellow A05-552010 Kerry Hart  Ste 200, 234 W Louis Glick Hwy, Jackson, Mi 492011326
+MI North 2015/7/15 o k 17.3 18.7 Violet M30-679792 Michael Kennedy  34010 Plymouth Rd, Livonia, Mi 481501512
+MI North 2015/1/11 o a 7.6 7.8 Red M15-637977 Kevin Lacrosse  Room 1055, 477 Michigan Ave, Detroit, Mi 482262554
+MI North 2015/7/30 o a 34.6 35.8 Green M30-606952 Billy Lopez  60 E. Grand, Highland Park, Mi 482033102
+MI North 2015/6/21 y u 6.3 7.7 Orange M30-842629 Jacqueline Mathies  719 Griswold St, Ste 300, Detroit, Mi 482263321
+MI North 2015/6/7 o a 14.9 16.5 Violet A05-920312 Carin Mcdonald  2518 Capital Ave Sw, Battle Creek, Mi 490154188
+MI North 2015/3/3 y a 4 4.2 Green A05-484595 Nancy Mckee-Marshall  111 N 4Th Ave, Alpena, Mi 497072455
+MI North 2015/1/30 y k 6.5 9.5 Violet U02-789984 Jennifer Redd  4405 S Baldwin Road, Suite A, Orion, Mi 483592164
+MI North 2015/4/15 p u 4.5 -1 Blue U02-929585 Lashaundre Rice  2021 W Caroenter Road, Flint, Mi 485051974
+MI North 2015/4/14 p a 12.6 -1 Green M15-368613 Shelly Rickelmann  2Nd Floor, 19853 W Outer Drive, Dearborn, Mi 481242066
+MI North 2015/1/9 y a 26.6 30.9 Indigo A05-352872 Diana Schmidt  1280 Pontiac Road, Pontiac, Mi 483402238
+MI North 2015/1/14 p u 27.2 -1 Green A05-758319 Jodi Taylor  1300 S Telegraph Rd, Monroe, Mi 481615521
+MI North 2015/3/16 o a 24.1 27.2 Orange A05-307194 Allison Watkins  Ste 200, 4202 Collins Rd, Lansing, Mi 489105894
+MN North 2015/6/20 p u 28.7 -1 Violet M15-659073 Dorothy Briscoe  250 Marquette Ave Ste 300, Minneapolis, Mn 554012340
+MN North 2015/3/30 o u 27.5 33.4 Blue A05-535920 Michael Johnson  Room 1550, 12 Civic Center Plaza, Mankato, Mn 560017782
+MN North 2015/3/5 o a 1.1 1.1 Violet A05-813545 Tanyele Kajer  Suite 100, 3800 Veterans Dr, Saint Cloud, Mn 563033070
+MN North 2015/1/5 y u 4.9 5.1 Green A05-908277 Gregory Westbrook  Ste 100, 6161 American Blvd, Bloomington, Mn 554381288
+NH North 2015/8/3 p u 23.6 -1 Indigo M30-510482 Helia Pixos  34 Mechanic St, Keene, Nh 34313421
+NH North 2015/8/2 y a 29.3 30.3 Orange A05-967032 Charles Short  175 Amherst St, Nashua, Nh 30641368
+NJ North 2015/8/9 o u 15.5 18.4 Blue M15-634935 Peg Dimovski  Ste 401, 160 Pehle Ave, Saddle Brook, Nj 76635227
+NJ North 2015/7/11 y u 34.6 41.1 Indigo M30-494286 Oscar Ernst-Jr  1350 Doughty Rd, Egg Harbor Township, Nj 82345636
+NJ North 2015/2/16 y k 12.6 16.2 Orange A05-654328 Daniel Gilbertson  51 Charles 111 Drive, Glassboro, Nj 80280000
+NJ North 2015/8/9 y u 18.7 21.2 Blue A05-587556 Richard Heyniger  Halsted Commons, 15 33 Halsted St, E Orange, Nj 70182239
+NJ North 2015/6/20 y a 27.4 33.5 Indigo M30-799702 Joanne Mcarthur  29 Davenport St, Somerville, Nj 88762101
+NJ North 2015/7/28 o u 30.4 32.8 Blue U02-480601 Patricia Mcmillan  935 Allwood Road, Clifton, Nj 70121988
+NJ North 2015/5/27 o u 35.7 36.9 Blue A05-339656 James Wallace  1046 Route 47 S, Rio Grande, Nj 82421506
+NJ North 2015/1/25 o k 15.9 22 Blue A05-800345 Miriam Zawadzki  754 State Route 18, 2Nd Fl Ssa, East Brunswick, Nj 88164909
+NY North 2015/7/3 p u 12.4 -1 Orange A05-437317 Dawn Phillips  8Th Floor, One Broadway Center, Schenectady, Ny 123052533
+NY North 2015/2/9 y u 3 3.3 Red A05-572087 David Quintanilla  2Nd Floor, 820 Concourse Village West, Bronx, Ny 104513637
+NY North 2015/4/5 p u 23.2 -1 Blue A05-266072 Betsy Reyes  4Th Floor, One Jamaica Ctr Plz, Jamaica, Ny 114323862
+NY North 2015/1/8 o k 20 24.3 Indigo U02-626467 Rodney Ridley  26 Federal Plz, Rm 4020, New York, Ny 102780004
+NY North 2015/4/4 p u 34.5 -1 Red U02-483417 Randy Rivet  Ste 101, 500 Federal Street, Troy, Ny 121802832
+NY North 2015/3/27 o u 16.6 17.7 Violet A05-709087 Rosa Rodriguez  1111 Myrtle Avenue, Brooklyn, Ny 112065907
+NY North 2015/5/23 y u 33.9 34.3 Yellow A05-784377 Laura Rogers  1510 Hylan Blvd, Staten Island, Ny 103051938
+NY North 2015/7/3 p a 3.2 -1 Blue U02-647845 Tiffany Secreti  156 Bellew Ave South, Watertown, Ny 136012389
+NY North 2015/8/8 p u 26.8 -1 Orange M30-841050 Suzanne Vetrano  13850 Barclay Ave, Flushing, Ny 113552554
+OH North 2015/1/11 o a 24 25.3 Green A05-390736 Paul Benson  252 Venture Place, Lancaster, Oh 431308405
+OH North 2015/4/4 p a 16 -1 Indigo A05-393868 James Bitzer  Room 209 Federal Bldg, 200 W Second Street, Dayton, Oh 454021443
+OH North 2015/4/27 p u 26.4 -1 Green U02-971140 Jeanne Buzek  Ste 500, 14650 Detroit Ave, Lakewood, Oh 441074271
+OH North 2015/8/30 y u 24.7 24.8 Orange M15-597256 Lissette Degrandis  5Th Floor, 1660 West Second Street, Cleveland, Oh 441131454
+OH North 2015/7/11 p u 33.6 -1 Yellow A05-520754 Christine Desalle  252 Wayne St, Sandusky, Oh 448702614
+OH North 2015/6/6 o u 3.4 3.7 Blue A05-529811 Adam Feltes  444 Enterprise Parkway, Ravenna, Oh 442668059
+OH North 2015/1/21 o k 18.6 20.6 Green M30-710612 Tracey Griggs  4127 Westbourne Blvd, Copley, Oh 443212818
+OH North 2015/8/1 p a 34.7 -1 Orange U02-637235 Catherine Hebbeler  Suite 2100, 312 Elm Street, Cincinnati, Oh 452022767
+OH North 2015/8/21 p u 28.4 -1 Yellow U02-995439 Brenda Heuer  1287 S Trimble Road, Mansfield, Oh 449072665
+OH North 2015/3/31 o u 26.6 29 Orange M30-363089 Maya Justice  125 Derby Downs Rd, Newark, Oh 430553303
+OH North 2015/1/22 p k 27.9 -1 Violet A05-336988 Margaret Mcguire  743A East State Street, Athens, Oh 457012157
+OH North 2015/2/5 o k 9 9.8 Red U02-284265 Judy Park  4035 N Jefferson St, Medina, Oh 442565622
+OH North 2015/8/3 o k 30.9 36.9 Yellow M30-323190 Jamar Shackelford  6553 Winford Ave, Hamilton, Oh 450110548
+OH North 2015/2/11 o u 12.8 14.8 Green M15-735166 Janet Smith  14650 Detroit Ave Ste 500, Lakewood, Oh 441074271
+OH North 2015/7/25 y u 23 26.4 Violet M15-702897 Joan Tanner  Rm 101, 7344 Pearl Road, Middleburg Hts, Oh 441309601
+OH North 2015/4/10 o u 34.3 86.2 Indigo U02-684374 Jeri Wenzel  6553 Winford Ave, Hamilton, Oh 450110548
+RI North 2015/5/12 o u 16.9 18.3 Orange M15-763274 Michael Ceprano  Pavilion Plaza, 2168 Diamond Hill Rd, Woonsocket, Ri 28951772
+RI North 2015/8/11 p u 25.5 -1 Indigo M15-452798 Phyllis Lefoley  Rm 318, 380 Westminster Street, Providence, Ri 29033240
+VT North 2015/1/22 y k 25.8 37.3 Cyberspace A05-536616 Barbara Mcguire  330 Asa Bloomer Bldg, 88 Merchants Row, Rutland, Vt 57013449
+CT North 2015/3/2 o u 12.1 14.5 Red M30-864289 Thomas Bartlett  Rm 415, 150 Court St, New Haven, Ct 651020220
+CT North 2015/6/30 o u 10.9 11.6 Violet A05-261402 Elnora Carroll  22Nd Flr Ct Financial, 157 Church Street, New Haven, Ct 651021000
+CT North 2015/7/5 y k 8.7 29.4 Indigo U02-849346 Frank Ramos  131 West Street, Danbury, Ct 681063760
+DE North 2015/1/10 o u 10.1 10.6 Blue U02-764302 Sherita Deal  500 W Loockerman St Ste 100, Dover, De 199043295
+IA North 2015/5/29 y a 27.7 33.1 Yellow M30-897182 Jody Franke  625 Village Green Dr Sw, Mason City, Ia 504017355
+IA North 2015/5/12 p a 16.9 -1 Blue U02-405684 Cynthia Hedge  Ste A, 2429 Northgate Street, Ottumwa, Ia 525011117
+IL North 2015/6/7 p a 14.9 -1 Red A05-473050 Niki Alvarado  250 W Cherry St, Carbondale, Il 629012856
+IL North 2015/1/28 o k 10 11.3 Green M30-670664 Brenda Avitan  2116 Green Bay Rd, Evanston, Il 602013026
+IL North 2015/3/4 y a 21.6 23.5 Blue U02-337967 Jamie Barton  Ste 1500, 200 W Adams, Chicago, Il 606065228
+IL North 2015/8/21 o k 20.4 22.6 Yellow M30-389243 Gregory Bieller  207 N Williamsburg Drive, Bloomington, Il 617047705
+IL North 2015/8/31 y a 9.2 11.1 Blue M30-280320 Joseph Brice  6338 S Cottage Grove Ave, Chicago, Il 606373520
+IL North 2015/6/25 y k 33.2 33.4 Red A05-684294 Matthew Eisenhauer  Rm 104, 250 W Cherry St, Carbondale, Il 629012856
+IL North 2015/4/2 o u 35 35.7 Yellow A05-355122 Anita Evans  1005 Factory Outlet Dr, West Frankfort, Il 628964178
+IL North 2015/8/9 p k 9.3 -1 Indigo U02-737559 Denise Faulkner  4631 S Ashland Ave, Chicago, Il 606093252
+IL North 2015/6/4 p k 21 -1 Red A05-938533 Berenice Guzman  230 N Mannheim Rd, Hillside, Il 601621835
+IL North 2015/7/24 p a 13.7 -1 Yellow A05-253003 Pablo Lomas  600 W Madison St, Chicago, Il 606612406
+IL North 2015/4/6 o u 30 35.1 Red U02-250498 Vela Marshall  5130 W North Ave, Chicago, Il 606394447
+IL North 2015/4/2 y k 19.4 20.1 Red U02-565332 Chris Montgomery  Ste 2, 1207 Network Ctr Bvd, Effingham, Il 624014632
+IL North 2015/4/4 o k 33.9 44.4 Indigo A05-788362 Rose Mosley  Hwssc, 600 W Madison St, Chicago, Il 606612406
+IL North 2015/1/16 p u 14.8 -1 Red U02-622784 Connie Parish  1325 N Lake St, Aurora, Il 605062409
+IL North 2015/8/26 p k 32.4 -1 Yellow U02-953361 William Pope  Ste 400, 9715 S Cottage Grove Ave, Chicago, Il 606281510
+IL North 2015/8/5 o u 33.8 34.9 Blue A05-288834 Linda Richardson  Arc/Pco, 600 West Madison St 10Th Fl, Chicago, Il 606612406
+IL North 2015/8/27 p a 29.7 -1 Violet M30-768796 Richard Ross  104 S Halsted St, Chicago Heights, Il 604111256
+IL North 2015/2/28 o k 4.4 4.7 Yellow U02-620906 Mary Sauber  230 W Lake St, Bloomingdale, Il 601081038
+IL North 2015/2/18 p k 26.3 -1 Red M30-599408 Santita Soler  3260 W Fullerton Ave, Chicago, Il 606472563
+IL North 2015/1/4 p a 22.8 -1 Blue M15-923278 Gary Taylor  2060 Windish Drive, Galesburg, Il 614019773
+IL North 2015/7/24 y u 22.6 31.1 Violet M15-866354 Norma Velazquez  1233 W Adams, Chicago, Il 606072801
+IN North 2015/5/23 p u 5.4 -1 Orange M15-430298 Jennifer Carpenter  Ste A, 808 South Lake Street, Gary, In 464032917
+IN North 2015/6/3 o a 8.2 9.5 Yellow M30-328739 Silvia Feliciano  602 South Michigan Street, South Bend, In 466012412
+IN North 2015/4/30 y u 32.1 43.8 Violet A05-475378 Anne Harris  515 W Patterson Drive, Bloomington, In 474034817
+IN North 2015/7/23 o a 15.4 15.9 Orange M15-755002 Mona Harter  602 S Michigan St, South Bend, In 466012412
+IN North 2015/5/22 p u 20 -1 Violet A05-355497 Lisa Hayes  1250 Eastport Centre Dr, Valparaiso, In 463832904
+IN North 2015/8/31 o a 25.1 29.3 Green M15-434469 Jacquelyn Jones  400, 151 N Delaware Street, Indianapolis, In 462042510
+IN North 2015/1/17 o k 25 33.7 Orange U02-609807 Catherine Kienitz  Ste 101, 233 E 84Th Drive, Merrillville, In 464106397
+IN North 2015/2/17 y u 25.1 28.2 Red M15-729035 Kayci Merriwether  Rm 272, 101 Nw Martin Luther King Jr Blvd, Evansville, In 477081951
+IN North 2015/5/9 p u 11.4 -1 Blue M15-848511 Scott Mesack  844 N Miller Ave, Marion, In 469522338
+IN North 2015/7/10 y a 4.7 6 Violet A05-368888 Kimberly Nuet  Suite 101, 233 East 84Th Drive, Merrillville, In 464106397
+IN North 2015/5/10 y k 23.7 23.7 Yellow A05-315599 Robert Simons  2122 Lincolnway Ct, Fort Wayne, In 468192139
+IN North 2015/5/14 p k 34.9 -1 Indigo A05-838553 Larhonda Taylor  600 N Walnut, Muncie, In 473051453
+MA North 2015/1/10 o k 13.6 15.9 Blue M15-900912 Lorena Ayala  70 Bond Street, Springfield, Ma 11043402
+MA North 2015/3/12 o k 18 19 Blue A05-799012 Stephen Baran  Rm 148 0 Neill Bldg, 10 Causway Street, Boston, Ma 22221001
+MA North 2015/6/23 p u 3.4 -1 Green M30-589998 Sharon Canavan  3Rd Floor Ste 301, 439 S Union Street, Lawrence, Ma 18432837
+MA North 2015/3/18 y a 17.2 17.3 Indigo M15-657472 Christine Civiello  Ste 400, 99 High Street, Boston, Ma 21102342
+MA North 2015/5/23 y k 30.3 43.8 Green M15-735364 Patricia Daigle  1 Bowdoin Square, Boston, Ma 21142927
+MA North 2015/2/9 y k 24.3 27.5 Yellow M15-929074 Peter Finnegan  439 So Union St, Lawrence, Ma 18432837
+MA North 2015/7/26 y a 33 44.8 Red M30-354884 Erin Genova  Rm 432, 10 Causeway Street, Boston, Ma 22221047
+MA North 2015/6/8 y k 16.1 16.4 Yellow U02-433956 Peter Goulas  Room 432, 10 Causeway Street, Boston, Ma 22221047
+MA North 2015/8/8 p k 19.5 -1 Orange U02-259638 Ronald Grzelak  200 High St, Holyoke, Ma 10406507
+MA North 2015/1/18 y a 5.3 5.4 Blue U02-438130 Pedro Ruiz  881 Main Street, Fitchburg, Ma 14203057
+MA North 2015/4/21 p a 8 -1 Orange M30-919238 Axel Ruiz-Torres  192 Commercial St, Malden, Ma 21486709
+MA North 2015/3/6 p k 24.7 -1 Yellow A05-940446 Maureen Schofield  10Th Floor, One Bowdoin Sq, Boston, Ma 21142927
+MA North 2015/3/16 y u 5.1 6.5 Green M15-591214 Michael Smith  51 Myrtle St, Worcester, Ma 16082027
+MA North 2015/2/7 p k 9.7 -1 Green M30-425338 Thomas Stewart  140 Union Street, Lynn, Ma 19011336
+MA North 2015/6/20 p k 6.9 -1 Green M30-290219 William Sullivan  Rm 2175, Jfk Federal Bldg, Boston, Ma 21030000
+MA North 2015/5/16 y k 35.9 38.3 Indigo M15-917244 Amy Whelan  Room 2175, Rm 2175, Boston, Ma 22030000
+ME North 2015/7/17 y u 19.9 22.6 Green M30-587771 Mary Franklin  Ste 600, One Portland Square, Portland, Me 41014059
+MI North 2015/2/19 y k 14.6 21.9 Indigo M15-503816 Angela Baiz  1280 Pontiac Rd, Pontiac, Mi 483402238
+MI North 2015/7/25 p u 14.7 -1 Blue M30-758852 San Barajas  26200 21 Mile Rd, Chesterfield, Mi 480513002
+MI North 2015/5/7 p a 4.7 -1 Red M15-339746 Oussama Bazzi  10201 W Seven Mile Rd, Detroit, Mi 482211903
+MI North 2015/2/8 p u 9.9 -1 Violet U02-241934 Robin Campbell  9324 Conant, Hamtramck, Mi 482123506
+MI North 2015/4/17 y k 21.1 21.4 Blue A05-328130 Ramon Clark  Ste 500 Crown Ponite, 25900 Greenfield Road, Oak Park, Mi 482371292
+MI North 2015/4/12 y a 14.2 15 Yellow A05-521561 Jessica Conroy  Ste 100, 2163 University Park Dr, Okemos, Mi 488643977
+MI North 2015/3/9 y u 17.1 18.2 Indigo A05-641347 Alicia Currie-Bolden  34010 Plymouth Rd, Livonia, Mi 481501512
+MI North 2015/8/26 y a 17 19.1 Red U02-869801 Carla Custer  4035 Sweeney Road, Mt Pleasant, Mi 488586631
+MI North 2015/3/28 o a 30.7 31.4 Indigo M30-257168 Michael Laird  3971 Research Park Drive, Ann Arbor, Mi 481082281
+MI North 2015/2/18 o a 14.9 19.2 Green U02-234607 Lisa Mccrary  10201 W Seven Mile Road, Detroit, Mi 482211903
+MI North 2015/7/14 p k 9.6 -1 Indigo A05-426001 Jamesina Parker  23580 Orchard Lake Rd, Farmington Hills, Mi 483363241
+MI North 2015/8/14 p k 13.7 -1 Indigo M15-718225 Dawn Parrish  2518 Capital Ave, Battle Creek, Mi 490154188
+MI North 2015/7/14 y u 28.3 30.2 Violet A05-815328 Jaymie Petronzi  2021 W Carpenter Road, Flint, Mi 485051974
+MI North 2015/8/31 y a 34.2 38.1 Yellow M15-519130 David Soto  3450 Biddle Ave, Wyandotte, Mi 481926205
+MI North 2015/2/6 y u 11.9 11.9 Red M15-870105 Kenneth Tash  Rm 1550, 477 Michigan Avenue, Detroit, Mi 482262562
+MN North 2015/8/11 p V 13.3 -1 Orange U02-361934 Patricia Bauer  2900 Hannah Ave Nw, Bemidji, Mn 566015641
+MN North 2015/8/23 y u 23.9 28.3 Red M15-774305 Cynthia Cash  250 Marquette Ave Ste 300, Minneapolis, Mn 554012340
+MN North 2015/2/24 y k 3 3 Green M15-882662 Ismail Mohamed  Ste 2, 1811 Chicago Avenue, Minneapolis, Mn 554042064
+MN North 2015/5/14 p k 30.3 -1 Blue U02-687283 Sharon Rushford  Ste 701, 2633 Jefferson St, Alexandria, Mn 563084011
+NH North 2015/3/3 o u 34.7 41.2 Red M30-520916 Cuong Do  Po Box 209, Portsmouth, Nh 38020209
+NH North 2015/1/22 y a 8.1 10.3 Violet A05-552906 Angela Hubbard  Suite 201, 1 Wall St, Manchester, Nh 31011500
+NH North 2015/1/20 y u 4.2 4.3 Yellow M30-611761 Daphne May  80 Daniel Street, Portsmouth, Nh 38013850
+NH North 2015/2/13 o u 29 36.4 Violet A05-871719 Donna Wyskiel  Suite 303, 1750 Elm Street, Manchester, Nh 31042908
+NJ North 2015/5/27 p a 24.7 -1 Blue M15-500740 Paul Devine  Ste 200, 2200 Route 10, Parsippany, Nj 70545305
+NJ North 2015/7/23 y k 24.4 25.1 Red A05-421147 Maria Martin  Ste 100, 5 Executive Campus, Cherry Hill, Nj 80024107
+NJ North 2015/8/21 o k 12.7 16.3 Blue M30-415794 Yomaira Minaya  325 West Side Avenue, Jersey City, Nj 73051127
+NJ North 2015/8/1 o a 34.1 36.1 Red M15-869174 Charles Overby  Ste 401, 160 Pehle Ave, Saddle Brook, Nj 76635227
+NJ North 2015/3/1 y k 15.9 16 Red M30-437015 Cheryl Powell  1046 Route 47 S, Rio Grande, Nj 82421506
+NY North 2015/5/9 o a 22.5 24.6 Violet U02-882657 Deborah Banikowski  100 S Clinton St, Syracuse, Ny 132616100
+NY North 2015/3/22 o a 3.9 3.9 Yellow M15-630122 Ginger Baptie  17 Cronin Rd, Queensbury, Ny 128041418
+NY North 2015/8/2 p k 14.3 -1 Orange A05-957693 Heather Boland  3131 Sheridan Ave, Amherst, Ny 142261977
+NY North 2015/6/11 o a 11.9 12.2 Yellow M30-583172 Diane Brangman  5Th Floor, 211 Station Road, Mineola, Ny 115014205
+NY North 2015/6/12 o u 18.2 21.2 Orange A05-519993 Tahitia Clark  Rm 3718, 26 Federal Plz, New York, Ny 102780004
+NY North 2015/3/26 o u 5.4 6.3 Violet M30-262560 Kate Cooper-Wright  15 Lewis Street, Geneva, Ny 144561700
+NY North 2015/3/10 p k 22 -1 Red A05-987620 Clara Fiske  Suite 301, 3 Washington Ctr, Newburgh, Ny 125504667
+NY North 2015/2/16 o u 7.6 8.3 Violet A05-490351 Anita Gardner  Ll2, 155 10 Jamaica Avenue, Jamaica, Ny 114320000
+NY North 2015/1/1 o u 27.5 29.8 Green M30-708012 Alanna Gillis  5Th Floor, 300 S State Str, Syracuse, Ny 132022024
+NY North 2015/2/20 p u 3.4 -1 Orange M30-784719 Edward Gochman  63 44, Austin Street, Rego Park, Ny 113740000
+NY North 2015/6/2 p a 0.9 -1 Green M15-590751 Sheree Gray  1829 Southern Blvd, Bronx, Ny 104604704
+NY North 2015/1/29 o a 29.5 29.6 Orange M30-519137 Sheri Hayes  2Nd Floor, 12 Corporate Woods Blvd, Albany, Ny 122112524
+NY North 2015/2/10 y k 19.4 20.2 Indigo M15-369806 Eno Ikoli  3Rd Floor, 1029 East 163Rd Street, Bronx, Ny 104594345
+NY North 2015/8/6 y u 32.3 35.2 Indigo M15-333076 Lillian Kreig  4Th Fl, 345 East 102Nd St, New York, Ny 100295611
+NY North 2015/7/27 y u 35.3 43.7 Blue A05-711322 Everett Lo  Room 40-102, 26 Federal Plaza, New York, Ny 102780004
+NY North 2015/6/9 y k 3.4 3.6 Indigo A05-456858 Marion Lopez  Suite 4, 226 East 161St Street, Bronx, Ny 104513528
+NY North 2015/7/29 o a 13.5 15.2 Red M30-983661 Tracey Marmet  Ste 1, 31 Main St, Oneonta, Ny 138201585
+NY North 2015/4/29 p a 3.7 -1 Indigo A05-813774 Anthony Milano  26 Federal Plaza, Rm 40-140, New York, Ny 102780004
+NY North 2015/6/17 p k 17.7 -1 Yellow A05-433905 Michael Ortiz  510 Park Ave, West Babylon, Ny 117047900
+NY North 2015/4/24 y a 7.8 8 Blue A05-870691 Stephen Patrick  Suite 6, 175 N Union Street, Olean, Ny 147602700
+NY North 2015/1/6 p k 27.7 -1 Orange A05-458614 Paula Perez  Rm 4040, 26 Federal Plaza, New York, Ny 102780004
+NY North 2015/2/7 o u 20.6 20.7 Violet A05-539859 Thomas Ragonese  Rm 1400 One Hsbc Plaza, 100 Chestnut Street, Rochester, Ny 146042419
+VT North 2015/1/9 o u 3.2 3.7 Blue M30-843005 Georgianna Mckee  58 Pearl Street, Burlington, Vt 54014332
+VT North 2015/7/21 p k 6.2 -1 Green M30-818985 Jaclyn Pratt  58 Pearl Street, Burlington, Vt 54014332
+IL North 2015/2/15 y a 2.7 2.7 Blue U02-911672 Ebon Bynum  Suite 2901, 200 W Adams Street, Chicago, Il 606065234
+IL North 2015/2/6 p k 9.8 -1 Indigo M15-241923 Michael Hauck  7440 Providence Drive, Woodridge, Il 605172181
+IL North 2015/4/30 o k 9.6 11.1 Red U02-425252 Cornelius Hodges  9715 S Cottage Grove Ave, Chicago, Il 606281510
+IL North 2015/4/9 y a 35.5 37.2 Indigo M30-963983 Edward Quinn  Ste 2951, 200 W Adams St, Chicago, Il 606065210
+IL North 2015/1/1 o a 14.7 15.3 Indigo M15-594014 Maria Ramos  101 S Country Fair Dr, Champaign, Il 618212931
+IN North 2015/4/19 y a 34.3 34.5 Green M15-731612 Robert Hilcz  5515 N Post Rd, Indianapolis, In 462161000
+IN North 2015/7/3 p u 35.3 -1 Green A05-774119 Nicholas Lannert  Federal Bldg Room 272, 101 N W Martin Luther King Jr Blvd, Evansville, In 477081924
+IN North 2015/7/16 y u 35.3 38 Orange M15-545130 Patrick Ritter  418 Douglas Street, Hammond, In 463201832
+MA North 2015/1/1 y k 3.7 3.9 Green A05-694705 Christopher Forrant  10 Malcolm Blvd, Roxbury, Ma 21190000
+MA North 2015/6/28 y u 3.6 5.4 Yellow A05-454805 Sonia Nickelson  400 North Main Street, Fall River, Ma 27202406
+MA North 2015/6/1 y Z 34.4 35.1 Violet U02-408918 Abigail St-Phard  Suite 450, 1441 Main Street, Springfield, Ma 11031449
+MI North 2015/6/2 o a 28.8 29.8 Red M30-305521 Tina Davis  60 E Grand Ave, Highland Park, Mi 482033102
+MI North 2015/1/19 p a 4.2 -1 Violet M30-239111 Jeremiah Nelson  99 Monroe Ave Nw Ste 300, Grand Rapids, Mi 495032639
+MN North 2015/1/20 p u 8.8 -1 Violet U02-761462 Carolyn Johnson  1550 Mankato Place, Mankato, Mn 560010000
+MN North 2015/1/14 y k 8.6 10.1 Orange M15-909352 Luis Lugo  Suite 210, 2850 Curve Crest Blvd W, Stillwater, Mn 550824073
+NJ North 2015/3/3 p a 9.1 -1 Red A05-676657 Aileen Alvarez  935 Allwood Rd, Clifton, Nj 70121988
+NJ North 2015/5/16 y k 4.5 5.6 Green M15-396100 Linette Soba  Ste 401, 190 Middlesex Turnpike, Iselin, Nj 88302840
+NY North 2015/4/29 y L 21.1 22.2 Violet M15-700356 Amy Chan  Rm 4040, 26 Federal Plaza, New York, Ny 102780004
+NY North 2015/8/22 y a 35.7 42.1 Indigo M15-789397 Camille Crumpley  Ste 100, 186 Exchange Street, Buffalo, Ny 142042085
+NY North 2015/8/29 p a 12.9 -1 Green U02-807555 Ryan Fuller  Rm 4040, 26 Federal Plaza, New York, Ny 102780004
+NY North 2015/1/26 o k 10.9 12.1 Green M15-656412 Jean Gonzalez  2389 Richmond Avenue, Staten Island, Ny 103143906
+NY North 2015/4/28 y k 35.3 44.6 Red M30-913567 Joseph Kluge  155 10 Jamaica Ave, 11Th Flr, Jamaica, Ny 114320000
+NY North 2015/2/25 y u 21.4 23.1 Violet U02-636282 Angelina Martinez  3Rd Fl, 820 Concourse Village West, Bronx, Ny 104513650
+NY North 2015/8/9 o k 24.9 27.4 Red M30-283893 Katherine Papaccio  3Rd Floor, One Park Place, Peekskill, Ny 105663887
+NY North 2015/2/3 y a 7.4 8.6 Blue M15-990158 Laseana Peart  55 W 125Th Street, New York, Ny 100274516
+NY North 2015/1/23 y u 21.2 28.4 Yellow U02-994475 Damon Perry  Suite 202, 75 South Broadway, White Plains, Ny 106014413
+NY North 2015/3/7 y a 12.2 15.8 Blue M30-256095 Iris Rosario  2Nd Floor, 155 10 Jamaica Ave, Jamaica, Ny 114320000
+NY North 2015/5/31 o a 25.4 32 Violet M30-709292 Gysbertha Sibley  1871 Rockaway Pkwy, Brooklyn, Ny 112365307
+OH North 2015/4/16 p a 6.6 -1 Orange M15-427605 Jacqueline Fannin  Rm 299, 2 S Main St, Akron, Oh 443081810
+OH North 2015/8/10 y u 20.2 26.8 Violet A05-409562 Teresa Fathbruckner  Ste 300, 1650 Lake Shore Dr, Columbus, Oh 432044894
+OH North 2015/3/13 y k 22.3 26.4 Red M30-997247 Kimberly Hamilton  3823 James Ct, Zanesville, Oh 437010965
+OH North 2015/3/1 y L 35.9 52.6 Indigo M30-249132 Linda Slaby  121 S Main St, Akron, Oh 443081415
+RI North 2015/3/2 y u 12.7 14.7 Orange M30-614993 Debra Koski  30 Quaker Lane, 1St Floor, Warwick, Ri 28860111
+CT North 2015/8/2 y k 21.7 27.3 Violet M30-982399 Mary Proia  William Cotter Fed Bldg Rm 340, 135 High Street, Hartford, Ct 610311250
+CT North 2015/6/1 o k 24.2 31.2 Indigo M30-312993 Lisa Smith  Rm 101, 2 Shaws Cove, New London, Ct 632049750
+IA North 2015/7/14 T k 13.7 18.1 Red M15-298022 Judy Franklin  20 Arena Way, Council Bluffs, Ia 515017064
+IA North 2015/6/27 p u 6.8 -1 Violet M15-484649 Rose Hill  Ste A, 2429 Northgate Street, Ottumwa, Ia 525011117
+IA North 2015/5/26 y a 7.6 7.7 Indigo M15-698648 Kathleen Laird  4319 N Brady Street, Davenport, Ia 528064008
+IA North 2015/2/14 o k 31 35 Blue U02-797480 Bruce Mclaren  455 Sw 5Th St, Suite F, Des Moines, Ia 503094609
+IA North 2015/5/28 o k 27.6 28 Violet M30-243750 Cynthia Nelson  625 Village Grn Dr Sw, Mason City, Ia 504017355
+IL North 2015/5/11 y u 12.5 15.3 Yellow M15-308574 Juanita Anderson  30Th Flr, 200 W Adams, Chicago, Il 606065208
+IL North 2015/5/2 p k 25.1 -1 Yellow M30-456556 Milinda Boedeker  600 W Madison St, 4Th Fl, Chicago, Il 606612406
+IL North 2015/7/7 o u 12 12.1 Yellow M15-910812 Daniel Brown  Suite 201, 2301 W 22Nd St, Oak Brook, Il 605231223
+IL North 2015/2/23 o u 9.5 10.2 Blue M30-830011 Timothy Cooper  630 East Oak St, Kankakee, Il 609014042
+IL North 2015/8/8 y u 8 8.7 Green A05-529774 Nancy Erdohaty  600 W Madison, 10Th Fl, Chicago, Il 606612406
+IL North 2015/8/12 o u 10.1 10.7 Yellow A05-993476 Steven Frank  30Th Flr, 200 W Adams St, Chicago, Il 606065208
+IL North 2015/2/27 y u 11 12 Yellow M15-454096 David Gaca  815 W Pioneer Pkwy, Peoria, Il 616152144
+IL North 2015/3/25 y u 6.2 6.6 Red M30-673987 Norma Gonzalez  Ste 600, 4849 N Waukee, Chicago, Il 606300000
+IL North 2015/7/19 p u 32.1 -1 Yellow U02-797716 Anita Green  2350 4Th Ave, Rock Island, Il 612018938
+IL North 2015/5/11 y k 17.7 19.6 Yellow M15-544924 Maricela Guzman  600 W Madison St, 10Th Fl, Chicago, Il 606612406
+IL North 2015/8/3 p u 29.1 -1 Blue U02-494538 Joe Jones  15401 S 94Th Avenue, Orland Park, Il 604623827
+IL North 2015/4/5 p u 12.3 -1 Blue M15-593220 Eileen Koney  7440 Providence Drive, Woodridge, Il 605172181
+IL North 2015/6/8 p u 10.4 -1 Orange M30-892549 Elaine Kurokawa  Chr-Etds, 600 W Madison, Chicago, Il 606612406
+IL North 2015/2/25 p a 15.6 -1 Orange M15-914086 Kathy Lindsey  8658 S Sacramento, Chicago, Il 606523800
+IL North 2015/6/24 o a 20.5 22.4 Violet A05-555738 Engrid Matthews  Chicago East, Il, 6338 South Cottage Grove Avenue, Chicago, Il 606373520
+IL North 2015/8/27 y a 7 7.3 Indigo U02-415970 Annette Mcdonald  16Th Fl, 600 W Madison, Chicago, Il 606612406
+IL North 2015/1/4 o a 6.2 6.9 Yellow U02-724951 Doug Nguyen  Rpao 10Th Fl, 600 W Madison, Chicago, Il 606612406
+IL North 2015/7/28 y u 13.9 16.5 Yellow U02-581244 Nathan Palmer  Room 104, 650 Missouri Ave, East Saint Louis, Il 622012955
+IL North 2015/8/3 y k 7.1 9.1 Green A05-549446 Evelyn Principe  1St Flr, 600 W Madison St, Chicago, Il 606612406
+IL North 2015/8/26 y a 34.2 39.2 Violet M30-861152 Dawn Salzman  502 E Jefferson St, Rockford, Il 611074076
+IL North 2015/1/27 o k 20.3 26.3 Green M15-893288 Valrea Thompson  1930 North Lewis Ave, Waukegan, Il 600874724
+IL North 2015/2/7 y u 34 35.9 Orange U02-265055 Michael Weitl  915 Wenzel Road, Peru, Il 613541129
+IL North 2015/1/6 p a 30.3 -1 Violet M30-901143 Corey Wilson  502 E Jefferson, Rockford, Il 611074076
+IN North 2015/5/10 o Z 22.6 24 Yellow A05-980648 Teresa Brack  500 North A Street, Richmond, In 473743038
+IN North 2015/7/21 y L 27.5 28.6 Violet M30-371441 Jessica Dixon  Room 685, 575 North Pennsylvania Street, Indianapolis, In 462041523
+IN North 2015/2/3 p u 27.2 -1 Green M30-609063 Amy Long  222 Cherry St, Terre Haute, In 478072932
+IN North 2015/6/13 y k 12.8 16.6 Violet M15-629901 Walter Smith  2535 Arnold Street, Columbus, In 472031748
+IN North 2015/7/12 y u 12.5 16.7 Orange M15-733319 Charles Stovall  3700 Blackiston Blvd, New Albany, In 471508508
+IN North 2015/4/20 p a 26.4 -1 Gladiola M30-986900 Terrence Sutton  6511 Brotherhood Way, Fort Wayne, In 468254299
+MA North 2015/8/19 p a 24.8 -1 Green U02-997213 Martha Brockway  Suite 208, 439 S Union Street, Lawrence, Ma 18432800
+MA North 2015/3/13 y a 12.3 12.5 Violet M30-305796 Gary Hart  2Nd Floor, 100 Concord Street, Framingham, Ma 17028328
+MA North 2015/8/3 o k 21.5 24.6 Violet M15-674582 Marianne Holland  259 North St Bldg B, Hyannis, Ma 26013834
+MA North 2015/7/2 y k 23.7 32.5 Violet M15-825308 Janine Lang  10 Federal Street, Suite 406, Salem, Ma 19703875
+MA North 2015/6/24 y a 21.9 95.7 Yellow M30-948862 Melissa Mejias  Bldg/Rm 107, 53 N 6Th St, New Bedford, Ma 27406110
+MA North 2015/1/27 o a 17.4 20.3 Yellow U02-516485 Camille Nichols  140 Union St, Lynn, Ma 19011336
+MA North 2015/8/10 o k 12.7 14.6 Orange M30-365252 Steven Rich  Ste 450, 1441 Main St, Springfield, Ma 11031449
+MA North 2015/4/27 y k 3.2 3.6 Blue A05-449984 Sandra Russo  192 Commercial Street, Malden, Ma 21486709
+MA North 2015/2/10 y a 16 17.7 Green M30-656822 Tara Scopa  106 Pleasant St, Attleboro, Ma 27032359
+MA North 2015/4/2 y k 12.8 18.5 Yellow A05-239352 Joseph Sliwa  30 Christy S Drive, Brockton, Ma 23011825
+ME North 2015/3/15 p a 10 -1 Orange A05-494411 Trisha House  365 Main St, Presque Isle, Me 47692811
+ME North 2015/5/19 y a 21.7 21.7 Green U02-412352 Jason Rossi  Ste 5, 600 Turnet St, Auburn, Me 42105093
+MI North 2015/3/4 y a 6.2 6.3 Red A05-435948 Rochelle Allard  1115 Washington Ave, Bay City, Mi 487085707
+MI North 2015/1/2 o u 8.3 9.2 Violet A05-250595 Janet Berrios  Ste 300, 99 Monroe Ave Nw, Grand Rapids, Mi 495032639
+MI North 2015/8/25 p u 10.6 -1 Indigo A05-440268 Jennifer Bower  5210 Perry Robinson Circle, Lansing, Mi 489113878
+MI North 2015/4/5 o u 28.7 28.7 Indigo A05-421225 Huwaida Hasan  140 North Crooks Rd, Clawson, Mi 480171440
+MI North 2015/6/19 o k 18.6 18.8 Orange U02-598505 Cynthia Johnson-Williams  Ste 300, 19575 Victor Parkway, Livonia, Mi 481527024
+MI North 2015/5/6 y u 10.7 12.2 Blue U02-839145 Tiffany Jones  Ste A, 4405 S Baldwin Road, Orion, Mi 483592164
+MI North 2015/4/16 y u 8.7 9.9 Orange M15-963407 John Koutouzos  340 Morris Ave, Muskegon, Mi 494401103
+MI North 2015/3/7 p u 7.8 -1 Orange M15-653843 Shannon Levra  Ste 1, 300 S Front St, Marquette, Mi 498554643
+MI North 2015/1/9 y a 9.1 10.3 Red A05-613122 Jacqueline Lutey  Ste 200, 19251 Mack Ave, Grosse Pointe Woods, Mi 482362898
+MI North 2015/1/21 y u 11.7 12.1 Orange M30-857223 Starr Martin  5715 Michigan Ave, Detroit, Mi 482103038
+MI North 2015/1/23 y k 6.9 7.1 Red M15-429351 Victoria Nguyen  730 Watertower Rd, Big Rapids, Mi 493072160
+MI North 2015/4/28 o a 3.2 3.8 Yellow M15-794145 Jason Sayer  Suite A, 3971 Research Park Dr, Ann Arbor, Mi 481082281
+MI North 2015/6/26 p u 22.1 -1 Orange M15-865001 Robert Simpson  1329 S Division St, Traverse City, Mi 496844427
+MI North 2015/5/8 p k 16.7 -1 Violet A05-904809 Delores Spalding  477 Michigan Ave Rm 900, Detroit, Mi 482262538
+MN North 2015/8/2 p u 27.5 -1 Indigo M15-608591 Debra Brownrigg  404 2Nd St Nw, Austin, Mn 559123010
+MN North 2015/8/3 y a 25.6 27.1 Indigo M15-375938 Laurel Kratzke  8331 Brandon Road, Baxter, Mn 564258742
+MN North 2015/4/16 y a 20.5 21.7 Blue M30-437453 Sheila Newark  1023 W Lincoln Ave Ste 100, Fergus Falls, Mn 565371041
+MN North 2015/8/6 y k 24 30 Blue A05-847267 Christine Nocton  3280 Northway Dr, Brooklyn Center, Mn 554293050
+MN North 2015/6/28 o k 6.9 7.4 Blue M30-620693 Christina Pena  456 S State St, Fairmont, Mn 560314147
+MN North 2015/3/13 p k 14.2 -1 Yellow M30-875324 Kelly Stainiger  Ste 400, 130 W Superior Street, Duluth, Mn 558024010
+NH North 2015/7/31 y k 24.5 26.6 Green M15-242897 Karen Kazanowski  Ste 303, 1750 Elm St, Manchester, Nh 31042908
+NH North 2015/3/10 o u 28.8 33.4 Indigo M30-854801 Jason Mcdonald  177 Main Street, Littleton, Nh 35614020
+NJ North 2015/8/1 p k 23.1 -1 Yellow U02-605104 Lynda Bryant  79 Hudson Street, Hoboken, Nj 70305638
+NJ North 2015/8/27 o k 28.9 29.6 Indigo U02-941428 Emma Burrows  Bldg A, 2475 Mcclellan Ave, Pennsauken, Nj 81094683
+NJ North 2015/2/4 T k 16.5 21.2 Indigo M30-509384 Alexander Christofides  855 Lehigh Avenue, Union, Nj 70837631
+NJ North 2015/3/31 o u 18.5 21.1 Green U02-727298 Rebecca Ferrer  6Th Floor, 79 Hudson Street, Hoboken, Nj 70305638
+NJ North 2015/3/5 o u 3.7 4.2 Violet M30-761049 Mary-Ann-H Nicholson  Ste 120, 8 Commerce Way, Trenton, Nj 86913373
+NJ North 2015/5/4 o u 18.9 22.2 Orange M15-850025 Kathryn Switzer  Ste 1710, Route 38, Mount Holly, Nj 80609838
+NY North 2015/2/17 p a 26.7 -1 Orange M15-923505 Cheryl Adamec  Leo O Brien Federal Bldg Rm 430, 11A Clinton Avenue, Albany, Ny 122072335
+NY North 2015/4/15 o a 31.1 34.8 Green M30-829067 Gregory Baylor  5Th Floor, 237 West 48Th Street, New York, Ny 100361436
+NY North 2015/7/26 y k 6.7 7.5 Indigo A05-365596 Warren Beck  4Th Floor, 100 S Clinton Street, Syracuse, Ny 132616100
+NY North 2015/8/15 o k 20.4 25.7 Green A05-981842 Erwin Beljan  Ste 100, 186 Exchange Street, Buffalo, Ny 142042085
+NY North 2015/8/5 p k 8.5 -1 Violet U02-360606 Lisandra Cotto  237 W 48Th Street, New York, Ny 100361436
+NY North 2015/8/11 y k 26.2 35.5 Blue U02-368098 John Dagostino  138 50 Barclay Ave, Flushing, Ny 113552554
+NY North 2015/7/15 o u 31.2 33.7 Indigo M15-751409 Steven Dunn  3131 Sheridan Dr, Amherst, Ny 142261977
+NY North 2015/3/13 y u 34.8 43.2 Yellow A05-879932 Aminta Freeman  Rm 4006, 26 Federal Plaza, New York, Ny 102780004
+NY North 2015/2/7 p a 15.2 -1 Orange A05-291720 Barbara Gundrum  26 Federal Plaza, Room 31 120, New York, Ny 102780004
+NY North 2015/1/1 y u 28.3 39 Orange A05-453515 Carolyn Gundrum  650 E 12Th Street, New York, Ny 100093601
+NY North 2015/4/15 o u 30.9 38.8 Blue U02-791836 Anita Isaac  4Th Floor, 1 Jamaica Center Plaza, Jamaica, Ny 114323862
+NY North 2015/8/7 o k 7.6 7.8 Red U02-559543 Eleanor Jobbagy  155 10 Jamaica Ave, 11Th Floor, Jamaica, Ny 114320000
+NY North 2015/8/13 o a 11.1 12.2 Green A05-262304 Benjamin Kabat  571 East Main St, Batavia, Ny 140202741
+NY North 2015/7/9 o k 18.4 18.8 Blue M30-466154 Keith Laborde  332 Main Street, Poughkeepsie, Ny 126013110
+NY North 2015/7/28 o a 20 22.7 Orange A05-604492 Angela Lee  Rm 4040, 26 Federal Plz, New York, Ny 102780004
+NY North 2015/6/14 y k 28.7 36.4 Indigo M15-743159 Andrew Markel  Third Floor, 375 North Broadway, Jericho, Ny 117532016
+NY North 2015/6/19 p u 12.7 -1 Orange M30-699366 Jean Novick  Ste 201, 100 W Church St, Elmira, Ny 149012717
+NY North 2015/6/20 y k 4.3 4.8 Green M15-354063 Beatriz Pineda  60 Jefferson Street, Monticello, Ny 127011122
+NY North 2015/1/30 o u 22.6 23.6 Orange U02-777474 Denise Rodriguez  650 E 12Th St, New York, Ny 100093601
+NY North 2015/3/12 o a 18.5 21.6 Green M15-550412 Tanya Shepherd  84 North Main Street, Freeport, Ny 115202244
+NY North 2015/7/30 o k 23 26.3 Blue A05-414539 Kathleen Sumner  Rm 430, 11A Clinton Ave, Albany, Ny 122072351
+NY North 2015/3/6 o a 15.7 17.1 Indigo M15-679415 Margherita Vasco  2Nd Fl Joseph Adabbo Bldg, 155 10 Jamaica Ave, Jamaica, Ny 114310000
+NY North 2015/5/10 y u 6.2 6.5 Yellow U02-322075 Diane Wilcox  101 Ford Street, Ogdensburg, Ny 136691419
+OH North 2015/5/15 o L 12.2 13 Violet M30-566312 Tina Bostick  921 4Th St, Portsmouth, Oh 456624313
+OH North 2015/2/23 y a 31.7 33.3 Indigo A05-349820 Chris Chesnick  Suite 225, 200 North High St, Columbus, Oh 432152408
+OH North 2015/8/14 y a 26.3 36.3 Blue U02-801945 Stephen Doria  Ste 510, 6000 Lombardo Ctr Dr, Seven Hills, Oh 441316946
+OH North 2015/5/10 p a 5.5 -1 Green A05-622920 Peter Gerds  3823 James Court, Zanesville, Oh 437010965
+OH North 2015/8/21 o a 8.2 8.4 Violet U02-257686 Gregory Hartman  1287 S Trimble Rd, Mansfield, Oh 449072665
+OH North 2015/8/11 p u 26.5 -1 Green A05-403745 Gatian Justice  220 S Hamilton Rd, Columbus, Oh 432132024
+OH North 2015/6/17 o a 25.6 28.1 Green M15-263949 Amy Liffick  273 Stadium Dr, Defiance, Oh 435124604
+OH North 2015/5/23 o u 33.2 39.8 Violet M30-568627 Ryan Lucas  100 Mall Drive, Steubenville, Oh 439523092
+OH North 2015/6/2 o k 32.3 37 Red A05-986402 Thomas Miokovic  354 E Federal St, Youngstown, Oh 445031820
+OH North 2015/6/28 o u 14.5 14.6 Red M15-886716 Lolita Payne  1301 Greene St, Marietta, Oh 457509513
+OH North 2015/6/21 o k 6.8 8.9 Green M15-317994 Krista Reutzel  743A East State Street, Athens, Oh 457012157
+OH North 2015/8/14 p k 30.6 -1 Green M30-494431 Andrea Smith  80 N Progress Drive, Xenia, Oh 453852666
+OH North 2015/7/3 o a 10.6 12.2 Blue U02-960764 Ryan Smith  120 East Fourth St, East Liverpool, Oh 439203044
+OH North 2015/1/29 y k 12.5 13.5 Blue M15-975363 Mary Trent  15250 S Waterloo Rd, Cleveland, Oh 441103820
+OH North 2015/2/23 p u 19.6 -1 Yellow A05-915681 Aaron Upthegrove  10205 Reading Rd, Cincinnati, Oh 452413111
+OH North 2015/4/28 o u 20.4 23.7 Orange A05-258896 Philip Walton  Ste 1000, Four Seagate, Toledo, Oh 436042600
+OH North 2015/8/11 p k 33.9 -1 Violet M15-432261 Todd Woods  277 S Looney Rd, Piqua, Oh 453564147
+OH North 2015/5/15 o u 28.9 32 Indigo A05-367991 Tina Wright  1363 Wellness Dr, Marion, Oh 433026573
+OH North 2015/2/20 o a 11.4 12 Blue M15-461799 Marsha Young  1720 E Melrose Ave, Findlay, Oh 458404413
+RI North 2015/2/4 o u 17.8 24.8 Red A05-419863 David Borge  Room, 380 Westminster St, Providence, Ri 29033246
+CT North 2015/1/6 o a 13.1 15.5 Orange A05-499398 Myrtle Booker  Ste 105, 2 Landmark Sq, Stamford, Ct 690124100
+CT North 2015/7/16 o a 24.8 28.1 Yellow U02-533314 Jose Gonzalez  147 Litchfield, Torrington, Ct 679064230
+CT North 2015/1/7 y a 30 36.4 Red M30-513454 Lisa Moriarty  Ste 1, 51 North Elm Street, Waterbury, Ct 670215450
+DE North 2015/5/23 y k 15.1 17 Green M15-350933 Connie Williams  2Nd Fl, 500 West Loockerman St, Dover, De 199047309
+IA North 2015/1/30 p k 34.4 -1 Green A05-999856 Diane Abell  Ste F, 455 Sw 5Th St, Des Moines, Ia 503094609
+IA North 2015/4/9 o u 28.6 34.3 Indigo A05-675156 Kathleen Beeghly-Fliehe  2315 2Nd Ave N, Fort Dodge, Ia 505013552
+IA North 2015/2/25 o a 29.6 41.2 Violet U02-394619 Linda Hermanstorfer  Bldg 1 Ste 300, 1501 50Th St, West Des Moines, Ia 502665920
+IA North 2015/8/21 y k 27.4 30.5 Blue M15-307424 James Kennedy  3165 Williams Blvd Sw, Cedar Rapids, Ia 524041422
+IA North 2015/4/7 p u 5.5 -1 Indigo M30-781890 Pamela Shaw  Ste 101, 1635 Associates Dr, Dubuque, Ia 520022279
+IL North 2015/3/26 p a 15.8 -1 Red M30-514127 Hal Bove  230 W Lake Street, Bloomingdale, Il 601081038
+IL North 2015/6/2 y k 26.1 32.1 Indigo A05-333296 Danny Byrns  Rm 300, 77 W Jackson, Chicago, Il 606043605
+IL North 2015/4/19 y a 30.7 36.8 Indigo U02-297671 Tammy Cato  630 E Oak Street, Kankakee, Il 609014042
+IL North 2015/2/13 y u 15.5 19.4 Violet A05-463542 Paul Cordes  230 N Mannheim Road, Hillside, Il 601621835
+IL North 2015/5/31 p k 12.6 -1 Red A05-849831 A Diamantopoulos  Ste 200, 1033 University Pl, Evanston, Il 602013172
+IL North 2015/1/13 p k 35 -1 Blue M30-719708 Helen Evans  2127 W Lawrence Ave, Chicago, Il 606251409
+IL North 2015/2/15 y k 19.4 23.2 Red M30-975874 Randy Geisler  1930 North Lewis Ave, Waukegan, Il 600874724
+IL North 2015/6/26 y k 18 23 Yellow M30-509707 Heather Hall  1005 Factory Outlet Drive, West Frankfort, Il 628964178
+IL North 2015/6/12 y k 28.4 28.7 Indigo M30-529458 Louise Hooten  1St Floor, 600 W Madison St, Chicago, Il 606612406
+IL North 2015/2/25 p k 23.4 -1 Yellow A05-395358 Dawn Lee  400 N. Vermillion St, Danville, Il 618324648
+IL North 2015/7/17 y k 21.7 23.6 Green M30-356436 Wanda Lester  2127 W Lawrence Avenue, Chicago, Il 606251409
+IL North 2015/5/22 o a 22.8 26.3 Indigo M15-985270 David Lintner  1233 W Adams, Chicago, Il 606072801
+IL North 2015/7/25 o a 24.6 33.9 Green A05-815474 Richard Meyer  Ste 201, 500 W Monroe St, Springfield, Il 627041990
+IL North 2015/2/8 p k 21 -1 Green A05-607491 Angelo Petros  600 W Madison St, Chicago, Il 606612406
+IL North 2015/2/24 p u 30.4 -1 Red M15-572292 Mark Ranallo  3Rd Floor Computer Room, 600 West Madison St, Chicago, Il 606612406
+IL North 2015/5/12 y u 25.7 26.6 Yellow U02-649568 Gary Rehahn  2401 Lind St, Quincy, Il 623013544
+IL North 2015/4/25 o k 3.5 3.7 Blue A05-983011 Yolanda Sanchez  Osb, 600 W Madison St, Chicago, Il 606612406
+IL North 2015/4/19 o k 23.1 31.4 Violet M15-397461 Delran Tibbs  4Th Flr, 600 W Madison St, Chicago, Il 606612406
+IL North 2015/6/16 y u 21.7 22.4 Orange M30-373319 Rosaura Velez  Ste 600, 4849 N Milwaukee Ave, Chicago, Il 606302171
+IN North 2015/4/7 p a 20.6 -1 Orange M15-514367 Joni Andreas  353 W Alto Rd, Kokomo, In 469023606
+IN North 2015/3/6 p u 18.4 -1 Blue A05-934642 Mary Cochran  2535 Arnold St, Columbus, In 472031748
+IN North 2015/8/10 y u 21 21.5 Red U02-637723 Barbara Crecelius  150 Demaree Dr, Madison, In 472504622
+IN North 2015/4/12 p a 8.8 -1 Blue U02-575444 Jolene Dixon  515 West Patterson Dr, Bloomington, In 474034817
+IN North 2015/4/23 p a 3.8 -1 Violet M15-916078 Robert Gramse  5515 N Post Road, Indianapolis, In 462161000
+IN North 2015/7/24 y u 29.4 30.9 Green A05-849850 Darlene Mcgough  353 W Alto Rd, Kokomo, In 469023606
+IN North 2015/6/14 y a 34.8 38 Green A05-235441 Rosa Willison  231 Waterfall Dr, Elkhart, In 465163669
+MA North 2015/3/16 y a 20.3 21.1 Green A05-455008 Carole Cross  4Th, One Bowdoin Sq, Boston, Ma 21142927
+MA North 2015/1/17 o a 32.5 33.9 Indigo U02-420387 Tania Radziewicz  Ste 406, 10 Federal St, Salem, Ma 19703875
+MA North 2015/8/28 y a 24.1 30.5 Green M30-523512 Charles Strigler  10 Fawcett St., 1St Floor, Cambridge, Ma 21381175
+ME North 2015/8/7 o k 18.6 21.1 Indigo M30-520050 Ellen Leclair  Rm 208, 202 Harlow Street, Bangor, Me 44014919
+MI North 2015/4/27 o u 30.5 33.5 Orange M15-420261 Cynthia Brust  Ste 500, 25900 Greenfield Rd, Oak Park, Mi 482371267
+MI North 2015/2/22 o k 4.7 5.9 Green A05-765206 Michael Gould  3450 Biddle Ave, Wyandotte, Mi 481926205
+MI North 2015/6/23 p u 4.7 -1 Yellow U02-705121 Sana Isho  Room 372, 9222 Grand River, Detroit, Mi 482042249
+MI North 2015/1/18 o a 10.5 10.8 Yellow M15-739367 Shelby Jenkins  3045 Knapp St Ne, Grand Rapids, Mi 495254504
+MI North 2015/2/5 p a 12.4 -1 Violet U02-693072 Brigid Mcleskey  Ste 300, 19575 Victor Parkway, Livonia, Mi 481527024
+MI North 2015/6/29 y a 13.2 13.2 Indigo M30-517595 J Patrick  1940 Sweeney St, Mount Pleasant, Mi 488586626
+MN North 2015/4/17 y k 12.3 18 Violet M15-958036 Tammy Fluto  2900 Hannah Ave Nw, Bemidji, Mn 566015641
+MN North 2015/7/29 y k 20 27.9 Red A05-579442 Julie Hancock  1122 E 25Th Street, Hibbing, Mn 557462138
+MN North 2015/1/24 p a 31.1 -1 Violet A05-960906 Cristina Powell  507 Jewett St, Marshall, Mn 562582628
+NJ North 2015/6/30 y a 13.1 14 Yellow A05-744450 John Kennedy  149 West Broad St, Bridgeton, Nj 83022407
+NJ North 2015/7/21 y a 10.8 10.9 Green A05-345032 Denise Roche  1100 Raymond Blvd, Newark, Nj 71025234
+NJ North 2015/2/1 y a 34.9 41 Blue A05-842257 Vaneetha Srinivasan  2620 Yorktowne Blvd, Brick, Nj 87237949
+NJ North 2015/4/2 y a 23.5 26.9 Blue M30-260473 Barbara Zim  2Nd Floor, 635 S Clinton Ave, Trenton, Nj 86111831
+NY North 2015/2/1 p k 30.7 -1 Green A05-991730 Flora Adams  Ste 4A, 297 Knollwood Road, White Plains, Ny 106071850
+NY North 2015/2/17 p k 20.8 -1 Red M30-646449 Krystol Barriere  Suite 230, 14 Durkee Street, Plattsburgh, Ny 129012998
+NY North 2015/2/19 p u 11.7 -1 Green A05-972361 Maria Bernabe  5Th Fl, 55 W 125Th St, New York, Ny 100274538
+NY North 2015/1/4 p k 23 -1 Indigo U02-863590 Jeffrey Bradshaw  1871 Rockaway Pkwy, Brooklyn, Ny 112365307
+NY North 2015/6/10 o u 19.9 20.2 Blue M30-243365 Michael Brady  26 Federal Plaza, New York, Ny 102780004
+NY North 2015/6/3 o u 32.7 37 Yellow M15-449429 Annette Carlson  Ste 6, 175 N Union St, Olean, Ny 147602700
+NY North 2015/4/17 o a 5.4 5.8 Violet M30-766061 Jamie Combes  Key Ctr Ste 200, 50 Fountain Plaza, Buffalo, Ny 142022230
+NY North 2015/3/11 o k 23.1 28.7 Green M15-964718 Evelyn Figueroa  111 Livingston Street, 18Th Floor, Brooklyn, Ny 112015078
+NY North 2015/3/7 o u 5 6 Violet U02-295579 Juliette Freeman  Rm 3737, 26 Federal Plaza, New York, Ny 102780004
+NY North 2015/3/6 p a 21.1 -1 Indigo A05-803920 Damaris Hernandez  2720 Jerome Ave, Bronx, Ny 104683522
+NY North 2015/6/3 y k 9.9 12.8 Green M15-620494 Julissa Javier  10Th Fl Suite 1000, 20 S Broadway, Yonkers, Ny 107013713
+NY North 2015/1/8 p a 13.3 -1 Violet A05-956233 Stephanie Lai  237 West 48Th Street, New York, Ny 100361436
+NY North 2015/1/27 y a 23.9 27.6 Orange U02-953759 Donna Mazzola  75 Oak St, Patchogue, Ny 117723074
+NY North 2015/8/28 o k 11.6 13.2 Blue A05-874353 David Moriarty  300 S State St, 5Th Flr, Syracuse, Ny 132022024
+NY North 2015/4/26 o a 5.1 6 Yellow M15-530736 Paul Morillo  4292 Broadway, New York, Ny 100333732
+NY North 2015/6/13 y a 5.7 7.4 Red M15-387873 Sarah Rivera-Epps  437 Main Street, Dunkirk, Ny 140482720
+NY North 2015/1/4 o a 28.8 37.2 Indigo M30-709901 Robin Somma  3Rd Flr, 375 N Broadway, Jericho, Ny 117532016
+NY North 2015/8/22 p a 28.5 -1 Yellow U02-423157 Eugenia Taylor  3247 Laconia Ave, Bronx, Ny 104691403
+NY North 2015/6/1 o a 29.3 34.1 Orange M30-621861 Scott Trost  Rm 1400, 100 Chestnut St, Rochester, Ny 146042417
+NY North 2015/4/10 y a 29.9 39.6 Violet U02-358757 George Valentin  Rm 34 116, 26 Federal Plaza, New York, Ny 102780004
+NY North 2015/6/1 y a 32.8 39.8 Indigo A05-314979 Vincent Vicari  747 Warren Street, Hudson, Ny 125343016
+NY North 2015/6/2 o k 24.6 32.5 Green M15-300447 Sharon Ward  154 Pierrepont St, Brooklyn, Ny 112012713
+NY North 2015/2/23 o u 16.2 16.4 Green U02-967470 Ellen Wojtal  240 West Nyack Road, West Nyack, Ny 109941711
+OH North 2015/1/25 y u 31.8 35.3 Red M15-462332 Rosalie Artman  4815 State Rd, Ashtabula, Oh 440046213
+OH North 2015/4/30 o k 21.4 22.1 Yellow A05-585827 Brenda Boynton  Suite 400, 401 North Front Street, Columbus, Oh 432152252
+OH North 2015/3/13 y a 11.8 11.8 Yellow A05-414023 Janice Compton  550 Main Street, Room 9512, Cincinnati, Oh 452025212
+OH North 2015/1/17 p k 29 -1 Violet M30-247054 Ellen Farrell  5Th Flr, 1660 West Second Street, Cleveland, Oh 441131454
+OH North 2015/1/9 y k 32.2 35.8 Blue M30-909008 Tobin Fout  120 East Forth Street, East Liverpool, Oh 439200000
+OH North 2015/6/6 p a 34.4 -1 Indigo A05-642980 Rashaad Fuller  Ste 101, 7344 Pearl Rd, Middleburg Hts, Oh 441309601
+OH North 2015/3/15 p a 9.7 -1 Green M30-700675 Marcus Geiger  2455 State Rt 160, Gallipolis, Oh 456318441
+OH North 2015/2/19 o u 24.5 30.2 Violet M30-668335 William Luipold  Ste 2100, 312 Elm Street, Cincinnati, Oh 452022767
+OH North 2015/5/10 o k 9.8 11 Yellow M30-633958 Robert Mccormick  221 W 5Th St, Lorain, Oh 440521609
+OH North 2015/1/23 y u 3.8 5.3 Violet U02-436171 Katheryn Myers  1050 Hospital Drive, Batavia, Oh 451031994
+OH North 2015/2/20 p k 14.3 -1 Indigo A05-550898 Catherine Stanton  Suite 211, 3355 Richmond Rd, Beachwood, Oh 441224180
+OH North 2015/2/23 p a 31.9 -1 Yellow M15-696711 Donna Sukis  55 W Jackson St, Painesville, Oh 440773210
+OH North 2015/8/18 p k 31.7 -1 Yellow A05-601323 Virginia Ward  1720 E Melrose Ave, Findlay, Oh 458404413
+OH North 2015/4/29 y u 17.9 22.8 Green M15-691274 Robin Wilson  Room 418, 277 S Looney Rd, Piqua, Oh 453564147
+OH North 2015/6/18 o a 4.3 5.9 Yellow U02-786561 Joan Wirtz  221 W 5Th Street, Lorain, Oh 440521609
+RI North 2015/7/18 p u 33.2 -1 Yellow U02-376469 Patricia Elliott  Suite 1000 W, 155 Westminster Street, Providence, Ri 29032008
+VT North 2015/7/1 o k 28 75.9 Red A05-776676 Jamie Fratamico  33 School St, Montpelier, Vt 56023016
+CT North 2015/2/26 T a 33 46.4 Red M30-538032 Michelle Aldi  4Th Flr, One West Main St, Meriden, Ct 645141280
+CT North 2015/1/4 y a 9.8 10.9 Yellow M15-306136 Nydia Allen  1St Floor, 478 Burnside Ave, East Hartford, Ct 610824250
+CT North 2015/5/15 o u 5.7 7.3 Orange M30-867922 Lucie Altieri  Suite 415, 150 Court Street, New Haven, Ct 651020220
+CT North 2015/5/30 p k 15.2 -1 Yellow M15-629566 Diane Alves  478 Burnside Ave, East Hartford, Ct 610824250
+CT North 2015/3/24 o a 22 26.4 Indigo M15-771636 Amy Colonna  3Rd Floor, 3885 Main Street, Bridgeport, Ct 660628140
+CT North 2015/2/28 o u 27.4 35.4 Yellow M15-693597 Patrick Defalco  Rm 331, 135 High Street, Hartford, Ct 610311250
+CT North 2015/2/4 y a 9.9 11.5 Green M30-258418 Paul Foti  475 Main St, Ansonia, Ct 640123150
+CT North 2015/5/7 p k 28.6 -1 Indigo U02-328973 Kerry Hayes  Suite 19, 1320 Main Street, Willimantic, Ct 62261940
+CT North 2015/5/3 o k 30.1 37.7 Indigo M30-323351 Tina Smith  1320 Main St, Willimantic, Ct 62261940
+CT North 2015/6/5 p u 25.9 -1 Yellow M30-356480 Rosalinda Zeller  Ste 1, 51 North Elm Street, Waterbury, Ct 67021545
+IA North 2015/3/22 o a 23.3 26.9 Green A05-541878 Mary Avants  Bldg 1 Suite 300, 1501 50Th Street, West Des Moines, Ia 502665920
+IA North 2015/7/24 p k 22.4 -1 Indigo A05-532354 Sharice Edwards  3920 Division St, Burlington, Ia 526018626
+IA North 2015/2/7 o a 31.1 46.1 Blue U02-581784 Hans Katzenmeier  3555 Southern Hills Dr, Sioux City, Ia 511064707
+IA North 2015/6/28 p a 13.9 -1 Red U02-667908 Derek Nichols  Suite F, 455 Sw 5Th Street, Des Moines, Ia 503094609
+IA North 2015/1/28 p k 24.8 -1 Green A05-306277 Peggy Rogers  906 E Taylor St, Creston, Ia 508014005
+IA North 2015/7/5 p k 20.1 -1 Yellow M15-858208 Rhonda Sessoms  3555 Southern Hills Dr, Sioux City, Ia 511064707
+IL North 2015/6/12 y k 28.9 34.6 Yellow U02-641426 Andrew Balsai  5Th Fl, 600 W Madison Ne, Chicago, Il 606612406
+IL North 2015/6/30 p k 11.2 -1 Green A05-640198 Tammy Castro  Ste C, 3512 E Lincolnway Dr, Sterling, Il 610817622
+IL North 2015/5/4 y u 11.2 15.2 Orange U02-952782 Colleen Edwards  4 E Linden St, Freeport, Il 610323306
+IL North 2015/5/9 y a 29.3 30.3 Blue M15-393243 John Flynn  8658 S Sacramento, Chicago, Il 606523800
+IL North 2015/7/7 p u 3.8 -1 Green M15-496561 Agnes Garbett  Fsmt 10Th Fl, 600 W Madison St, Chicago, Il 606612406
+IL North 2015/6/6 p u 8.1 -1 Orange A05-481040 Laura Garelli  705 N Wheeling Road, Mount Prospect, Il 600562100
+IL North 2015/1/15 p a 13.3 -1 Red M30-786379 Michael Goggil  3328 Willow Knolls Drive, Peoria, Il 616141008
+IL North 2015/8/7 p a 4.5 -1 Yellow U02-812085 Joyce Grant  815 W Pioneer Pkwy, Peoria, Il 616152144
+IL North 2015/2/27 p k 13.8 -1 Green M15-691827 Sheila Henderson  Ste 2951, 200 W Adams St, Chicago, Il 606065210
+IL North 2015/4/28 y k 31.9 38.7 Green M15-602346 Terri Irvin  Ste 2, 1207 E Network Centre Blvd, Effingham, Il 624014632
+IL North 2015/2/4 p k 18.5 -1 Red U02-919058 Sue Jimison  Ste A, 606 W Pershing Road, Decatur, Il 625261616
+IL North 2015/6/7 p u 33.8 -1 Red U02-456740 Susan Kuffel  Po Box 8280, Hwssc 10Th, Chicago, Il 606808280
+IL North 2015/8/30 o a 33.3 34.8 Orange M15-715840 Linda Machnyk  9621 W 56Th St, Countryside, Il 605257218
+IL North 2015/3/3 y k 17.9 18.7 Blue M15-914634 Violetta Mol  104 S Halsted, Chicago Heights, Il 604111256
+IL North 2015/3/26 y a 10.2 11 Green M30-852187 Sean Moulton  2401 Lind St, Quincy, Il 623013544
+IL North 2015/4/20 y u 3.9 4.2 Indigo M15-979920 Almir Ovcina  Suite 300, 77 W Jackson Blvd, Chicago, Il 606043605
+IL North 2015/2/20 y a 12.9 14.2 Red M30-970577 Tanya Peterson  Rm 104, 650 Missouri Ave, East St Louis, Il 622012955
+IL North 2015/7/16 o u 29.2 37.1 Blue A05-652345 Priscilla Powell  25Th Fl, 131 S Dearborn St, Chicago, Il 606035578
+IL North 2015/6/29 y u 5.7 6.2 Violet A05-776735 Kevin Rice  3112 Constitution Drive, Springfield, Il 627046740
+IL North 2015/7/7 o a 28.4 90.6 Violet A05-548293 Dawn Riley  Ste C, 3512 E Lincolnway, Sterling, Il 610817622
+IL North 2015/5/12 p u 15.7 -1 Yellow M15-665289 Bettina Rodriquez  10718 S Roberts Rd, Palos Hills, Il 604652342
+IL North 2015/4/16 o u 18.1 22.9 Yellow M15-427145 Sherry Rovey  1107 W Ferdon, Litchfield, Il 620561088
+IL North 2015/6/29 p k 29.8 -1 Blue A05-547505 Robert Schafer  Suite 1500, 200 W Adams Street, Chicago, Il 606065228
+IL North 2015/1/24 p u 28.8 -1 Blue M15-367032 Kathy Slack  Orc 10Th Fl, 600 W Madison St, Chicago, Il 606612406
+IL North 2015/7/16 y a 29.2 30.6 Orange U02-804067 Joanne Stucker  600 W Madison St, 3Rd Fl, Chicago, Il 606612406
+IL North 2015/7/21 y u 20.8 22.5 Indigo A05-653114 Jonathan Waldron  3112 Constitution Dr, Springfield, Il 627046740
+IN North 2015/3/28 o a 5.9 6.7 Yellow M30-714112 Moises Arroyo  231 Waterfall Dr, Elkhart, In 465163669
+IN North 2015/7/13 p u 8.9 -1 Yellow U02-892445 Cesar Barillas  418 E Douglas St, Hammond, In 463201832
+IN North 2015/2/7 o k 23.1 23.4 Blue M15-853860 Casey Hurst  6745 Network Place, Indianapolis, In 462782048
+IN North 2015/1/26 y k 17.6 18.1 Red A05-366698 Harry Martinez  636 Pine Street, Michigan City, In 463603414
+IN North 2015/1/21 p a 18.6 -1 Blue A05-245129 James Warrner  600 N Walnut St, Muncie, In 473051453
+IN North 2015/1/14 y k 11.8 13.4 Green M30-378841 Janet Winters  10 S 2Nd St, Lafayette, In 479011216
+MA North 2015/5/25 o a 31.1 31.2 Indigo A05-826540 David Blanchard  70 Bond Street, Springfield, Ma 11043402
+MA North 2015/5/3 p a 5.1 -1 Orange M30-312157 Susan Cooney  Jfk Fed Bldg, Rm 625, Boston, Ma 22030000
+MA North 2015/5/13 o k 20.9 21.9 Violet M30-754731 William Davis  96 Marshall Street, North Adams, Ma 12472454
+MA North 2015/3/26 o a 29.7 32.8 Violet U02-298718 Pamela Dutcher  Rm 1975, Jfk Federal Building, Boston, Ma 22030000
+MA North 2015/8/12 y u 0.8 0.8 Blue A05-681525 Ralph Gallant  48 Research Rd, East Falmouth, Ma 25364440
+MA North 2015/2/19 y k 32.5 38.2 Yellow M15-527541 Trung Huynh  Tip Oneill Rm 901, 10 Causeway Street, Boston, Ma 22221001
+MA North 2015/4/14 y k 10.5 10.9 Blue A05-567062 Elizabeth Mitchell  53 N Sixth St, New Bedford, Ma 27406110
+MA North 2015/3/14 y a 25.1 29 Indigo M15-874952 Nelly Rego  106 Pleasant Street, Attleboro, Ma 27032359
+MA North 2015/7/25 y k 26.3 26.7 Yellow M30-938064 Janice Seney  354 Main St, Suite 2, Gardner, Ma 14403056
+ME North 2015/2/21 y k 19 21.5 Red M30-346148 Randy Henry  Ste 5, 600 Turner St, Auburn, Me 42105093
+MI North 2015/4/9 y a 28.7 30.7 Indigo M15-578319 Brian Aspinall  Ste 200, 19853 W Outer Drive, Dearborn, Mi 481242066
+MI North 2015/2/14 y k 30.6 34.3 Yellow M15-261324 Ellen Balentine  306 N Gould St, Owosso, Mi 488672417
+MI North 2015/6/29 o u 31.4 34.5 Indigo A05-593737 Karen Bartz  23580 Orchard Lake Rd, Farmington Hills, Mi 483363241
+MI North 2015/1/1 y k 29 30.1 Orange M15-691979 Darrick Bentley  3400 Conner St, Detroit, Mi 482152433
+MI North 2015/7/6 o k 6.4 7 Indigo M15-869375 Eric Buck  1149 Robert T Longway Blvd, Flint, Mi 485031850
+MI North 2015/3/13 y a 29.8 32.8 Blue M30-303545 Edward Cariuty  2015 1St Ave N, Escanaba, Mi 498292301
+MI North 2015/1/6 p k 8.1 -1 Green M30-763568 Jack Custer  140 N Crooks, Clawson, Mi 480171440
+MI North 2015/2/25 o k 29.2 38 Green U02-783944 Fayha Dabish  3400 Conner Street, Detroit, Mi 482152433
+MI North 2015/3/10 y k 26.5 26.5 Red U02-944720 Izzat Farhat  28657 Cherry Hill Rd, Inkster, Mi 481411197
+MI North 2015/4/24 p k 30.6 -1 Violet A05-617047 Tracie Felder  7385 Triangle Dr, Sterling Heights, Mi 483142318
+MI North 2015/6/26 y a 31.1 34 Orange M15-940428 Anita Fulgencio  2620 Krafft Rd, Fort Gratiot, Mi 480593942
+MI North 2015/4/8 p a 18.4 -1 Indigo U02-666496 Michelle Lee  4035 Sweeney Rd, Mt Pleasant, Mi 488586631
+MI North 2015/3/4 p k 32.6 -1 Blue M30-418011 Janna Luebkert  611 E Genesee Ave, Saginaw, Mi 486071566
+MI North 2015/2/2 p a 24.9 -1 Red M15-983300 Derek Moore  26840 W Seven Mile Rd, Detroit, Mi 482401905
+MI North 2015/5/21 p u 31.3 -1 Blue A05-954607 Nicole Nichols  Rm 900, 477 Michigan Ave, Detroit, Mi 482262538
+MI North 2015/4/19 y k 17.7 18.2 Violet U02-305146 Melissa Povilaitis  1940 Sweeney St, Mount Pleasant, Mi 488586626
+MI North 2015/4/4 o k 35.7 36.1 Green M30-672145 Travis Schwartz  5210 Perry Robinson Cir, Lansing, Mi 489113878
+MI North 2015/2/23 y k 9.8 10.1 Yellow A05-271810 Choua Thao  7385 Triangle Drive, Sterling Heights, Mi 483142318
+MI North 2015/2/12 p a 16.1 -1 Violet M30-953674 Mary Thoe  26200 21 Mile Rd, Chesterfield, Mi 480513002
+MI North 2015/3/20 o k 11.7 13.1 Orange A05-772668 B Tucker  719 Griswold St 3Rd Flr, Detroit, Mi 482263360
+MI North 2015/6/17 y u 9.6 12.4 Red M30-953418 Margo Vondaggenhausen  300 W Second St, Flint, Mi 485021205
+MI North 2015/8/20 o u 8.1 9.4 Blue U02-498434 Tracy Ward  2620 Krafft Road, Fort Gratiot, Mi 480593942
+MI North 2015/8/13 p u 4.7 -1 Violet A05-863635 Thomas Warsinskey  Suite 8, 308 State St, Petoskey, Mi 497704700
+MI North 2015/7/31 p u 27.4 -1 Yellow A05-846136 Regina Yatich  2938 Hansen Rd, West Branch, Mi 486619317
+MN North 2015/6/27 y u 18.6 22.7 Yellow M30-262269 Jennifer Anderson  Ste 307, 53 E 3Rd Street, Winona, Mn 559873482
+MN North 2015/7/26 p a 32.8 -1 Indigo A05-296343 Michelle Henry  Suite 100, 2443 Clare Ln Ne, Rochester, Mn 559068419
+MN North 2015/2/11 y a 16.8 24.6 Violet A05-829067 Pamela Holland  Suite 800, 190 5Th St E, Saint Paul, Mn 551011833
+MN North 2015/3/11 o u 22.8 29.3 Green U02-517779 Lisa Robinson  Suite 1, 1811 Chicago Ave, Minneapolis, Mn 554042064
+MN North 2015/4/6 p u 24.1 -1 Violet M30-289735 Ramiro Sifuentes  3280 Northway Dr, Brooklyn Center, Mn 554293050
+NH North 2015/5/28 y k 27.6 28.8 Indigo A05-688367 Holly Howe  Ste 100, 70 Commercial St, Concord, Nh 33015094
+NJ North 2015/2/24 y k 12.7 14.3 Indigo M15-990922 Victoria Cortez  200 Federal Plaza, Paterson, Nj 75051961
+NJ North 2015/8/28 o k 27.3 40.4 Red A05-981017 Joanne Crane  3310 Route 66, Neptune, Nj 77532706
+NJ North 2015/6/7 y u 29.6 30.9 Green M15-786404 Gina Diouf  3Rd Floor, 190 Middlesex Tpke, Iselin, Nj 88302872
+NJ North 2015/2/9 o k 23.1 23.8 Blue M30-970375 Victoria King  Ste 300, 1100 Raymond Blvd, Newark, Nj 71025234
+NJ North 2015/8/1 y a 5.4 6.3 Yellow M15-932624 Rosaria Parisi  Floor 2, 200 Federal Plaza, Paterson, Nj 75051952
+NJ North 2015/5/23 o a 32.2 39.4 Yellow M15-428653 Dorcus Pedalino  2Nd Flr, 754 Route 18 North, East Brunswick, Nj 88164909
+NJ North 2015/2/19 y k 27.2 31.5 Blue M15-733141 Laura Rinaldi  Bldg/Rm A, 2475 Mcclellan Avenue, Pennsauken, Nj 81094683
+NJ North 2015/2/26 p k 4.3 -1 Blue M15-976388 Elizabeth Stokes  Suite 200, 550 Jersey Ave, New Brunswick, Nj 89013584
+NJ North 2015/2/19 p u 4.9 -1 Red M15-408791 Viktorya Vinokurov  Ste 200, 550 Jersey Ave, New Brunswick, Nj 89013584
+NJ North 2015/1/1 o k 27.8 31.6 Green A05-385231 Lucie Voss  190 Middlesex Tpke Fl 3, Iselin, Nj 88302872
+NY North 2015/8/31 p u 7.7 -1 Indigo M15-704006 Pamela Alexander  3386 Fulton St, Brooklyn, Ny 112082032
+NY North 2015/1/13 y u 25.6 32.8 Orange U02-660880 Michele Baer  1900 Ridge Rd, Ste 120, West Seneca, Ny 142243332
+NY North 2015/7/6 y a 33.2 35.9 Violet M30-286787 John Biundo  4020, 26 Federal Plaza, New York, Ny 102780004
+NY North 2015/1/19 p Z 30.4 -1 Violet A05-880200 Ellen Chan  Rm 39-100 Jacob Javits Bldg, 26 Federal Plaza, New York, Ny 102780004
+NY North 2015/2/1 p a 18 -1 Violet M15-412618 Pamela Clarke  2Nd Fl Suite 4, 226 East 161 St, Bronx, Ny 104513513
+NY North 2015/5/22 o k 23.2 24.1 Orange A05-280676 Desiree Crawford  Rm 3718, 26 Federal Plz, New York, Ny 102780004
+NY North 2015/3/12 y a 27.2 37 Green U02-812883 Wendi Delaney-Wilson  6540 Niagara Falls Blvd, Niagara Falls, Ny 143041550
+NY North 2015/1/16 y u 22.1 22.7 Green M15-753425 Thomas Formanek  127 W State St, Ithaca, Ny 148505474
+NY North 2015/6/13 y k 5.2 5.8 Green M15-662979 Betty Galarza  11306 Rockaway Beach Blvd, Rockaway Park, Ny 116942321
+NY North 2015/4/3 p a 17 -1 Violet A05-861554 Jessica Gansworth  6540 Niagara Falls Blvd, Niagara Falls, Ny 143041550
+NY North 2015/8/6 o a 5.7 8 Yellow M30-336741 Donald Grabiner  75 Oak St, Patchogue, Ny 117723074
+NY North 2015/7/5 y k 31 39.9 Blue M30-604841 Michele House  820 Concourse Village, West 3Rd Floor, Bronx, Ny 104513653
+NY North 2015/4/27 p a 28 -1 Violet U02-282861 Ann Lauler-Lynch  202, 75 South Broadway, White Plains, Ny 106014413
+NY North 2015/3/12 p u 15.2 -1 Blue M30-894158 Kathy Leffel  166 Washington Ave, Batavia, Ny 140202113
+NY North 2015/8/23 p a 27.5 -1 Red A05-782233 Sondra Longtoe  809 Grant Avenue, Lake Katrine, Ny 124495352
+NY North 2015/6/22 p u 33.8 -1 Indigo U02-881536 Joseph Lopez  Nepsc 5Th Fl, 155-10 Jamaica Ave, Jamaica, Ny 114320000
+NY North 2015/4/18 o k 16.6 20 Blue A05-895154 Susan Mack  1111 Myrtle Ave, Brooklyn, Ny 112065907
+NY North 2015/1/24 p a 27.9 -1 Red U02-289596 Sabrina Mackey  771417 Avenue, Brooklyn, Ny 112140000
+NY North 2015/2/17 y a 29.2 36.5 Blue A05-463149 Charles Mirabal  2720 Jerome Ave, Bronx, Ny 104683522
+NY North 2015/5/28 y k 25.5 30.2 Green M30-688863 John Rainis  13 N Arlington Ave, Gloversville, Ny 120782907
+NY North 2015/3/6 y u 17.9 19.4 Indigo M30-452793 Roberta Salinas  85 Harrison Street, New Rochelle, Ny 108016541
+NY North 2015/1/22 p a 31.6 -1 Violet A05-642267 Jannette Santiago  Rm 826, Nys Otda Ddd Po Box 5191, New York, Ny 102745191
+NY North 2015/3/29 o k 31.6 37.9 Yellow A05-378400 Jeffrey Schwartz  Ssa Computer Room, 155-10 Jamaica Ave, Jamaica, Ny 114320000
+NY North 2015/6/14 y a 23.5 27 Yellow M15-300474 Ellen Sieber-Franco  Ste 120, 1900 Ridge Road, West Seneca, Ny 142243332
+NY North 2015/6/15 y k 16.7 22.7 Orange U02-758733 Sharon Soule  17 Fourth Ave, Oswego, Ny 131261803
+NY North 2015/1/17 y u 29.9 38.9 Violet M30-937689 Ellen Sovern  Room 3904, 26 Federal Plaza, New York, Ny 102780004
+NY North 2015/8/25 p a 6.5 -1 Blue A05-590627 Dorothy Stewart  321 Hazeltine Avenue, Jamestown, Ny 147017603
+NY North 2015/4/9 y a 10.8 11.7 Yellow M15-907796 Anna Vega  1380 Parker Street, Bronx, Ny 104625022
+NY North 2015/5/23 p u 25.6 -1 Yellow M30-454146 Karen White  Key Center, 50 Fountian Plz Ste 200, Buffalo, Ny 142022212
+OH North 2015/5/31 o a 36 40.6 Red M30-380930 Michael Anderson  Room 209, 200 West Second St, Dayton, Oh 454021430
+OH North 2015/7/18 y a 11.7 13.5 Yellow M30-302942 Peggy Budai  1050 Hospital Drive, Batavia, Oh 451031994
+OH North 2015/5/17 y u 35 42.1 Green U02-470646 Deborah Davis  7517 Lorain Ave, Cleveland, Oh 441024247
+OH North 2015/1/20 p u 17.2 -1 Orange M30-257317 Michelle Dearth  44 Stoneridge Dr, Chillicothe, Oh 456019596
+OH North 2015/7/3 o a 4.7 5.6 Orange M15-752414 Dana Dutton  Ste 300, 1650 Lake Shore Dr, Columbus, Oh 432044894
+OH North 2015/1/18 y k 13.7 16.3 Blue A05-667338 Jeri Fields  405 South Third St, Ironton, Oh 456381730
+OH North 2015/3/17 p k 26.1 -1 Green A05-951858 Janet Gioffre  252 Wayne St, Sandusky, Oh 448702614
+OH North 2015/2/5 p u 34.2 -1 Yellow M15-315795 Ellen Gleba  17513 Detroit Ave, Lakewood, Oh 441073428
+OH North 2015/7/6 o u 23.9 25.3 Yellow M30-763800 Deborah Harding  6000 Lombardocenter Dr, Ste 510, Seven Hills, Oh 441316946
+OH North 2015/3/27 y u 15.6 20 Orange U02-788913 Helen Huffman-Colter  44 Stoneridge Dr, Chillicothe, Oh 456019596
+OH North 2015/1/27 p a 33.2 -1 Orange U02-492132 Michael Kanode  1363 Wellness Dr, Marion, Oh 433026573
+OH North 2015/6/20 y k 9.1 10 Orange U02-722002 Linda Kestermann  3715 Towne Blvd, Franklin, Oh 450055505
+OH North 2015/2/24 p u 10.6 -1 Violet M30-455541 Harry Liggins  1060 Georgesville Road, Columbus, Oh 432283304
+OH North 2015/7/25 p a 4.1 -1 Yellow U02-656624 Christine Maggard  Rm 793, 1240 E 9Th St, Cleveland, Oh 441992001
+OH North 2015/7/5 p a 12.6 -1 Green U02-616390 John Malone  1St Floor, 258 E Market St, Warren, Oh 444811203
+OH North 2015/3/29 p a 30.4 -1 Blue M30-563237 Sharon Newton  Ste 103, 1225 Woodlawn Ave, Cambridge, Oh 437253094
+OH North 2015/3/16 p u 31.7 -1 Orange M30-905374 Na-Tasha-H Shabazz  Ste A, 4906 Monroe St, Toledo, Oh 436233650
+OH North 2015/4/8 y a 11 11.9 Green M30-735121 Jeannine Starks  3715 Towne Blvd, Franklin, Oh 450055505
+OH North 2015/7/16 p u 4.1 -1 Orange A05-909975 Carlos Walker  2345 Gateway Dr, Wooster, Oh 446915342
+OH North 2015/7/26 p a 31.1 -1 Indigo A05-314583 Amy Willems  301 Mckinley Ave Sw, Canton, Oh 447021736
+OH North 2015/3/24 o u 23.9 25.4 Red U02-511141 Colleen Williams  354 E Federal St, Youngstown, Oh 445031820
+OH North 2015/1/31 o a 8.6 10.6 Red U02-491504 Mary Young  Rm 300, 10 North Ludlow Street, Dayton, Oh 454021881
+RI North 2015/8/24 y u 34.4 43.6 Violet A05-849116 Antonio Dias  4 Pleasant Street, Pawtucket, Ri 28604012
+RI North 2015/7/10 o u 3.5 3.7 Violet A05-298412 Deborah Rodrigues  10Th Floor, 155 Westminister St, Providence, Ri 29032008
+CT North 2015/2/9 p k 4.6 -1 Blue A05-653499 Lisa Digioia-Eairheart  22Nd Floor, 157 Church Street, New Haven, Ct 65102100
+CT North 2015/6/1 p k 32.6 -1 Red M30-558265 Maria Grice  147 Litchfield Street, Torrington, Ct 67906423
+CT North 2015/1/20 y u 7 8.5 Green M30-269002 Claude Murdy  2Nd Floor, 233 Main Street, New Britain, Ct 60514206
+DE North 2015/6/11 y u 28.6 30.2 Blue M15-544753 Beth Blank  20105 Office Circle, Georgetown, De 199473197
+IA North 2015/2/18 o u 22 27.6 Violet M30-375235 Linda Clayton-Powell  4319 N Brady St, Davenport, Ia 528064008
+IA North 2015/7/29 o a 27.7 31.4 Green M15-438547 Elizabeth Gildea  2615 University Blvd, Ames, Ia 500108624
+IA North 2015/6/28 p a 13.9 -1 Green M15-965969 Gerald Nelson  Ste 1, 3121 Greyhound Drive, Waterloo, Ia 507019219
+IA North 2015/5/29 p u 17.9 -1 Orange A05-912732 Anita Zarr  1610 12Th Ave Sw, Spencer, Ia 513015670
+IL North 2015/1/29 p k 5.1 -1 Indigo M30-756201 Denise Anderson  Suite 103, 501 Belle Street, Alton, Il 620026169
+IL North 2015/6/9 p k 17.9 -1 Violet M30-629089 Connie Bleichner  2801 Broadway Rd, Pekin, Il 615542678
+IL North 2015/5/2 y k 24.5 26.8 Yellow U02-378106 Rita Cabrera  552 Houbolt Rd, Joliet, Il 604318318
+IL North 2015/5/20 p u 12.8 -1 Blue A05-965334 Janice Coffman  1670 Lebanon Ave, Belleville, Il 622212466
+IL North 2015/2/15 y k 10.9 11.3 Blue M15-274029 David Dawson  600 W Madison St, 10Th, Chicago, Il 606612406
+IL North 2015/4/21 o a 6.7 7.4 Red A05-848031 Fay Dea  5 Th Flr, 600 W Madison Street, Chicago, Il 606612406
+IL North 2015/3/15 p k 34.6 -1 Orange A05-851498 Mary Gavin  10Th Flr, 600 W Madison St, Chicago, Il 606612406
+IL North 2015/4/3 o a 34 43.7 Red U02-414660 Jim Jamison  10 Th Flr, 600 W Madison St, Chicago, Il 606612406
+IL North 2015/2/7 o k 34 34.9 Green A05-829208 Valerie Linden  10718 Robert Road, Palos Hills, Il 604652342
+IL North 2015/7/4 y u 26.4 33.2 Red M30-608482 Migdalia Martinez  3260 W Fullerton Ave, Chicago, Il 606472563
+IL North 2015/1/31 y k 12 14.7 Blue A05-963691 Jose Medina  2416 S Pulaski Road, Chicago, Il 606233718
+IL North 2015/4/5 y a 14.5 15.4 Blue U02-661125 Anne Mills  1325 N Lake Street, Aurora, Il 605062409
+IL North 2015/3/3 y u 14.8 17.2 Yellow A05-848374 Awilda Pagan  2060 Windish Dr, Galesburg, Il 614019773
+IL North 2015/4/25 p a 5.1 -1 Red A05-677564 Matthew Paruszkiewicz  600 W Madison St, 10Th Fl, Chicago, Il 606612406
+IL North 2015/6/11 p k 13.6 -1 Orange M15-788732 Elaine Popejoy  207 N Williamsburg, Bloomington, Il 617047705
+IL North 2015/4/3 y a 5.6 7.5 Indigo M30-364793 Sheila Sepanski  Od1, 600 W Madison St, Chicago, Il 606612406
+IL North 2015/6/16 o a 32.5 33.1 Orange A05-816369 Deniese Suggs  25Th Floor, 131 South Dearborn, Chicago, Il 606035578
+IL North 2015/8/14 p a 5.2 -1 Red A05-439345 Yvonne Veal  Glpsc, 600 W Madison, Chicago, Il 606612406
+IL North 2015/4/24 p k 16.7 -1 Red U02-431973 Kathy Ward  101 S Country Fair Drive, Champaign, Il 618212931
+IL North 2015/3/31 y a 6.8 7.6 Indigo M30-438801 Elizabeth Williams  705 N Wheeling Road, Mount Prospect, Il 600562100
+IN North 2015/8/23 y a 16.7 20.1 Blue U02-614635 Rick Halbert  606 Veterans Drive, Vincennes, In 475916346
+IN North 2015/1/6 p k 28.8 -1 Violet M30-434221 Brenda Hale  10 S 2Nd St, Lafayette, In 479011216
+IN North 2015/6/27 y a 29.1 41.3 Green A05-747609 Brian Hewitt  222 Cherry Street, Terre Haute, In 478072932
+IN North 2015/8/13 p u 3.1 -1 Orange M15-807184 Ladonna Jones  1250 Eastport Centre Drive, Valparaiso, In 463832904
+IN North 2015/2/20 o u 18.8 23.1 Yellow M30-671489 Cynthia Mcgrew  Ste 400, 151 N Delaware St, Indianapolis, In 462042510
+IN North 2015/2/27 p u 17.2 -1 Orange U02-337377 Sally Nay  150 Demaree Dr, Madison, In 472504622
+IN North 2015/1/20 o a 16.3 18.8 Green A05-862356 Stephen Plew  3810 Calumet Ave, Valparaiso, In 463832695
+IN North 2015/4/14 o a 27.1 30.5 Green A05-869814 Victor Rojas  1438 E 85Th Avenue, Merrillville, In 464108905
+IN North 2015/1/23 o k 28.9 38.7 Orange A05-511450 Blair Tatrault  636 Pine St, Michigan City, In 463603414
+IN North 2015/8/26 o a 35.3 41.7 Red U02-920519 Ana Thorne  Rm 222, 575 N Pennsylvania St, Indianapolis, In 462041523
+IN North 2015/1/6 y a 32.9 37.4 Indigo U02-617353 Aileen Watson  Rm 222, 575 N Pennsylvania St, Indianapolis, In 462041523
+IN North 2015/6/24 y a 26.9 31.4 Green M30-898356 Steven Zeitler  1515 S Grant Ave, Crawfordsville, In 479333331
+MA North 2015/3/17 y a 15 15.4 Blue U02-788452 Diane Bernier  30 Christy S Drive, Brockton, Ma 23011825
+MA North 2015/1/18 p u 24.6 -1 Red A05-658343 Joan Fitzpatrick  Room 400, 99 High Street, Boston, Ma 21102342
+MA North 2015/5/18 y u 10.4 11.1 Yellow M15-796409 Lucia Galvan  115 Freeport Street, Dorchester, Ma 21222829
+MA North 2015/7/3 o a 10.4 14.5 Orange M30-249474 Barbara Gatto  Rm 1900, Jfk Federal Bldg, Boston, Ma 22030000
+MA North 2015/2/2 y a 6.6 6.6 Yellow M15-651340 Evelyn Guerrero  Rm 432, 10 Causeway Street, Boston, Ma 22221047
+MA North 2015/6/22 o u 18.4 22.1 Blue M15-648879 Mayda Hammonds  104 Dean Street, Taunton, Ma 27805403
+MA North 2015/3/31 p a 11.1 -1 Red M30-522369 Stephen Lamoretti  135 Beaver St, Ste 120, Waltham, Ma 24528424
+MA North 2015/3/7 o a 8.1 9.3 Indigo M30-247535 Jaqueline Medina  10 Fawcett Street, 1St Floor, Cambridge, Ma 21381175
+MA North 2015/5/21 p u 4.1 -1 Orange M15-259614 Johanna Medina  367 Main Street, Haverhill, Ma 18304009
+MA North 2015/5/28 o k 8.3 8.8 Green M15-622268 Marilyn Monderer  Ste 102, 1 Edgewater Dr, Norwood, Ma 20624669
+MA North 2015/7/13 y u 17.6 24.5 Blue M30-910071 Tracy Montpetit  3Rd Floor Suite 301, 439 S Union Street, Lawrence, Ma 18432837
+MA North 2015/2/1 p k 24.8 -1 Violet A05-324905 Debra Odom  10 Malcolm X Blvd, Roxbury, Ma 21191775
+MA North 2015/3/27 o u 33.6 35.5 Indigo M15-382570 Nancy Roque  Ste 101, 78 Center Street, Pittsfield, Ma 12016171
+MA North 2015/7/31 y a 24.9 32.7 Yellow M15-905256 Cheryl Thompson  Ste 2A, 100 Concord St, Framingham, Ma 17028328
+MA North 2015/2/26 y a 23.1 29 Orange M30-471946 Diane Vo  Rm 432 O Neill Bldg, 10 Causeway Street, Boston, Ma 22221001
+MA North 2015/7/29 y V 23.2 27.4 Blue A05-421905 To-Quyen-T Vu-Goulas  4Th Floor, 99 High Street, Boston, Ma 21102300
+ME North 2015/2/27 y u 13.2 17.1 Orange M15-481925 Jennifer Bowie  Ste 150, 550 Forest Ave, Portland, Me 41011505
+ME North 2015/8/11 o u 35.7 37.9 Violet M30-935467 Patricia Kinney  365 Main Street, Presque Isle, Me 47692811
+ME North 2015/5/23 p a 9.1 -1 Red M30-410961 Stephanie Korupp  Ste 600, One Portland Square, Portland, Me 41014059
+ME North 2015/8/24 p k 25.5 -1 Violet A05-289711 Sally Libby  14 Colby Street, Waterville, Me 49015563
+MI North 2015/5/2 y u 3.2 3.8 Green M30-634577 Margaret Adair  Ste 200, 4202 Collins Rd, Lansing, Mi 489105894
+MI North 2015/4/10 p u 32.6 -1 Blue M30-367436 Pamela Anthony  9222 Grand River, Detroit, Mi 482042249
+MI North 2015/7/27 y u 18.7 20.8 Indigo M15-845317 Tamara Barber  28657 Cherry Hill Road, Inkster, Mi 481411197
+MI North 2015/4/13 o k 17.5 19.2 Orange M30-466336 Jill Behrens  611 E Genesee Ave, Saginaw, Mi 486071566
+MI North 2015/8/8 o k 22.9 26.7 Indigo M30-329418 Tonia Dodak-Tude-Thuot  455 Bond Street, Benton Harbor, Mi 490224700
+MI North 2015/3/3 y k 22.4 26.7 Yellow A05-281418 Pamela Koutouzos  1149 Robert T Longway Blvd, Flint, Mi 485031850
+MI North 2015/7/23 p k 26.7 -1 Red M30-291589 Daniel Mccue  317 S Drake Road, Kalamazoo, Mi 490091171
+MI North 2015/8/12 o u 22.5 28.3 Yellow U02-462314 Rochelle Mitchell  15250 E 12 Mile Rd, Roseville, Mi 480661837
+MI North 2015/4/9 y u 11.4 12.2 Indigo U02-592590 Tonya Mouw  Ste 2401, 1040 S Winter Street, Adrian, Mi 492213876
+MI North 2015/6/28 p k 15.1 -1 Indigo M30-558905 Rozelia Patino  3045 Knapp St Ne, Grand Rapids, Mi 495254504
+MI North 2015/8/8 p a 9.6 -1 Red A05-655384 Randall Pierson  657 Hastings Ave, Holland, Mi 494235427
+MI North 2015/4/24 y k 3.7 4.4 Yellow M30-956218 Joan Quinlan  Rm 6-200, 3036 W Grand Blvd, Detroit, Mi 482026036
+MI North 2015/2/18 o k 16.3 18.3 Green A05-620558 Lorraine Sullivan  5715 Michigan Ave, Detroit, Mi 482103038
+MN North 2015/7/11 y u 23.5 25 Orange A05-236745 Douglas Clifford  Ste 100, 2443 Clare Ln Ne, Rochester, Mn 559068419
+MN North 2015/5/23 y a 34.2 35.1 Violet M30-442197 Colleen Cullen  1811 Chicago Ave S, Minneapolis, Mn 554041938
+MN North 2015/2/21 o u 22.7 24.7 Indigo M30-497229 Mohmud Haguf  Ste 800, 190 5Th St E, Saint Paul, Mn 551011833
+MN North 2015/6/1 y a 5.2 6.1 Orange A05-897709 Robert Huot  Ste 400, 130 W Superior St, Duluth, Mn 558024010
+MN North 2015/6/20 p a 6.2 -1 Red M30-695385 Lisa Venable  Ste 100, 6161 American Blvd W, Bloomington, Mn 554381288
+MN North 2015/1/16 p u 8.2 -1 Red A05-831227 Shannon Yaritz  Ste 2, 1811 Chicago Ave, Minneapolis, Mn 554042064
+NJ North 2015/6/8 o u 21.5 21.7 Red A05-929935 Hope Austin  1350 Doughty Road, Egg Harbor Township, Nj 82345636
+NJ North 2015/6/25 o k 22 23.5 Blue M15-839016 Linda Bieri  190 Saint Catherine Blvd, Toms River, Nj 87554972
+NJ North 2015/7/3 p a 22.2 -1 Violet M15-251510 Donna Cintron  1710 Route 38, Mount Holly, Nj 80602218
+NJ North 2015/5/4 p a 29.6 -1 Red U02-865644 Jeremy Flow  855 Lehigh Ave, Union, Nj 70837631
+NJ North 2015/8/31 o k 20.1 27.9 Orange M30-354490 Sharon Goldstein  401 Hackensack Ave, 2Nd Fl, Hackensack, Nj 76016413
+NJ North 2015/4/20 o u 33.5 34.3 Indigo A05-655644 Elizabeth Mastridge  3Rd Floor, 190 Middlesex Turnpike, Iselin, Nj 88302872
+NJ North 2015/6/12 y k 28.2 30.7 Green U02-932467 Carrie Mikesell  149 W Broad Street, Bridgeton, Nj 83022407
+NJ North 2015/4/30 o u 27.7 30.8 Indigo M15-547206 Jackie Osborne  20 E Clinton Street, Newton, Nj 78601859
+NJ North 2015/6/5 o a 15.6 16.5 Yellow M30-788792 Patricia Perucki  325 West Side Avenue, Jersey City, Nj 73051127
+NJ North 2015/1/14 y k 30.5 36.6 Red U02-685393 Joann Pesantes  Rm 1035, 970 Broad Street, Newark, Nj 71022528
+NJ North 2015/5/11 p u 11.4 -1 Indigo M15-387586 Ammy Plummer  274 Springfield Avenue, Newark, Nj 71032913
+NY North 2015/1/10 y k 11.9 12.2 Yellow A05-481308 Fayeann Alleyne  Rm 34 102, 26 Federal Plaza, New York, Ny 102780004
+NY North 2015/4/18 p k 18.5 -1 Red M15-839983 Andrew Argiro  Rm 4006, 26 Federal Plz, New York, Ny 102780004
+NY North 2015/6/2 o a 21.4 23.4 Green M15-430842 Sharon Badri-Persaud  Addabbo Bldg 11Th Fl, 155-10 Jamaica Ave, Jamaica, Ny 114320000
+NY North 2015/6/6 y a 10.2 11 Orange M30-433858 Ruth Cabral  240 West Nyack Road, West Nyack, Ny 109941711
+NY North 2015/5/29 o u 31.5 35 Orange M15-535184 Ping Cheng  3Rd Fl, 123 William St, New York, Ny 100380111
+NY North 2015/6/18 o u 16.3 17.1 Green A05-584265 Terry Cougler  Bldg 6, 818 Commerce Park Dr, Ogdensburg, Ny 136692208
+NY North 2015/6/18 o a 14.6 19.4 Indigo A05-801737 Rita Degonza  2Nd Floor, 12 Corporate Woods Blvd, Albany, Ny 122112524
+NY North 2015/6/1 o k 7.4 8 Green M15-861276 Edward Ellison  Ste 201, 1121 Old Walt Whitman Road, Melville, Ny 117473083
+NY North 2015/3/29 o a 14.4 15.7 Orange U02-839308 Lana Gardner  1540 Fulton St, Brooklyn, Ny 112162514
+NY North 2015/4/21 o a 10 11.3 Yellow A05-466107 James Glasser  3Rd Floor, 155-10 Jamaica Avenue, Jamaica, Ny 114320000
+NY North 2015/7/22 y k 4.1 4.8 Green A05-760484 Sharon Knight  3386 Fulton Street, Brooklyn, Ny 112082032
+NY North 2015/6/17 p u 13.3 -1 Orange M30-997358 Yvana Ladouceur  111 Livingston St, 18Th Floor, Brooklyn, Ny 112015078
+NY North 2015/1/2 y u 31.5 33.6 Blue M15-674697 Madge Larcher  155 10 Jamaica Ave, Jamaica, Ny 114320000
+NY North 2015/7/7 o a 10.1 12.1 Orange M30-811883 Tina Leone  Ste 201, 1121 Old Walt Whitman Rd, Melville, Ny 117473083
+NY North 2015/5/14 p u 18.4 -1 Green A05-984711 Renita Lomax  3Rd Floor, 155-10 Jamaica Avenue, Jamaica, Ny 114320000
+NY North 2015/3/20 y u 4.6 6.1 Orange U02-335749 Joanna Okula  Room 3904, 26 Federal Plaza, New York, Ny 102780004
+NY North 2015/3/15 p k 35.7 -1 Orange A05-476113 Dominick Pratico  3Rd Floor, One Park Place, Peekskill, Ny 105663887
+NY North 2015/2/3 y k 6.5 6.8 Blue M30-793052 Suzanne Rattazzi-Lopez  155-10 Jamaica Ave, Ste 403, Jamaica, Ny 114320000
+NY North 2015/5/26 p a 3 -1 Red M15-551933 Jeanne Rodriguez  2Nd Floor, 4050 W Ridge Road, Rochester, Ny 146263528
+NY North 2015/8/25 o u 13.7 19.5 Yellow U02-915177 Charles Sauter  2389 Richmond Ave, Staten Island, Ny 103143906
+NY North 2015/5/22 y a 14.8 57.4 Indigo M30-723468 Barbara Schodowski  2Nd Flr, 1510 Hylan Blvd, Staten Island, Ny 103051938
+NY North 2015/3/14 p a 5.6 -1 Violet M15-402779 Minerva Vidot  Ground Floor Ssa, 1540 Fulton Street, Brooklyn, Ny 112162514
+OH North 2015/1/18 o u 8.9 11.6 Yellow M30-812631 Susan Bartlett  401 W North Street, Lima, Oh 458014256
+OH North 2015/4/6 y u 31.6 32.8 Violet A05-526091 Suhad Bergman  1051 Worthington Woods, Worthington, Oh 430854835
+OH North 2015/4/13 y k 25.2 26.4 Green M30-999698 Martha Boylan  400, 401 North Front Street, Columbus, Oh 432152252
+OH North 2015/3/27 o u 26.7 30.8 Orange A05-581311 Joseph Burciaga  2220 Enterprise St, Fremont, Oh 434208537
+OH North 2015/3/9 o k 19.6 20.4 Blue M30-827678 Stacy Clarkson  921 4Th Street, Portsmouth, Oh 456624313
+OH North 2015/8/6 y k 30.8 30.8 Red M15-337718 Jennifer Crawford  13Th Fl, 1 Seagate, Toledo, Oh 436042635
+OH North 2015/8/13 y u 29.2 31.6 Violet U02-953275 Sherri Ferguson  2220 Enterprise Street, Fremont, Oh 434208537
+OH North 2015/4/24 o k 33.2 40.1 Red M30-671877 Tonya Gay  4375 Hoover Ave, Dayton, Oh 454171184
+OH North 2015/7/21 M a 19 19.5 Violet A05-997377 Brandi Geyer  Suite 400, 121 S Main St, Akron, Oh 443081426
+OH North 2015/4/26 o a 20.6 21.6 Yellow A05-494933 Alice Lamotte  Newark Ohio Field Office, 125 Derby Downs Rd, Newark, Oh 430553303
+OH North 2015/3/11 o k 23.9 25.5 Violet M15-315322 Debra Manuel  4815 State Rd, Ashtabula, Oh 440046213
+OH North 2015/1/7 y u 5 5.7 Blue M30-692035 Audrey Mcclelland  745 Innovation Drive, Bowling Green, Oh 434027502
+OH North 2015/2/24 o u 23 23.8 Yellow A05-957730 Stephanie Morgan  220 S Hamilton Rd, Columbus, Oh 432132024
+OH North 2015/7/29 y a 19.9 20.5 Indigo A05-460952 Patricia Norris  Rm 9512, 550 Main Street, Cincinnati, Oh 452025212
+OH North 2015/3/13 p k 27.5 -1 Indigo M30-761785 Peter Price  2Nd Floor, 2 S Main Street, Akron, Oh 443081813
+OH North 2015/8/8 y k 5.4 7.9 Green A05-441272 Michael Reynolds  100 Mall Drive, Steubenville, Oh 439523092
+OH North 2015/3/22 o k 5.1 6.5 Yellow M30-784075 Julie Sanders  18711 Miles Ave, Cleveland, Oh 441284124
+OH North 2015/7/23 p a 10.9 -1 Indigo M15-373851 Tami Tornabene  Suite 1C, 1260 Monroe St Nw, New Philadelphia, Oh 446634160
+OH North 2015/2/21 p k 12.6 -1 Violet U02-973646 Timothy Viverette  Federal Bldg/Room 2000, 550 Main Street, Cincinnati, Oh 452023222
+OH North 2015/2/5 y u 18.8 22.1 Yellow U02-917821 Lora Walker  13Th Fl, 1 Seagate, Toledo, Oh 436042635
+OH North 2015/2/25 y u 15.8 17.8 Green A05-976907 Patricia Williams  55 W Jackson Street, Painesville, Oh 440773210
+RI North 2015/5/1 p a 26 -1 Red U02-453637 Robert Sweeney  130 Bellevue Ave, Newport, Ri 28403291
+CT North 2015/6/30 o u 9.9 9.9 Yellow M15-993715 Gilda Agosto  4Th Fl, One West Main Street, Meriden, Ct 64514128
+CT North 2015/2/2 p k 7.4 -1 Yellow A05-992235 Mitzi Dame  Suite 380, 55 Main Street, Norwich, Ct 63605760
+CT North 2015/1/27 o u 15.8 19.7 Violet U02-798525 Mary Smyka  2Nd Flr, 960 Main St, Hartford, Ct 61031216
+CT North 2015/7/25 p u 31.6 -1 Violet M30-689505 Cheryl Standley  3Rd Flr, 3885 Main St, Bridgeport, Ct 66062814
+DE North 2015/1/5 y k 13.5 16.8 Blue A05-537056 Evelyn Delazzaro  Suite 200, 920 W Basin Rd, New Castle, De 197201000

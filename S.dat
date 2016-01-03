@@ -1,0 +1,622 @@
+2015/8/26
+State  Region   Order Date   Shape Code  Material Code  radius   height   color  Customer Number  First Name   Last Name  Address
+KY South 2015/8/11 p u 12.1 -1 Green M30-503610 Nolan Allen  850 Highway 15 N, Jackson, Ky 413398284
+KY South 2015/5/24 p a 4.6 -1 Orange M30-894132 Janet Cline  333 Hambley Blvd, Pikeville, Ky 415013747
+KY South 2015/1/11 y k 9.8 11.8 Green U02-286509 Virginia Collier  3975 S Highway 27, Somerset, Ky 425016186
+KY South 2015/3/21 p a 30.1 -1 Blue A05-809724 Lyman Russell-Iii  2260 Executive Dr, Lexington, Ky 405054808
+KY South 2015/5/18 p a 32.3 -1 Yellow A05-957407 Rebecca Shelby  159 Future Drive, Corbin, Ky 407018989
+KY South 2015/1/16 o k 22.5 27.2 Orange M15-320392 Charles Thomas  4431 Hanson Road, Madisonville, Ky 424316194
+LA South 2015/6/20 y k 15.7 15.8 Blue U02-710184 Jennifer Knight  Ste 100, 178 Civic Center Blvd, Houma, La 703605972
+LA South 2015/7/28 p a 31.7 -1 Indigo A05-716429 Mary Matherne  4332 Harding Blvd, Baton Rouge, La 708075238
+LA South 2015/1/5 p k 26.3 -1 Blue M30-950440 John Mouton  417 Spanish Town Blvd, New Iberia, La 705608333
+LA South 2015/8/3 p k 22.4 -1 Yellow U02-684218 Jo-Ann-M Parham  1616 Joe Yenni Blvd, Kenner, La 700651355
+MS South 2015/7/28 y k 29.3 30.5 Violet U02-925340 Tammy Brown  8760 Mid South Drive, Olive Branch, Ms 386542901
+MS South 2015/8/23 p u 33.8 -1 Blue M15-784285 Gladys Goins  199 Saddle Creek Dr, Tupelo, Ms 388014127
+MS South 2015/1/16 o a 10.5 11.5 Blue M30-726521 Walter Jackson  407 Industrial Pkwy, Cleveland, Ms 387322115
+MS South 2015/3/27 o u 23 27.9 Violet M15-377156 Ronnie Mooneyham  6000 Hwy 63, Moss Point, Ms 395639534
+NC South 2015/8/5 y a 26.5 28.6 Green U02-296689 Fernando Castro  3604 Louis Stephens Drive, Durham, Nc 277130000
+NC South 2015/3/22 p u 35.7 -1 Green U02-859406 Crystal Davis  Ste 300, 101 S Edgeworth St, Greensboro, Nc 274016025
+NC South 2015/4/25 o u 32.2 39.9 Green U02-785596 Kevin Easom  915 W New Hope Rd, Goldsboro, Nc 275349426
+NC South 2015/8/29 p a 26.2 -1 Orange A05-513548 Cynthia Hatchel  2010 S Church Street, Burlington, Nc 272155326
+NC South 2015/3/29 o k 32.6 40.6 Red M30-334930 Nina Hawkins  3004 Tower Blvd, Durham, Nc 277072542
+NC South 2015/1/30 y k 32.5 40 Red U02-330626 Tamara Holland  2038 Davie Ave, Statesville, Nc 286259260
+NC South 2015/5/9 p u 3.9 -1 Indigo M30-366402 Janet Ordway  4430 Kahn Drive, Lumberton, Nc 283582326
+SC South 2015/5/7 Q k 15.8 19.5 Green A05-889922 Thelma Beckham  Ste 200, 1927 Thurmond Mall, Columbia, Sc 292012387
+SC South 2015/4/14 p u 23.2 -1 Blue U02-945117 Jessica Curry  Stromthurmond Federal Bldg, 1835 Assembly St 11Th Fl, Columbia, Sc 292012441
+SC South 2015/7/1 p k 28.8 -1 Blue M30-248842 Blake Groomes  240 N Bultman Drive, Sumter, Sc 291502500
+SC South 2015/6/10 p k 24.7 -1 Yellow A05-485632 Chris Lagana  4 Civic Center Blvd Ext, Anderson, Sc 296251776
+TN South 2015/4/8 o u 28.2 28.2 Orange A05-409820 Tommy Blevins  140 Sharp Perkins Rd, Jacksboro, Tn 377572507
+TN South 2015/4/5 o a 22.2 24.1 Blue A05-287546 Tina Maddux  529 Inman St W, Cleveland, Tn 373111768
+TN South 2015/6/11 y u 31 32.5 Green M30-249144 Eddie Meacham  661 Mulberry Ave, Selmer, Tn 383753242
+TN South 2015/5/22 p a 9 -1 Violet M15-430021 Ashley Ogan  135 Circle Ln, Knoxville, Tn 379194874
+TN South 2015/3/17 y u 12.9 16.1 Orange M30-359230 Alana Roberts  Ssa Odar, 221 Cumberland Bend, Nashville, Tn 372281803
+TN South 2015/5/29 p a 17.7 -1 Red U02-382151 James Whiteaker  2836 St Patricj Ct, Murfreesboro, Tn 371283551
+VA South 2015/4/3 y k 19 20.9 Indigo M30-918175 Karen Fallen  320 W Commonwealth Blvd, Martinsville, Va 241121823
+VA South 2015/8/25 y k 14.2 15.6 Red M15-562092 Zabrina Fowler  1834 W Cary Street, Richmond, Va 232205329
+VA South 2015/1/28 o k 25.6 36.9 Violet M30-550733 Brenda Johns  324 Commerce Road, Farmville, Va 239012794
+VA South 2015/1/28 p a 35 -1 Red U02-836945 Tara Jones  2Nd Floor, 1470 Pantops Mountain Place, Charlottesville, Va 229114662
+VA South 2015/7/2 p a 4.9 -1 Violet A05-688343 George Mcconnell  Ste 400, 8521 Leesburg Pike, Vienna, Va 221822411
+VA South 2015/5/20 y k 14.8 18.5 Violet M30-450656 Lisa Powell  Ste 1400, 4401 Ford Ave, Alexandria, Va 223021432
+VA South 2015/3/24 p u 35.7 -1 Yellow A05-927068 Mukta Rathi  Rm 1608, 5107 Leesburg Pike, Falls Church, Va 220413260
+VA South 2015/7/22 o u 34.1 38.6 Red M15-776844 Shiwanda Reine  Skyline 506, 5107 Leesburg Pike, Falls Church, Va 220413260
+VA South 2015/8/21 y a 10.2 12.2 Indigo M15-571465 Wendy Sams  Ste 400, 801 E Main St Wytestone Plaza, Richmond, Va 232190000
+VA South 2015/3/4 p u 19 -1 Indigo U02-626810 Jeannette Santiago  Ste 400, 8521 Leesburg Pike, Vienna, Va 221822411
+VA South 2015/2/15 o u 6.1 7.4 Violet U02-726379 Lafaun Williams  Village At Waterford, 13551 Waterford Place, Midlothian, Va 231123929
+AL South 2015/5/17 p a 9.8 -1 Orange A05-327268 Julie Croley  4970 Research Dr Nw, Huntsville, Al 358055906
+AL South 2015/7/22 y a 35.7 36.1 Orange U02-931701 Tameka Cunningham  1200 8Th Ave North, Birmingham, Al 352850003
+AL South 2015/1/9 o k 4.6 4.9 Indigo U02-317600 Frank Fernandez  Ssa/Bssc 1St Fl, 1200 Rev Abraham Woods Jr Blvd, Birmingham, Al 352850003
+AL South 2015/5/28 o k 24.1 25 Orange M15-744123 Diana Kritinar  717 Mcglathery Lane Se, Decatur, Al 356016054
+AL South 2015/8/18 o a 28.9 30.6 Blue U02-464669 Cynthia Robinson  1200 Rev Abraham Woods Jr Blvd, Birmingham, Al 352850003
+AL South 2015/8/5 p a 32.6 -1 Green M15-630446 Carolyn Rowls  736 North Street East, Talladega, Al 351602528
+AR South 2015/2/5 o k 21.5 22.5 Yellow M30-715532 Kathryn Holsomback  Rm 1201, 700 West Capitol, Little Rock, Ar 722013292
+AR South 2015/5/31 p a 6.3 -1 Violet A05-389987 Timothy Kinkade  2708 E Parkway Drive, Russellville, Ar 728022006
+AR South 2015/3/15 p L 7.6 -1 Violet U02-496257 Rhonda Tidwell  112 Corporate Ter, Hot Springs, Ar 719137247
+AR South 2015/4/16 o u 17.7 18.1 Yellow M15-317245 James Tollett  112 Corporate Terrace, Hot Springs, Ar 719137247
+FL South 2015/1/28 p a 5.4 -1 Blue M15-624427 Stephanie Banks  3415 E Frontage Rd, Tampa, Fl 336077009
+FL South 2015/5/2 p a 27.9 -1 Red U02-933169 Humera Bari  Rm 1947, State Road 60 East, Valrico, Fl 335943602
+FL South 2015/7/19 o k 27.5 34.8 Yellow M30-577518 Cherise Blau  1645 North Congress Ave, West Palm Beach, Fl 334095152
+FL South 2015/5/19 p u 34.1 -1 Violet M30-392512 Terrie Brown  Ste 100, 5540 Sr 64 E, Bradenton, Fl 342080000
+FL South 2015/2/7 o u 26.7 36.2 Violet M30-496086 William Brunson  8880 Freedom Crossing Trl Ste 400, Jacksonville, Fl 322561224
+FL South 2015/4/28 p k 9.7 -1 Orange M30-420421 La'Nieta Carter  1685 Dunn Avenue, Jacksonville, Fl 322184735
+FL South 2015/2/26 o k 15.5 15.8 Violet U02-977959 Kathy Cochran  1961 Quail Grove Ln, Tallahassee, Fl 323112714
+FL South 2015/2/8 y a 9.5 10.6 Red M30-469178 Diana Florez  Miami North Social Security, 16900 Nw 12 Ave, Miami, Fl 331695708
+FL South 2015/4/10 o u 32.2 35.2 Red A05-635726 Diane Freud  Ste 100, 3201 W Commercial Blvd, Ft Lauderdale, Fl 333093461
+FL South 2015/4/19 o a 26.3 32.8 Yellow M15-404479 Ivona Frljak  Ste 100, 7185Bonneval Road, Jacksonville, Fl 322567578
+FL South 2015/7/15 o a 34.2 35.1 Green A05-562706 Marisel Geada  Ste 210, 3650 Colonial Blvd, Fort Myers, Fl 339661157
+FL South 2015/4/13 y k 11.1 11.5 Red A05-924734 Jacquelyne Gonzalez  4125 Jireh Ct, Marianna, Fl 324487764
+FL South 2015/2/27 o k 34.5 35.3 Yellow M15-259946 Robert Kaufman  411 W Garden St, Pensacola, Fl 325024730
+FL South 2015/8/12 y k 8.4 11.7 Green A05-897616 Zylkia Kriss  333 S Miami Ave, 8Th Floor, Miami, Fl 331301942
+FL South 2015/1/9 o k 4.3 4.7 Blue A05-652797 Perry Laycock  Bldg B 14, 2002 Old St Augustine Rd, Tallahassee, Fl 323014861
+FL South 2015/1/31 o u 27.6 38.2 Orange M30-317377 Jacquelyn Lopez  Rm 925, Se 1St Street, Belle Glade, Fl 334304305
+FL South 2015/3/3 p u 14.1 -1 Blue M30-287384 Donna Mellender  Suite 200, 8501 W Sunrise Blvd, Plantation, Fl 333224013
+FL South 2015/4/10 y u 29.1 31.9 Violet A05-639038 Patricia Mevissen  Ste 100, 3201 W Commercial Blvd, Ft Lauderdale, Fl 333093461
+FL South 2015/7/2 p a 28 -1 Yellow A05-651547 Maria Milian  11401 W Flagler St, Miami, Fl 331741023
+FL South 2015/1/4 y a 16.5 16.6 Indigo M30-732616 Alice Moses-Turner  1610 Nw 23Rd Ave, Gainesville, Fl 326053021
+FL South 2015/2/24 p k 19.4 -1 Orange M15-989492 Iliana Pelaez  Ste 200, 1801 Alton Road, Miami Beach, Fl 331391504
+FL South 2015/5/15 o L 14.7 19.7 Green A05-454097 Carmen Turner  Ste 110, 301 Simonton St, Key West, Fl 330406812
+FL South 2015/3/1 y k 32.7 38.2 Green U02-271751 Mary-Kate-M Vang  1348 Sw Bascom Norris Dr, Lake City, Fl 320254913
+FL South 2015/5/11 p u 29.7 -1 Yellow A05-271679 Susan Welden  Suite 114, 1435 E Venice Ave, Venice, Fl 342923195
+FL South 2015/2/18 y k 17.8 20.4 Violet M15-854645 Susan Witte  Ste 100, 8501 W Sunrise Blvd, Plantation, Fl 333224010
+FL South 2015/8/16 o u 22.5 22.7 Violet A05-589931 Susan Yongue  3415 E Frontage Road, Tampa, Fl 336077009
+GA South 2015/1/15 o a 10.2 11.5 Violet M30-239225 Alisha Anderson  9180 Covington Bypass Rd, Covington, Ga 300148710
+GA South 2015/2/3 p u 21.5 -1 Indigo M30-394947 Rickie Bowens  Ste 22T64, 61 Forsyth St Sw, Atlanta, Ga 303038908
+GA South 2015/5/4 y a 16 21.3 Violet M30-628685 Cynthia Brock  Ste 22T64, 61 Forsyth St Sw, Atlanta, Ga 303038908
+GA South 2015/4/5 o k 15.1 16.3 Red M15-353334 Tony Burchardt  Suite 210, 2565 Thompson Bridge Rd Ne, Gainesville, Ga 305011723
+GA South 2015/2/25 p k 33.2 -1 Red M15-492005 Donovan Granville  7263 North Lake Drive, Columbus, Ga 319092767
+GA South 2015/3/24 y a 12.3 12.4 Blue U02-612123 Deirdre Hart  Ste 5T55, 61 Forsyth St Sw, Atlanta, Ga 303038906
+GA South 2015/2/17 p u 30.6 -1 Yellow A05-916700 Michelle Hinson  Ste 23T30 San Nunn Federal Bldg, 61 Forsyth St Sw, Atlanta, Ga 303038931
+GA South 2015/7/28 o u 23.1 24.4 Indigo U02-264654 Sherry Jordan  61 Forsyth Street Sw, Ste 22T64, Atlanta, Ga 303038908
+GA South 2015/1/26 o a 8.2 9.5 Orange A05-344829 Claudine Laurencin  Suite 500 Marquis 1, 245 Peachtree Center Ave, Atlanta, Ga 303031222
+GA South 2015/8/17 o u 11.2 14.8 Orange A05-705065 Timothy Mcgill  Ste A, 1300 Lafayette Pkwy, Lagrange, Ga 302412610
+GA South 2015/7/8 o a 9.6 10.1 Violet M30-497135 Katrenia Mitchell  Suite 500, 484 Mulberry Street, Macon, Ga 312017929
+GA South 2015/2/17 p k 33.1 -1 Blue A05-575124 Celena Moore  Ste 8, 2853 Candler Road, Decatur, Ga 300341421
+GA South 2015/2/3 p u 35.1 -1 Blue U02-360711 Nakisha Wall  Rm 2837, 401 West Peachtree Street Nw, Atlanta, Ga 303083538
+GA South 2015/6/14 o k 34.6 46.9 Indigo A05-657676 Martin Watley  430 Mall Blvd, Savannah, Ga 314064801
+KY South 2015/3/16 y k 16.3 19.1 Red M30-699809 Amy Conaway  Bldg 3, 2000 N Elm Street, Henderson, Ky 424202385
+KY South 2015/1/29 o a 8.6 9.6 Yellow A05-931361 Darren Cupp  189 Village Ctr, Harlan, Ky 408311718
+KY South 2015/4/20 o k 15.1 15.2 Yellow U02-613376 Angela Nuernberg  509 Market Place Dr, Maysville, Ky 410567511
+KY South 2015/6/16 o k 25.3 31.6 Red M15-695262 Bernard O-Nan  1405 Greenup Ave, Ashland, Ky 411017542
+KY South 2015/7/31 y a 3.1 4.3 Orange M15-525004 Ricky Seals  509 Marketplace Drive, Maysville, Ky 410567511
+KY South 2015/3/21 p k 8.6 -1 Blue A05-775001 Tonya Young  101 Hiestand Farm Rd, Campbellsville, Ky 427188491
+LA South 2015/6/3 o u 33.1 45.3 Indigo M15-558118 Anthony Brinson  2017 Bular St, Ruston, La 712704084
+LA South 2015/2/28 p a 16.8 -1 Orange M15-641774 Leah Gorum  3403 Goverment Street, Alexandria, La 713023321
+LA South 2015/8/31 p a 5 -1 Juneberry A05-970472 Stephanie Legnon  1279 Clothlde St, Morgan City, La 703801347
+LA South 2015/1/17 o k 19.8 27.8 Red M15-307770 Carol Mcdaniel  1240 S Pointe Pkwy, Shreveport, La 711052647
+LA South 2015/4/5 y u 6.9 10.3 Red M15-811569 Vivian Thomas  825 Ryan Street, Lake Charles, La 706014295
+MS South 2015/8/23 p a 27.3 -1 Violet U02-935186 Jennifer Crumpler  1911 Broadway Drive, Hattiesburg, Ms 394023208
+MS South 2015/7/28 p u 23.1 -1 Yellow A05-730882 Sherry Lott  1901 Broadway Drive, Hattiesburg, Ms 394023208
+MS South 2015/4/3 y a 14.9 15.7 Indigo M30-565737 Olivia Phillips  3210 Hwy 15 N, Laurel, Ms 394401437
+MS South 2015/2/12 p k 32.3 -1 Blue A05-546144 Cathy Ross-Woulard  1901 Broadway Dr, Hattiesburg, Ms 394023208
+MS South 2015/7/30 p a 30.2 -1 Violet M30-666941 Adam Van-Namen  604 Yalobusha St, Greenwood, Ms 389302003
+NC South 2015/7/15 o u 30.8 37.6 Indigo M15-270525 Stacy Caldwell  Ste 300, 5800 Executive Ctr Drive, Charlotte, Nc 282128884
+NC South 2015/7/31 y u 29 37.1 Green U02-835221 Michael Coley  830 Florence Street Nw, Concord, Nc 280275947
+NC South 2015/7/20 o k 13.7 16.3 Indigo M15-460917 Jackie Glover  858 South Beckford Drive, Henderson, Nc 275363487
+NC South 2015/7/9 y a 29.1 33.9 Yellow A05-973395 Shanna Hardin  204 South Lee St, Whiteville, Nc 284724000
+NC South 2015/2/2 y k 6.9 8.6 Indigo M30-447948 Michael Hartvigsen  Ste 210, 3261 Atlantic Ave, Raleigh, Nc 276041657
+NC South 2015/6/27 p a 29.9 -1 Red U02-571872 Janet Heckel  Ste 200, 4800 Falls Of Neuse Rd, Raleigh, Nc 276098143
+NC South 2015/4/2 y a 31.7 37.5 Yellow A05-953062 Rebecca Lyons  1187 N Andy Griffith Pkwy, Mount Airy, Nc 270302528
+NC South 2015/1/12 o u 7.1 7.9 Red M15-846878 Michael Okubo  Pamlico 3380, 3604 Louis Stephens Drive, Durham, Nc 277090000
+NC South 2015/1/16 o u 25.1 26.2 Blue M15-361811 Rusty Pate  6005 Landmark Center Blvd, Greensboro, Nc 274072634
+NC South 2015/4/23 o u 7.6 7.9 Orange A05-833033 Tawnya Reed  150 2Nd Floor, Rowan St, Fayetteville, Nc 283014920
+NC South 2015/6/22 o a 15 17.6 Orange M30-534427 Mary Williams  3004 Tower Blvd, Durham, Nc 277072542
+SC South 2015/5/18 p k 7.3 -1 Yellow M15-490116 Lisa Edge  1316 Third Ave, Conway, Sc 295265002
+SC South 2015/5/31 o u 36 40.7 Violet A05-522757 Marilyn Hunt  Ste 200, 300 University Ridge, Greenville, Sc 296013645
+SC South 2015/1/27 o a 28.6 38.8 Red U02-401205 Kathleen Mika  Ste 300, 145 N Church Street, Spartanburg, Sc 293065190
+SC South 2015/2/17 y a 31.7 33.8 Blue U02-448620 John Trueluck  1028 Cheraw Street, Bennettsville, Sc 295122432
+SC South 2015/7/16 y a 12.3 13.3 Green M30-835925 Mary White  319 Pelham Rd, Greenville, Sc 296153110
+TN South 2015/1/22 o u 22.6 28.8 Violet M30-648597 Jason Chambers  109 East Taylor Street, Lawrenceburg, Tn 384643722
+TN South 2015/2/21 p u 12.3 -1 Green U02-777388 Darren Chandler  415 Cheyenne Drive, Jackson, Tn 383053571
+TN South 2015/5/1 o a 33.1 38 Blue A05-828218 Roderick Hall  3461 South Third Street, Memphis, Tn 381098242
+TN South 2015/8/15 p u 24.2 -1 Orange A05-512407 Linda Hickman  135 Circle Ln, Knoxville, Tn 379194874
+TN South 2015/5/7 o a 20.3 21.1 Orange M30-520619 Karen Klein  1145 Perimeter Park Dr, Cookeville, Tn 385010923
+TN South 2015/7/31 y u 13.5 13.9 Indigo U02-488508 David Lescarini  900 Sparta St, Mcminnville, Tn 371101720
+TN South 2015/5/4 p k 11.5 -1 Blue U02-682520 Kelley Mack  921 Congress Pkwy N, Athens, Tn 373031705
+TN South 2015/4/27 y u 17.8 18.5 Orange M30-684898 Joseph Oakes  637 Commons Drive, Gallatin, Tn 370666318
+TN South 2015/2/28 p k 34.5 -1 Green M30-593961 Sandra Pitts  Ste 200, 1232 Premier Drive, Chattanooga, Tn 374214151
+TN South 2015/2/5 p a 26.3 -1 Green M30-779378 Lou Stuart  140 Cude Lane, Madison, Tn 371152202
+VA South 2015/7/13 y a 17.2 20.2 Violet U02-429467 Rita Alexander  Bldg 2, 1600 N Coalter Street, Staunton, Va 244012500
+VA South 2015/3/16 o k 32.6 35.3 Yellow U02-692288 Alberto Bernaola  Plaza 500 Ste 190, 6295 Edsall Road, Alexandria, Va 223122670
+VA South 2015/7/8 y a 3.3 3.4 Red M15-597306 Wallace Christian-Jr  5107 Leesburg Pike, Suite 105A, Falls Church, Va 220413234
+VA South 2015/3/14 p u 25.8 -1 Indigo U02-822548 Jordan Gasbarra  Rm 700, 5107 Leesburg Pike, Falls Church, Va 220413250
+VA South 2015/8/30 o a 18.2 20.7 Violet M15-704054 Joseph Hernandez  Suite 1603, 5107 Leesburg Pike, Falls Church, Va 220413260
+VA South 2015/7/20 p u 3.4 -1 Indigo A05-304966 Joshua Mcmurray  253 Ridgeview Road Sw, Wise, Va 242934631
+VA South 2015/8/19 p a 28 -1 Indigo M30-829215 Colleen Meinecke  Ste 1700, 5107 Leesburg Pike, Falls Church, Va 220413289
+VA South 2015/4/15 o a 3 3.8 Blue U02-409618 Lola Price  Ste 1400 One Skyline Tower, 5107 Leesburg Pike, Falls Church, Va 220413260
+VA South 2015/8/14 o u 31.3 31.7 Orange M15-485887 Johnny Proffitt  100 Poplar Dr, Petersburg, Va 238059305
+VA South 2015/5/19 y k 30.1 32.3 Yellow M30-338878 Deborah Soyars  320 W Commonwealth Blvd, Martinsville, Va 241121823
+AL South 2015/8/13 p u 13.6 -1 Indigo M15-338999 Kathleen Anderson  203 S Walnut St, Florence, Al 356305721
+AL South 2015/8/25 y u 15.2 16.7 Orange A05-897908 Tremayne Benson  24467 Al Highway 55, Andalusia, Al 364205467
+AL South 2015/3/23 y k 32.3 33.7 Violet M30-864428 Cheryl Nelson  Ste 100, 4344 Carmichael Rd, Montgomery, Al 361063732
+AL South 2015/2/23 y a 33.8 35.9 Red A05-696911 Glenna Sawicki  Ste 200, 4344 Carmichael Road, Montgomery, Al 361063732
+AL South 2015/8/12 T u 12.8 13.4 Red M15-519134 Cherise Tunstall  Ste 200, 550 Government St, Mobile, Al 366022009
+AR South 2015/1/7 o a 34.9 36.5 Green M30-982465 Eric Hogan  151 Dry Kiln Road, Batesville, Ar 725018393
+FL South 2015/7/24 o k 33.4 39.5 Red A05-369419 Jacqueline Madison  1348 Sw Bascom Norris Dr, Lake City, Fl 320254913
+FL South 2015/4/27 o k 29.5 32 Green M15-235505 Gregory Mcdonald  2001 Siesta Dr, Rm 301, Sarasota, Fl 342395200
+FL South 2015/8/22 o u 5.1 5.6 Indigo A05-828042 Todd Price  1685 Dunn Avenue, Jacksonville, Fl 322184735
+FL South 2015/3/23 y u 7.8 9.1 Violet M30-922805 Irama Trinchet  2Nd Flr, 500 N Hiatus Rd, Pembroke Pines, Fl 330265213
+FL South 2015/2/20 y k 20.9 22.1 Red M30-539917 Phinethia Wade  36630 Adair Road, Dade City, Fl 335255103
+GA South 2015/2/21 o k 6.2 7.2 Green U02-845025 Kedar Griffo  Suite 20T10, 61 Forsyth St, Atlanta, Ga 303038819
+GA South 2015/6/1 p a 32.3 -1 Red M30-887909 Waconda Nolan  3105 Clairmount Rd, Atlanta, Ga 303291015
+GA South 2015/8/13 o a 26.9 27.3 Yellow M15-960568 Tracy Sloan  61 Forsyth St, Atlanta, Ga 303030000
+KY South 2015/2/3 y a 12.5 12.5 Blue M30-461965 Meghann Gilbert  601 W Broadway Ste 101, Louisville, Ky 402022227
+KY South 2015/5/19 y k 8.4 8.8 Blue A05-903199 Joyce Hiles  Ste 50, 10503 Timberwood Circle, Louisville, Ky 402235396
+KY South 2015/3/2 p k 17.3 -1 Indigo A05-927890 Kimberly Thompson  1897 Ky Rt 321, Prestonsburg, Ky 416539103
+LA South 2015/6/19 y u 28 33.8 Red A05-679021 Dionne Thigpen  64285 Highway 434, Lacombe, La 704455416
+MS South 2015/6/11 p a 10.6 -1 Green A05-577486 Beth Borgognoni  199 Saddle Creek Dr, Tupelo, Ms 388014127
+MS South 2015/5/28 o k 17.1 17.6 Red M15-243137 Michael Hales  Room 132, 4155 Clay St, Vicksburg, Ms 391833435
+MS South 2015/4/19 y a 20.6 20.6 Red A05-453930 Ann Jackson  1392 Johnny Johnson Drive, Brookhaven, Ms 396019640
+SC South 2015/4/27 y a 33.3 34.4 Orange M30-476067 Edward Bishop  145 N Church Street, Spartanburg, Sc 293065123
+SC South 2015/3/12 p k 23.1 -1 Yellow A05-736599 Victoria Vacchelli  502 Robertson Blvd, Walterboro, Sc 294882788
+TN South 2015/6/10 y a 28.2 30.9 Red U02-512814 James Dudley  8530 Kingston Pike, Knoxville, Tn 379195353
+TN South 2015/3/29 y k 31.1 33.7 Yellow U02-959057 Chetina Howington  3112 Millers Point Dr, Morristown, Tn 378131910
+TN South 2015/3/18 p k 29.6 -1 Indigo U02-852515 Kristine Wallen  2401 S Wilcox Dr, Kingsport, Tn 376607395
+VA South 2015/5/26 o a 30.2 40.1 Blue M15-464710 James Horton  7618 Timberlake Road, Lynchburg, Va 245022325
+VA South 2015/4/15 p k 9.5 -1 Green M30-310141 Joan Knight  405, 5107 Leesburg Pike, Falls Church, Va 220413260
+VA South 2015/1/12 y a 19.9 24.8 Orange M15-886901 James Lacewell  One Skyline Tower/1702, 5107 Leesburg Pike, Falls Church, Va 220413260
+VA South 2015/2/26 y u 34.7 40.8 Orange M15-795705 Cheryl Via-Duncan  2Nd Flr, 1470 Pantops Mtn Pl, Charlottesville, Va 229114662
+AL South 2015/6/2 p u 7.5 -1 Indigo U02-501795 Janell Coleman  1972 Gadsden Hwy, Birmingham, Al 352353227
+AL South 2015/5/20 y a 4.3 4.6 Blue A05-269146 Clay Herring  4249 N College Ave, Jackson, Al 365452020
+AL South 2015/5/28 y u 28.7 34.4 Orange M15-382485 James Ingram  1800 Corporate Dr, Opelika, Al 368016847
+AL South 2015/2/14 p k 34.1 -1 Yellow A05-810659 Melissa Irby-Hill  412 Martling Road, Albertville, Al 359517208
+AL South 2015/7/30 p u 8 -1 Indigo A05-498076 Belinda Levy  801 Quintard Ave, Anniston, Al 362015759
+AL South 2015/6/16 o a 28.4 29.1 Orange A05-477385 Debra Pickle  Po Box 10085, Fbmt Grd Flr, Birmingham, Al 352020085
+AL South 2015/8/27 p k 5.8 -1 Green M30-802866 Janet Pruett  Bssc, 1200 Rev Abraham Woods Jr Blvd, Birmingham, Al 352850003
+AL South 2015/2/25 p a 11.7 -1 Orange U02-600012 Sonia Ridley  801 Quintard Ave, Anniston, Al 362015759
+AL South 2015/2/25 o a 5.3 5.6 Blue M30-242945 Pamela Stone  1908 Commerce Ave Nw, Cullman, Al 350556150
+AL South 2015/4/9 p u 8.7 -1 Green M15-838889 Sharon Whiteside-Pinkham  Ste 200, 4344 Carmichael Road, Montgomery, Al 361063732
+AR South 2015/6/22 y u 11.5 15.4 Violet A05-440208 Rebecca Crosland  2475 Christina Lane, Conway, Ar 720346798
+AR South 2015/4/27 y a 5.3 5.3 Indigo A05-392853 Claudette Edwards  Ste 101, 2153 E Joyce Blvd, Fayetteville, Ar 727035284
+AR South 2015/5/22 p k 8.8 -1 Orange M30-525529 Gracie Harshaw  2600 W Hillsboro, El Dorado, Ar 717306820
+AR South 2015/3/28 y k 8.5 8.8 Yellow A05-519263 Shonet Marshall  Ste 101, 2153 E Joyce Blvd, Fayetteville, Ar 727035284
+AR South 2015/5/28 y k 20.8 21.4 Indigo A05-461271 Erica Williams  Bldg/Room 2405, 700 West Capitol Ave, Little Rock, Ar 722013225
+FL South 2015/5/8 y u 34.5 42.7 Blue M30-849870 Natasha Capper  933 E Silver Springs Blvd, Ocala, Fl 344706707
+FL South 2015/1/28 p u 15.4 -1 Indigo A05-761959 Iraida Cartagena  1201 E Oak St, Kissimmee, Fl 347445833
+FL South 2015/5/27 p k 3.3 -1 Yellow M30-838101 Susan Cliett  1201 E Oak St, Kissimmee, Fl 347445833
+FL South 2015/6/23 o k 6.6 6.9 Indigo A05-593552 Bertha Davis  1629 S Adelle Ave, Deland, Fl 327207906
+FL South 2015/4/14 o a 26 27.2 Green U02-589386 Patricia Eavarone  6810 S Us Hwy 1, Port St Lucie, Fl 349521410
+FL South 2015/3/1 p k 22.2 -1 Yellow U02-388316 Esther Harris  933 E Silver Springs Blvd, Ocala, Fl 344706707
+FL South 2015/5/6 o a 21 21.8 Blue U02-497716 Dianne Hio  2Nd Floor, 830 Central Ave, St Petersburg, Fl 337013622
+FL South 2015/5/12 o u 5.3 5.6 Blue M15-355356 Michael Houser  Ste 300, 6101 Blue Lagoon Dr, Miami, Fl 331262050
+FL South 2015/6/8 y a 5.2 6.2 Violet M30-255582 Sylvia Jones  550 Commerce St, Lakeland, Fl 338132708
+FL South 2015/7/19 p k 22.2 -1 Green A05-361562 Sheila Lee  1645 North Congress Ave, West Palm Beach, Fl 334095152
+FL South 2015/8/19 o k 20.6 25.5 Yellow A05-815115 Myhanh Pham  Ste 102, 5520 Gatlin Ave, Orlando, Fl 328127776
+FL South 2015/1/10 y k 6.9 7.3 Blue M30-459634 Neil Rosenberg  16900 Nw 12Th Ave, Miami, Fl 331695708
+FL South 2015/7/2 p a 22.2 -1 Yellow M30-966550 Julio Sanchez  8345 Biscayne Blvd, Miami, Fl 331383506
+FL South 2015/4/30 y k 17 22.5 Blue U02-588242 Joanne Suber  2002 Old St Augustine Rd, Bldg B12, Tallahassee, Fl 323014861
+FL South 2015/4/21 o u 21.3 22.6 Indigo A05-720691 Teresa Wickett  Ste 600, 500 E Zack Street, Tampa, Fl 336023919
+GA South 2015/3/4 o u 21.8 32.4 Orange M30-718201 Kimberly Counts  Suite 23T35, 61 Forsyth St Sw, Atlanta, Ga 303038931
+GA South 2015/8/29 y k 23.3 23.6 Orange U02-748597 Lemuel Cox  9180 Covington By Pass Rd, Covington, Ga 300148710
+GA South 2015/6/14 y u 34 35.2 Violet M30-989002 Marsha Davis  Sam Nunn Atlanta Fed Ctr, 61 Forsyth St Sw Ste 22T64, Atlanta, Ga 303038908
+GA South 2015/7/19 y a 31.8 50.1 Green A05-459101 Wanda Dillard  3530 Riverside Dr, Macon, Ga 312102509
+GA South 2015/8/26 p k 6.4 -1 Red A05-512019 Barbara Hartley  Ste 21T60, 61 Forsyth St Sw, Atlanta, Ga 303038912
+GA South 2015/6/8 y a 25 31.2 Orange M15-342027 Richard Hunnewell  1916 Smith Ave, Thomasville, Ga 317925750
+GA South 2015/8/16 o a 27.2 37 Green A05-773141 Kelli Kemp  6670 Merchants Way, Morrow, Ga 302602340
+GA South 2015/3/23 o u 34 36.8 Violet M30-386171 Lydia Maldonado  134 Juniper Court, Brunswick, Ga 315201944
+GA South 2015/1/31 o u 17.3 19.9 Indigo M30-274907 Milton Morgan  389 East Broad St, Winder, Ga 306802278
+GA South 2015/8/19 o k 34.7 36.3 Yellow M30-950282 Joseph Ryan  220 Carl Vinson Parkway, Warner Robins, Ga 310885832
+GA South 2015/5/11 p a 20 -1 Violet A05-828389 Cheryl Simmons  2Nd Flr, 8 Southern Oaks Court, Savannah, Ga 314057477
+GA South 2015/1/19 y k 3.3 3.6 Green U02-486839 Kelli Smith  1650 Prince Ave, Athens, Ga 306066027
+GA South 2015/8/30 y a 27.7 35.8 Green M15-544956 Judy Thompson  61 Forsyth St, Rm 22T64, Atlanta, Ga 303038908
+GA South 2015/7/12 p u 9.2 -1 Red U02-378556 Michael Walker  1650 Prince Ave, Athens, Ga 306066027
+GA South 2015/7/30 o u 20.5 22.2 Indigo M30-463680 Ahmad Williams  401 W Peachtree St, Ste 2860, Atlanta, Ga 303083538
+KY South 2015/2/3 o a 18.6 23.3 Yellow A05-428087 Sarah Branam  103 Belinda Blvd, Danville, Ky 404223212
+KY South 2015/8/11 o u 20.5 20.7 Indigo A05-966464 Walter Dalton  3975 South Hwy 27, Somerset, Ky 425016186
+KY South 2015/4/13 o u 4.4 5.3 Orange M30-710568 Sidney Egleston  7 Youell St, Florence, Ky 410422018
+KY South 2015/5/24 p a 14.2 -1 Orange U02-463301 Jason Hyde  591 Westport Rd, Elizabethtown, Ky 427012949
+KY South 2015/8/23 y a 8.7 9.7 Red A05-886472 Austin Stepp  2241 Buena Vista Rd Ste 150, Lexington, Ky 405054826
+KY South 2015/5/20 o k 7.5 10 Blue M30-375957 Carolyn Walker  Suite 500, 2500 W Broadway, Louisville, Ky 402111194
+KY South 2015/3/8 y u 31.6 46.5 Violet M15-978410 Kristin Wells  2241 Buena Vista Rd, Ste 210, Lexington, Ky 405054826
+LA South 2015/6/11 y u 4.2 5.7 Blue A05-725234 Angela Benoit  Rm 700, 401 Edwards St, Shreveport, La 711015517
+LA South 2015/8/14 p u 13.4 -1 Red M30-358086 Marjorie Cooke  1240 S Pointe Pkwy, Shreveport, La 711052647
+LA South 2015/4/20 p u 27 -1 Indigo M15-418384 Gayle Demers  64285 Highway 434, Lacombe, La 704455416
+LA South 2015/3/7 o u 21.5 28.3 Green M15-906667 Troy Doucet  5097 149 S Service Rd, Opelousas, La 705700000
+LA South 2015/2/28 o a 9.9 10.7 Blue A05-429710 Lana Pierre  417 Spanish Town Blvd, New Iberia, La 705608333
+LA South 2015/7/14 p a 26.2 -1 Green M30-821039 Kristie Robinson  1120 Plaza Blvd, Monroe, La 712015146
+LA South 2015/1/16 p a 18.1 -1 Green A05-365938 Darla Sonnier  106 Corporate Blvd, Lafayette, La 705083849
+NC South 2015/8/14 y a 19.2 24.3 Blue M30-574680 Mathias Bishop  4701 Old Wake Forest Road, Raleigh, Nc 276094919
+NC South 2015/7/15 p a 32.8 -1 Blue M30-719390 Bobby Burris  833 Gregory Drive, Roanoke Rapids, Nc 278706464
+NC South 2015/7/15 o k 21.3 22.7 Violet A05-347920 Harmon Busby  Ste 180, 343 East Six Forks Rd, Raleigh, Nc 276097890
+NC South 2015/8/7 p u 21 -1 Violet A05-472012 Lemuel Eley  858 S Beckford Dr, Henderson, Nc 275363487
+NC South 2015/3/19 y k 11 12 Green A05-814839 Talanna Lowe  6005 Landmark Ctr, Greensboro, Nc 274072634
+NC South 2015/3/2 p k 24.8 -1 Green U02-396577 Barbara May  Durham Support Center, 3604 Louis Stephens Drive, Durham, Nc 277090000
+NC South 2015/7/5 p a 16.8 -1 Green M15-546386 Pecolia Mckoy  Ste 300, 5800 Executive Ctr Dr, Charlotte, Nc 282128884
+NC South 2015/7/5 o u 24.4 28 Orange A05-474924 Willa Nipper  4701 Old Wake Forest Rd, Raleigh, Nc 276094919
+NC South 2015/1/17 y k 31.7 39.7 Red A05-368132 Donald Painter  2111 Forest Hills Rd W, Wilson, Nc 278933499
+NC South 2015/3/10 y a 19.5 24.5 Violet A05-305963 Pamela Parrott  2559 N Queen St, Kinston, Nc 285011632
+NC South 2015/5/12 p a 35.2 -1 Blue M15-912635 Nancy Schuder  1517 River Street, Wilkesboro, Nc 286977391
+NC South 2015/6/3 y u 23.7 24.5 Indigo A05-973646 Talesha Williams  145 Rowan Street, Fayetteville, Nc 283014994
+SC South 2015/4/25 p a 28.3 -1 Indigo M15-473389 Sandra Daniel  1463 Tobias Gadson Blvd, Charleston, Sc 294074794
+SC South 2015/5/25 o a 19.3 26.8 Violet M15-360564 Rafael Fernandez  2Nd Flr, 1111 Broad Street, Camden, Sc 290203611
+SC South 2015/5/24 y a 23.4 24.1 Orange A05-366588 Gloria Pooser  11Th Floor Strom Thurmond Bldg, 1835 Assembly Street, Columbia, Sc 292012430
+SC South 2015/5/12 p a 26.2 -1 Orange M30-392375 Harry Scott  646 Robert Smalls Parkway, Beaufort, Sc 299069050
+SC South 2015/5/14 p u 21.9 -1 Blue M30-726449 Janet Spry  181 Dozier Blvd, Florence, Sc 295014026
+TN South 2015/6/9 y u 17.8 19.9 Blue A05-526394 Jean Henderson  Rm 304, 3602 Austin Peay Hwy, Memphis, Tn 381283720
+TN South 2015/8/19 o u 33.4 36.9 Yellow U02-291472 Paula Huff  2405 South Wilcox Drive, Kingsport, Tn 376607395
+TN South 2015/3/27 o u 6.4 7.8 Blue U02-471114 Mark Keeton  215 Centerview Dr, Brentwood, Tn 370275246
+TN South 2015/7/19 y k 26.5 26.7 Blue M30-728382 Andrew Nelson  3602 Austin Peay Hwy, Memphis, Tn 381283720
+TN South 2015/2/11 y a 4 4.3 Orange A05-556104 Frances Pratt  6840 Carothers Pkwy Ste 350, Franklin, Tn 370676538
+TN South 2015/2/9 o u 29.6 34.1 Yellow U02-393010 George Trotter  309 Monroe Ave, Memphis, Tn 381032719
+TN South 2015/3/6 p k 33 -1 Green M15-637639 Peggy Watson  8530 Kingston Pike, Knoxville, Tn 379195353
+VA South 2015/7/23 p a 31.5 -1 Yellow M30-370510 Bridie Barr  1St Flr, 5850 Lake Herbert Dr, Norfolk, Va 235022236
+VA South 2015/3/1 o k 13.1 13.4 Blue M15-686977 Doyle Baynes-Jr  9500 Center St, Manassas, Va 201105520
+VA South 2015/2/11 p u 24.3 -1 Indigo U02-962028 Nicole Campbell  Skyline Tower Suite 1600, 5107 Leesburg Pike, Falls Church, Va 220413260
+VA South 2015/5/11 y k 25.6 30.2 Indigo M15-530608 Luis Carrero  9500 Center Street, Manassas, Va 201105520
+VA South 2015/6/21 p a 22.1 -1 Red M15-413346 Paige Fallen  2049 Hamilton Blvd, South Boston, Va 245922141
+VA South 2015/2/9 p a 30.9 -1 Red M30-963100 Susan Hogan  Village At Waterford, 13551 Waterford Place, Midlothian, Va 231123929
+VA South 2015/4/11 p u 3 -1 Yellow A05-578640 Stephen Mcclaskey  22581 Center Pkwy, Accomac, Va 233011328
+VA South 2015/3/16 y k 9.4 12.3 Green A05-392582 Beverly Patillo  Ste 100, 2875 Sabre St, Virginia Beach, Va 234527365
+VA South 2015/5/6 p u 5.2 -1 Orange M15-870713 Jodi Ramey  130 Withers Lane, Wytheville, Va 243824095
+VA South 2015/6/16 y a 11.6 13 Orange M15-541689 John Reilly  502 Hill Point Blvd, Suffolk, Va 234347198
+VA South 2015/5/24 o u 8.7 9.1 Yellow A05-442034 Michael Southall  1470 Pantops Mountain Place, Charlottesville, Va 229114600
+AL South 2015/2/27 o k 25.7 26 Violet M15-925373 Todd Birdsong  501 The Mall Way, Jasper, Al 355047582
+AL South 2015/2/10 o a 22.3 25.4 Indigo A05-792843 Matthew Cooper  101 Courthouse Drive, Fairhope, Al 365322997
+AL South 2015/2/20 p k 24.5 -1 Green U02-955313 Wendi Culver  8Th Fl, 1200 Rev Abraham Woods Jr Blvd, Birmingham, Al 352850003
+AL South 2015/1/4 y u 31.9 34.1 Blue M30-319846 Catherine Fair  204 Enterprise Drive, Gadsden, Al 359048307
+AL South 2015/2/21 y k 6.1 7.3 Indigo A05-351037 Janice Gully  4249 N College Ave, Jackson, Al 365452020
+AL South 2015/6/8 o k 35.9 37 Violet A05-308943 Frankie Hall  5475 Academy Way, Bessemer, Al 350228500
+AL South 2015/4/19 y u 18.1 22 Red M15-643825 Donald Lawford  1778 Whatley Drive, Dothan, Al 363031998
+AL South 2015/6/5 y a 22.5 24.2 Green U02-894890 Stephanie Magnuson  Ste 1200, 2005 University Blvd, Tuscaloosa, Al 354011567
+AL South 2015/6/10 p u 23 -1 Blue M15-392497 Michael Seymour  Bssc, 1200 Rev Abraham Woods Jr Blvd, Birmingham, Al 352850003
+AL South 2015/8/14 p k 22.8 -1 Red A05-976960 Randy Wahl  24467 Alabama Hwy 55, Andalusia, Al 364205467
+AR South 2015/4/2 p k 33.4 -1 Indigo M15-301707 Erin Carmack  6801 Dallas St, Fort Smith, Ar 729035033
+AR South 2015/4/12 y a 12.4 13.7 Red U02-533747 Michael Ferguson  3511 Market Street, Pine Bluff, Ar 716014778
+AR South 2015/2/18 p u 22.1 -1 Red A05-520723 Jared Johnson  3608 East Kiehl Avenue, Sherwood, Ar 721203384
+AR South 2015/7/29 y u 3.1 3.4 Red M30-952478 Katrina Mcadams  700 W Capitol Ave Ste 2405, Little Rock, Ar 722013227
+AR South 2015/1/18 p a 4.4 -1 Blue A05-776282 Sherry Scott  202 Shoppingway Blvd, West Memphis, Ar 723011734
+AR South 2015/4/23 o k 26.2 34.3 Violet A05-288136 Mary Spann  701 Airport Loop, Searcy, Ar 721438346
+AR South 2015/3/7 p a 17.2 -1 Red U02-471541 Brent Wetzler  2475 Christina Lane, Conway, Ar 720346798
+FL South 2015/5/18 o a 15.9 17 Violet A05-253537 David Acevedo  Ste 101, 3650 Colonial Blvd, Fort Myers, Fl 339661157
+FL South 2015/3/8 o u 13.2 14.4 Green M15-600595 Noel Bello  Ste 301, 14361 Commerce Way, Miami Lakes, Fl 330161561
+FL South 2015/7/22 y a 13.6 15.3 Violet M30-554422 Rosario Carney  Desoto Bldg, 8880 Freedom Crossing Trail, Jacksonville, Fl 322561215
+FL South 2015/7/4 p a 30.6 -1 Orange A05-352152 Theresia Coachman  Ste 200, 8501 W Sunrise Blvd, Plantation, Fl 333224013
+FL South 2015/2/3 o u 30.6 34.7 Yellow M30-529175 Billy Hughes  30 Mlk St S, Saint Petersburg, Fl 337013611
+FL South 2015/7/18 p u 26.1 -1 Orange M30-507898 Rebecca Hurwitz  6810 S Us Hwy 1, Port Saint Lucie, Fl 349521410
+FL South 2015/1/19 y k 3.1 3.5 Violet U02-909379 Shanika Jasper  Ste 800, S Miami Ave, Miami, Fl 331300000
+FL South 2015/3/5 y u 15 15.3 Orange A05-786304 Kawantral Louder  1610 Nw 23Rd Avenue, Gainesville, Fl 326053021
+FL South 2015/6/9 y a 22.7 23.6 Violet M15-985388 Darlene Matthews  36630 Adair Rd, Dade City, Fl 335255103
+FL South 2015/3/26 y u 9.6 11.1 Blue M30-319080 Mary Mcaleer  411 W Garden Street, Pensacola, Fl 325024730
+FL South 2015/6/19 y u 2.2 2.7 Blue M15-529536 Brian Meloy  Ssa Leesburg Fo 258, 118 East Main St, Leesburg, Fl 347485239
+FL South 2015/6/8 y k 14.7 15.5 Violet M30-691642 Sonya Miller  111B Racetrack Rd Nw, Fort Walton Beach, Fl 325471644
+FL South 2015/8/5 y u 9 10.3 Violet M30-289574 Agnes Rico  11100 Sw 211 Street, Cutler Bay, Fl 331892806
+FL South 2015/4/15 y k 20.9 25.9 Orange M30-300868 Catherine Thomas  Ste 200, 101 Commerce St, Lake Mary, Fl 327467133
+GA South 2015/4/25 p a 20.4 -1 Indigo A05-883219 Lucrecia Applewhaite  Ste 22T64, 61 Forsyth St Sw, Atlanta, Ga 303038908
+GA South 2015/3/1 y k 24.6 26.2 Orange A05-632581 Chelsea Brown-Hood  61 Forsyth St, Atlanta, Ga 303030000
+GA South 2015/2/13 o k 7 7.3 Red A05-846604 Rebecca Cheney  22T64, 61 Forsyth St Sw, Atlanta, Ga 303038908
+GA South 2015/8/23 p u 8.4 -1 Red A05-781037 Vicky Cosby  Ste 500, 235 W Roosevelt Avenue, Albany, Ga 317015111
+GA South 2015/6/11 p a 6.1 -1 Orange U02-539792 Loretta Dominguez  115 Robert C Daniel Jr Pkwy, Augusta, Ga 309090810
+GA South 2015/3/25 o u 31.3 32.9 Violet U02-303093 Elizabeth Gaitan  Ste 8, 2853 Candler Rd, Decatur, Ga 300341421
+GA South 2015/7/1 p k 21.3 -1 Yellow U02-770021 Oleathia Leonard  22T64, 61 Forsyth St Sw, Atlanta, Ga 303038908
+GA South 2015/4/4 p k 13.5 -1 Yellow A05-665769 Jennifer Marine  1415 Franklin Rd, Marietta, Ga 300678774
+GA South 2015/4/12 y u 12.3 17.3 Blue M15-771694 Teressie Matthews  220 Carl Vinson Parkway, Warner Robins, Ga 310885832
+GA South 2015/3/12 o k 13.3 18.2 Red M30-461079 Joy Smith  Ste 210, 2565 Thompson Bridge Rd, Gainesville, Ga 305011723
+GA South 2015/8/26 o u 15.7 17.2 Red U02-483402 Richard White  908 S Carroll Rd, Villa Rica, Ga 301802556
+GA South 2015/6/10 p u 16.4 -1 Blue A05-975386 Katheryn Word  Ste 20T45, 61 Forsyth St Sw, Atlanta, Ga 303038910
+KY South 2015/1/6 o u 24.4 26.7 Orange A05-902474 Sandra Fultz  12 Tech Park Dr, Middlesboro, Ky 409652270
+KY South 2015/4/9 o u 17.9 18.8 Orange A05-808269 Ryan Miller  4532 Luckystrike Loop, Owensboro, Ky 423037765
+KY South 2015/1/16 y a 9.3 11 Violet A05-318398 Steven Stewart  1650 Marie Drive, Hopkinsville, Ky 422404944
+KY South 2015/8/16 y a 34.1 36.1 Indigo A05-796991 Eric Sweeney  1526 Cuba Road, Mayfield, Ky 420666809
+KY South 2015/6/16 o k 30.8 41.5 Yellow M15-994460 Charisse Young  140 Flynn Ave, Frankfort, Ky 406018211
+LA South 2015/2/19 y u 35.7 38.9 Indigo M30-406787 Melba Bales  3401 North Blvd, Alexandria, La 713013608
+LA South 2015/5/18 p u 25.8 -1 Green A05-731884 Shelley Christy  103 Mbl Bank Drive, Minden, La 710552900
+LA South 2015/7/20 y u 12 16.2 Green U02-620824 Claudine Doucette  1600, 1515 Poydras St, New Orleans, La 701121279
+LA South 2015/6/13 p a 8.7 -1 Violet M15-588981 Erin Dufour  Ste 2000, One Galleria Blvd, Metairie, La 700017581
+LA South 2015/5/28 y a 27.6 38.4 Red A05-418187 Debra Forrest-Weimer  Ste 125 Building D, 4354 Sherwood Forest Blvd, Baton Rouge, La 708164476
+LA South 2015/4/19 y k 25.1 25.3 Indigo A05-727272 Crystal Percle  5097 I49 S Service Road, Opelousas, La 705708979
+LA South 2015/2/20 p u 3.2 -1 Green M30-550207 Frances Short  2100 Robin Ave, Hammond, La 704035749
+LA South 2015/6/4 p u 18.5 -1 Green U02-984997 Glenda Terrance  Ste 1600, 1515 Poydras St, New Orleans, La 701121279
+LA South 2015/2/23 o a 2.8 3 Indigo M30-915544 Barbara Wagner  3403 Government St, Alexandria, La 713023321
+LA South 2015/1/2 y a 14.3 21.3 Yellow A05-591092 Robin Wolinski  Ste 2000, 1 Galleria Blvd, Metairie, La 700017581
+MS South 2015/5/6 y a 5 5.5 Orange M30-576445 Jennifer Ayers  8760 Mid South Dr, Olive Branch, Ms 386542901
+MS South 2015/8/10 p k 35.8 -1 Violet M30-235581 Cynthia Brown  3577 Bluecutt Road, Columbus, Ms 397051302
+MS South 2015/2/12 p k 13.9 -1 Blue A05-859361 Suzanne Chennault  1911 Broadway Dr, Hattiesburg, Ms 394023208
+MS South 2015/1/17 o a 30.4 33.6 Indigo M15-270874 Edward Cwiklik  Pob 1767, 80 Veterans Memorial Drive, Kosciusko, Ms 390901767
+MS South 2015/8/30 y u 3.4 4 Yellow M15-471577 Elizabeth Douglas  1901 Broadway Dr, Hattiesburg, Ms 394023208
+MS South 2015/8/12 o a 22.4 24.7 Violet M15-820481 Sara Edwards  Room 226, 236 Sharkey Ave, Clarksdale, Ms 386144436
+MS South 2015/2/10 o a 20.3 20.6 Green A05-520222 Barbara Knott  100 W Capital St, Ste 1014, Jackson, Ms 392691610
+NC South 2015/2/28 p u 28.4 -1 Indigo A05-660034 Debra Bullock  2402 Freeway Dr, Reidsville, Nc 273207209
+NC South 2015/1/19 y a 30.9 38.8 Red M30-766752 Renee Butler  202 Charter St, Albemarle, Nc 280018702
+NC South 2015/5/6 p a 8.3 -1 Blue A05-504784 Vernal Cooper  1370 Lockland Ave, Winston Salem, Nc 271035120
+NC South 2015/3/14 o k 34.4 38.8 Yellow U02-873786 Sheron Craig  205 S Grove Street, Hendersonville, Nc 287924008
+NC South 2015/5/30 y k 4 4.9 Yellow M30-546850 Stacey Diggs  Rtp, 3604 Louis Stephens Drive, Durham, Nc 277090000
+NC South 2015/4/12 o u 30.3 35.5 Green M15-961139 Amy Eggleton  1840 Jake Alexander Blvd West, Salisbury, Nc 281471135
+NC South 2015/2/14 y u 3 3.2 Indigo M30-941006 Rosa Green  Ste K, 157 Dublin Square Rd, Asheboro, Nc 272038691
+NC South 2015/2/10 y u 25 32.9 Indigo A05-444319 Kimberly Huffstetler  609 Cotton Blossom Circle, Gastonia, Nc 280545247
+NC South 2015/7/24 y u 10.1 10.4 Violet U02-766472 Sandra Myers  1517 River St, Wilkesboro, Nc 286977391
+NC South 2015/5/16 y k 27 27.7 Yellow A05-492872 Yvette Nurse-Parrish  Po Box 110446, Research Triange Park, Durham, Nc 277095446
+NC South 2015/6/2 o u 29.4 34.8 Red M15-373416 Virginia Rodriguez  800 Centrepark Drive, Asheville, Nc 288051277
+NC South 2015/4/19 o a 4.1 4.4 Blue M15-979996 Sylvia Smith  231 1St Ave Sw, Hickory, Nc 286022922
+NC South 2015/3/12 p a 32.1 -1 Violet U02-355080 Darryl Yax  401 Tiffany Drive, Sanford, Nc 273309306
+SC South 2015/6/29 y a 17 23 Orange M15-468797 Delora Bayne  Ste 1048, 300 University Ridge, Greenville, Sc 296014712
+SC South 2015/3/2 p a 33.9 -1 Indigo A05-793691 Debra Joseph  Ste 300, 3875 Faber Place Drive, North Charleston, Sc 294058544
+SC South 2015/1/31 o u 30.3 32.6 Yellow M30-459000 Kelli Lee  499 Lakeshore Pkwy, Rock Hill, Sc 297304205
+SC South 2015/8/24 p k 20.2 -1 Orange M30-773289 Maritza Mendez  499 Lakeshore Parkway, Rock Hill, Sc 297304205
+SC South 2015/8/18 y a 5.3 7.7 Violet A05-322027 Carlos Nieto  151 Corporate Pkwy, Aiken, Sc 298037652
+SC South 2015/4/6 y k 24.7 25.8 Green M15-238391 Robert Turner  292 Professional Park Rd, Clinton, Sc 293257624
+SC South 2015/7/29 p u 14.2 -1 Green U02-926184 Erin Vincent  151 Coporate Pkwy, Aiken, Sc 298037652
+TN South 2015/5/16 p a 12.8 -1 Orange M30-561884 Deena Blackstone  221 Cumberland Bend, Nashville, Tn 372281803
+TN South 2015/5/5 o k 15.5 19.8 Violet M30-667635 Melissa Burleson  2405 South Wilcox Drive, Kingsport, Tn 376607395
+TN South 2015/5/29 y a 31.2 34.3 Yellow M15-893072 Mark Burris  921 Congress Pkwy N, Athens, Tn 373031705
+TN South 2015/8/22 p u 21.2 -1 Violet U02-659681 Christina Christofidis  109 E Taylor St, Lawrenceburg, Tn 384643722
+TN South 2015/5/6 o a 4 5.1 Orange M15-731729 Christina Cowan  Suite 315, 220 Athens Way, Nashville, Tn 372281304
+TN South 2015/1/31 p a 22.9 -1 Green M15-492880 Judith Huffman  565 Oakridge Turnpike, Oak Ridge, Tn 378307187
+TN South 2015/5/4 y k 12.4 13.2 Yellow M30-743522 Steven Parker  Ste 215, 215 Centerview Drvie, Brentwood, Tn 370275259
+TN South 2015/3/23 y k 10.9 13.2 Green M30-291982 Walter Peggs  415 Cheyenne Drive, Jackson, Tn 383053571
+TN South 2015/1/7 o u 24.6 30.4 Red U02-889152 Horace Phillips  120 Athens Way, Nashville, Tn 372281325
+TN South 2015/2/21 p u 11.4 -1 Red U02-352655 Joseph Riley  2836 Saint Patrick Court, Murfreesboro, Tn 371283551
+TN South 2015/6/27 y k 25.3 26.4 Red U02-438272 Pamela Stanley  1070 Vendall Rd, Dyersburg, Tn 380241623
+TN South 2015/2/10 y u 11.2 14.3 Orange M15-824714 David Streitmatter  1330 Monroe Ave, Memphis, Tn 381041329
+VA South 2015/5/30 y u 12 14.2 Yellow M30-529054 Elaine Booth  11212 Waples Mill Rd Ste 105, Fairfax, Va 220307404
+VA South 2015/8/3 o k 19.3 22.3 Violet M30-545390 Trevor Drozdowski  2484 Lee Hwy, Bristol, Va 242025930
+VA South 2015/4/28 o a 10 12.7 Green M30-326141 Dorethea Fleming  Ste 400 One Skyline, 5107 Leesburg Pike, Falls Church, Va 220413260
+VA South 2015/8/17 y a 17.1 18.5 Blue U02-365049 Kathie Holland  2Nd Floor, 612 South Jefferson Street, Roanoke, Va 240112433
+VA South 2015/1/23 o k 9.6 12 Green M30-331667 Darlene Mcpherson  12 Ricketts Drive, Winchester, Va 226013678
+VA South 2015/7/1 o u 4.7 4.7 Yellow U02-948524 Charlene Morales  11706 Jefferson Avenue, Newport News, Va 236061905
+VA South 2015/7/16 p u 21.4 -1 Indigo M15-946665 Jaime Robison  Bldg 2, 1600 N Coalter Street, Staunton, Va 244012500
+VA South 2015/7/9 o a 9.8 12.4 Blue M15-877680 David Rodgers  1470 Pantops Place, Charlottesville, Va 229110000
+VA South 2015/3/4 p u 19.3 -1 Indigo A05-700150 April Sims  9915 Jefferson Davis Hwy, Fredericksburg, Va 224079423
+VA South 2015/4/24 o k 6.7 6.9 Blue M30-975389 Noelle Smith  1834 West Carey Street, Richmond, Va 232205329
+VA South 2015/1/25 p u 35.8 -1 Indigo M30-422947 Robert Smith  1St Floor, 5850 Lake Herbert Dr, Norfolk, Va 235022236
+AL South 2015/7/18 y a 11.9 12 Violet M15-435870 Maia Burchell  717 Mcglathery Ln Se, Decatur, Al 356016054
+AL South 2015/5/19 p a 2.2 -1 Blue U02-679686 Thomas Burchell  4970 Research Drive Nw, Huntsville, Al 358055906
+AL South 2015/5/12 y k 20.4 21.6 Red A05-357190 Jennifer Chandler  1800 Corporate Dr, Opelika, Al 368016847
+AL South 2015/2/11 p u 5.8 -1 Yellow M30-242453 William Durden-Jr  63 Aliant Parkway, Alexander City, Al 350103446
+AL South 2015/3/10 y k 28.8 35.5 Violet M30-697920 Amanda Harris  1200 Rev Abraham Woods Jr Blvd, Birmingham, Al 352850003
+AL South 2015/1/8 p a 3.4 -1 Indigo U02-494605 Rebecca Hays  Ste 200, 550 Government Street, Mobile, Al 366022009
+AL South 2015/8/1 y u 20.5 20.5 Red A05-568138 Candace Hornbuckle  1200 Rev Abraham Wood Jr Blvd, 1St Floor Odar, Birmingham, Al 352850003
+AL South 2015/5/27 p a 28.3 -1 Green M15-377131 Jennifer Malone  Suite D, 204 S Walnut Street, Florence, Al 356305749
+AL South 2015/5/31 p u 5.2 -1 Violet M30-428550 Michael Morris  63 Aliant Parkway, Alexander City, Al 350103446
+AL South 2015/6/8 p a 20.1 -1 Green M30-648243 Jeff Murphree  204 Enterprise Dr, Gadsden, Al 359048307
+AL South 2015/1/6 o a 7.3 9 Blue A05-556490 Monica Self  1St Fl Field Office, 1200 Rev Abraham Woods Jr Blvd, Birmingham, Al 352850003
+AL South 2015/8/29 y u 26.9 28.7 Orange A05-287449 Susie Thompson  736 North St E, Talladega, Al 351602528
+AL South 2015/3/14 p a 22.1 -1 Red M30-418257 Wilhelmina Williams  1200 Rev Abraham Woods Jr Blvd, Birmingham, Al 352850003
+AR South 2015/4/6 y u 7.8 10.1 Yellow M15-603900 Georgette Blankenship  Ste A, 965 Holiday Drive, Forrest City, Ar 723359178
+AR South 2015/6/28 y k 22.7 23.7 Yellow A05-784666 Jodie Smith  Ste 475 Central Mall, 5111 Rogers Ave, Fort Smith, Ar 729032047
+AR South 2015/7/26 y u 27.3 33.6 Green A05-617746 Kimberley Wyatt  1403 S Division, Blytheville, Ar 723155405
+FL South 2015/1/9 y k 25.7 27.3 Yellow M30-842844 Vivian Cardenal  5195 Coconut Creek Pkwy, Margate, Fl 330633914
+FL South 2015/5/23 y a 30.9 37.6 Orange M15-924451 Lynette Carnegie  500 E Zack St, Ste 501, Tampa, Fl 336023919
+FL South 2015/4/1 y k 0.3 0.3 Green M30-566700 Pamela Cates  Glenbridge Blg Suite 300, 3505 Lake Lynda Drive, Orlando, Fl 328178324
+FL South 2015/5/13 o u 17 18.1 Blue M30-405025 Eileen Chetta  Suite 400, 621 Nw 53 Street, Boca Raton, Fl 334878241
+FL South 2015/8/27 o a 24 33.8 Indigo M30-358502 Oneida D'Orville  2340 Drew Street, Clearwater, Fl 337653310
+FL South 2015/2/2 o u 9.7 9.7 Green M15-577034 Angela Garcia  6500 W 21St Ct, Hialeah, Fl 330162612
+FL South 2015/8/12 y k 9.6 11.7 Yellow M30-838198 Dora Hagger  Fountain Sq Ii Ste 200, 4925 Independence Pkwy, Tampa, Fl 336347552
+FL South 2015/2/13 y u 23.2 26.4 Yellow U02-263728 John Lanham  2659 Professional Circle, Naples, Fl 341198092
+FL South 2015/4/13 o k 5.9 6.1 Indigo A05-905694 Donna Maitland  4990 S Clyde Morris, Port Orange, Fl 321278923
+FL South 2015/6/13 p a 18.6 -1 Indigo A05-520261 Domingo Marquez  Suite 100, 4010 Gunn Highway, Tampa, Fl 336188744
+FL South 2015/7/4 p u 17 -1 Orange A05-318389 Frank Medina  5195 Coconut Creek Parkway, Margate, Fl 330633914
+FL South 2015/5/11 o u 32.3 32.5 Orange A05-367706 Sabrina Pickens  4990 S Clyde Morris Blvd, Port Orange, Fl 321278923
+FL South 2015/4/19 p u 35 -1 Orange M30-864653 Brittany Price  97 W Oak Ave, Panama City, Fl 324012735
+FL South 2015/1/8 o u 16.2 17.1 Red M30-542823 Michelle Rado  2Nd Floor, 830 Central Ave, St Petersburg, Fl 337013622
+FL South 2015/6/26 p a 11.8 -1 Violet M30-722621 Solmerina Reyes  11100 Sw 211 Street, Cutler Bay, Fl 331892806
+FL South 2015/1/11 o k 22.4 23.5 Green M30-823377 Ivette Rubiera  Rm 262, 6500 W 21St Ct, Hialeah, Fl 330162612
+FL South 2015/6/25 p k 28.2 -1 Violet U02-335656 Deliris Thomas  30 Dr Mlk St S, St Petersburg, Fl 337010000
+FL South 2015/1/9 o a 33.1 47.8 Red M15-470854 Jean Tracas  Ste 101, 5520Gatlin Avenue, Orlando, Fl 328127775
+FL South 2015/2/7 o k 29.4 32.3 Red A05-703151 Ronald Turner  Ste 501 Timberlake Federal, 500 East Zack Street, Tampa, Fl 336023917
+FL South 2015/5/23 o k 18.8 20.2 Blue A05-917434 Maria-Louella-C Tyler  118 East Main Street, Leesburg, Fl 347485239
+GA South 2015/5/21 o a 27.3 28.4 Red U02-916297 Christopher Alred  301 Point North Place, Dalton, Ga 307202645
+GA South 2015/5/30 o k 23.1 26.2 Red M30-685084 Carolyn Collins  Suite B, 246 Bullsboro Dr, Newnan, Ga 302633167
+GA South 2015/5/14 p u 35.8 -1 Blue U02-400884 Gary Dixon  Ste A, 2630 Martin Luther King Jr Dr, Atlanta, Ga 303111605
+GA South 2015/7/25 p u 5.1 -1 Indigo M15-780553 Teresa Escarra  San Nunn Federal Bldg 22T64, 61 Forsyth St, Atlanta, Ga 303038931
+GA South 2015/1/21 p k 4.6 -1 Red M30-445602 Jamal Hardman  10155 Eagle Dr, Covington, Ga 300143805
+GA South 2015/8/6 p k 14.9 -1 Indigo U02-820672 Randall Hughes  Suite 22T64, 61 Forsyth St Sw, Atlanta, Ga 303038908
+GA South 2015/4/25 p k 30.4 -1 Yellow M30-308705 Linda Kimmel  303 Isabella St, Waycross, Ga 315013600
+GA South 2015/1/25 p k 4.3 -1 Blue U02-459583 Gail Lee  Ste 21T30, 61 Forsyth St Sw, Atlanta, Ga 303038910
+GA South 2015/5/17 y k 17.2 20.8 Red U02-908750 Robin Mccook  Rm 500, 484 Mulberry St, Macon, Ga 312017929
+GA South 2015/3/22 y u 5.6 6 Yellow A05-669189 Mary-Jane-B Rolen  61 Forsyth St Nw, Ste 23T35, Atlanta, Ga 303032219
+GA South 2015/7/16 o k 6.8 6.8 Green A05-447315 George Sims  Ste 23T30, 61 Forsyth St, Atlanta, Ga 303038931
+KY South 2015/5/5 o k 19.2 23.6 Blue M15-343595 Jennifer Barton  159 Future Drive, Corbin, Ky 407018989
+KY South 2015/7/21 o a 30.3 35.3 Orange A05-884286 Mark Blackburn  333 Hambley Blvd, Pikeville, Ky 415013747
+KY South 2015/5/7 y u 34.8 38.5 Blue A05-955335 Jason Boling  125 Brett Chase, Paducah, Ky 420035755
+KY South 2015/8/13 y u 13.2 13.7 Violet U02-629860 Holly Byrd  2724 Chandler Dr, Bowling Green, Ky 421046255
+KY South 2015/7/5 o k 20.4 22.4 Indigo A05-782674 Kimberly Cline  Ste 100, 400 Belerive Blvd, Nicholasville, Ky 403568135
+KY South 2015/4/12 o u 20.7 22.3 Violet A05-465498 Linda Coates  Ste 300, 601 W Broadway, Louisville, Ky 402022221
+KY South 2015/8/30 o a 4.3 4.3 Red A05-732238 Brenda Egleston  140 Flynn Ave, Frankfort, Ky 406018211
+KY South 2015/8/27 p a 31.9 -1 Indigo M30-846412 John Forte  Building 3, 2000 North Elm Street, Henderson, Ky 424202385
+KY South 2015/6/1 p u 25.1 -1 Violet M15-893612 David Fraley  1060 Gibson Bay Drive, Richmond, Ky 404753448
+KY South 2015/1/12 y V 20.4 27.2 Green U02-987029 Kelli Jackson  591 Westport Road, Elizabethtown, Ky 427012949
+KY South 2015/3/29 p k 25.6 -1 Red M30-667402 Shelli Murray  2241 Buena Vista Rd Ste 210, Lexington, Ky 405054826
+LA South 2015/1/21 p u 4.3 -1 Yellow M30-859570 Christopher Brinkman  3401 North Blvd, Alexandria, La 713013608
+LA South 2015/1/4 o k 26.4 28 Yellow A05-680641 Sandra Duthu  2100 Robin Ave, Hammond, La 704035749
+LA South 2015/7/10 y u 28.8 36.7 Blue U02-741619 Latisia Dyson  205 Arkansas Ave, Bogalusa, La 704273809
+LA South 2015/7/21 o u 26.1 27.9 Red U02-379189 Elizabeth Hughes  1120 Plaza Blvd, Monroe, La 712015146
+LA South 2015/6/4 y a 15 19.6 Violet A05-861865 Tharon James  Ste 500, 400 Poydras Street, New Orleans, La 701303323
+LA South 2015/8/1 y u 22.1 23.6 Indigo M15-399027 Jerelyn Key  5455 Bankers Avenue, Baton Rouge, La 708082606
+LA South 2015/7/12 y a 24.9 27.6 Indigo M30-381677 Gina Locascio  115 Terry Parkway, Terrytown, La 700562522
+LA South 2015/4/16 p a 17.3 -1 Yellow U02-669643 Jennifer Nevil  115 Terry Parkway, Terrytown, La 700562522
+LA South 2015/2/15 p k 10 -1 Orange U02-663744 Ryan Perry  2100 Sartor St, Leesville, La 714465100
+LA South 2015/8/14 y a 28.8 28.8 Blue A05-983245 Ricco Thomas  5455 Bankers Ave, Baton Rouge, La 708082606
+LA South 2015/1/15 y a 18.7 24.6 Yellow M15-547852 Jacqueline Vincent  106 Corporate Blvd, Lafayette, La 705083849
+MS South 2015/4/10 y a 5.1 5.2 Violet U02-490696 James Blackwell  Po Box 1127, 100 Pilot St, Philadelphia, Ms 393501127
+MS South 2015/2/27 o u 8.7 30 Yellow U02-427358 Latrenda Citizen-Harris  Room 132, 4155 Clay Street, Vicksburg, Ms 391833435
+MS South 2015/8/6 p a 9.8 -1 Orange M15-405981 Alice Godwin  Ste 225, 100 W Capitol St, Jackson, Ms 392691602
+MS South 2015/4/22 o k 14.8 22.2 Indigo A05-342414 Jennifer Hawkins  558 Deerfield Dr, Forest, Ms 390746005
+MS South 2015/5/5 o k 10.9 12 Indigo M30-502383 Charolette Howie  1050 S Harper Road, Corinth, Ms 388346645
+MS South 2015/4/17 p k 31 -1 Indigo M30-992981 Holly Moran  9394 Three Rivers Road, Gulfport, Ms 395034268
+MS South 2015/6/28 y a 16.4 20.5 Green U02-589106 Thanh Nguyen  9394 Three Rivers Rd, Gulfport, Ms 395034268
+MS South 2015/2/21 o u 13.9 16 Green U02-332485 Carolyn Poston  1089C Stark Rd, Starkville, Ms 397593565
+MS South 2015/4/20 o a 31.9 34.5 Green A05-832898 Deborah Seaton  6000 Hwy 63, Moss Point, Ms 395639534
+MS South 2015/4/20 p k 27.4 -1 Orange U02-756471 Erin Turner  Rm 301, 100 West Capitol St, Jackson, Ms 392691620
+NC South 2015/3/25 y a 15 15.8 Violet M30-288413 Berkley Asbury  231 1St Ave Sw, Hickory, Nc 286022922
+NC South 2015/2/5 y a 29.6 40.2 Green U02-631438 Beverly Cates  1633 John Small Ave, Washington, Nc 278898032
+NC South 2015/1/24 y a 14.5 14.8 Orange A05-959470 Kimberly Dettenmayer  145 Rowan St, Fayetteville, Nc 283014994
+NC South 2015/2/23 p a 19.3 -1 Yellow A05-338557 Heather Gray  2805 S Charles Blvd, Greenville, Nc 278585934
+NC South 2015/1/30 y u 33.6 33.6 Yellow M30-690695 Pamela Green  915 W New Hope Rd, Goldsboro, Nc 275349426
+NC South 2015/2/16 o u 30.4 33.1 Yellow U02-573386 Francisco Hamilton  4430 Kahn Drive, Lumberton, Nc 283582326
+NC South 2015/2/24 p a 26.8 -1 Red M15-929685 Florence Keefe  401 Tiffany Drive, Sanford, Nc 273309306
+NC South 2015/4/6 y a 29.2 37.1 Yellow A05-614070 Renee Rishty  150 Rowan St 2Nd Fl, Fayetteville, Nc 283014920
+NC South 2015/6/27 o a 21.1 23.2 Red U02-860072 Brett Speas  1528 S 16Th St, Wilmington, Nc 284016426
+NC South 2015/8/26 o u 9.4 10.5 Indigo A05-500932 Shelma Torrech  1865, West City Drive, Elizabeth City, Nc 279099633
+NC South 2015/3/1 p u 9.2 -1 Blue A05-931085 Billy Vincent  145 Rowan St, Fayetteville, Nc 283014994
+NC South 2015/6/30 o a 5.2 6.7 Violet M15-877701 Kenneth Walker  2402 Freeway Drive, Reidsville, Nc 273207209
+NC South 2015/6/2 y a 24 29.6 Blue M15-680992 Luellen Wearing  Room 200, 4800 Falls Of Neuse Rd, Raleigh, Nc 276098143
+SC South 2015/4/13 o u 3 3.5 Indigo M30-471220 Debra Darby  413 King Street, Georgetown, Sc 294403539
+SC South 2015/7/25 p a 33.8 -1 Red M30-788502 Lisa Davenport  1316 Third Ave, Conway, Sc 295265002
+SC South 2015/1/11 o u 23.2 23.9 Orange M15-413637 Jeffrey Hart  1731 Bush River Road, Columbia, Sc 292106811
+TN South 2015/6/20 y k 20.8 22.1 Indigo U02-541902 Jean Alexander  Ste 203, 818 Sunset Dr, Johnson City, Tn 376048310
+TN South 2015/5/9 y k 24.7 26.7 Yellow A05-656797 Carey Capps  1800 Old Troy Rd, Union City, Tn 382615519
+TN South 2015/3/10 y a 35.1 36.5 Orange M15-876523 Andy Cowan  717 Kings Lane, Tullahoma, Tn 373885372
+TN South 2015/7/9 o k 11 11.9 Indigo M15-733998 Brenda Deniston  565 Oak Ridge Tpke, Oak Ridge, Tn 378307187
+TN South 2015/5/18 p u 11.7 -1 Red M30-893222 Joshua Horn  120 Athens Way, Nashville, Tn 372281325
+TN South 2015/8/1 p k 23.5 -1 Violet M30-919380 Bradley Leonard  Suite 203, 818 Sunset Dr, Johnson City, Tn 376048310
+TN South 2015/4/4 p k 19.5 -1 Indigo M30-490510 Ronnie Smith  119 Center Pointe Drive, Clarksville, Tn 370408424
+TN South 2015/8/22 p u 22.7 -1 Indigo A05-351133 Linda St-Louis  140 Cude Lane, Madison, Tn 371152202
+TN South 2015/5/23 y a 8.9 8.9 Blue A05-980434 Noela Suarez  717 Kings Ln, Tullahoma, Tn 373885372
+TN South 2015/1/19 o k 17.8 18.2 Blue M30-964821 Billy Sweatt  2401 S Wilcox Drive, Kingsport, Tn 376607395
+TN South 2015/1/5 p k 28 -1 Green A05-944855 Phillip Williams  1290 Premier Drive, Chattanooga, Tn 374213707
+VA South 2015/6/24 o k 7.3 7.5 Green M30-702865 Louisa Brinson  Rm 200, 1401 Wilson Blvd, Arlington, Va 222092326
+VA South 2015/1/3 o a 3.9 4.4 Violet M30-982790 Kevin Briscoe  Suite 501 Skyline Tower, 5107 Leesburg Pike, Falls Church, Va 220413260
+VA South 2015/7/25 p k 31.5 -1 Indigo A05-301309 Michael Cummings  1521 Hardy Cash Drive, Hampton, Va 236662476
+VA South 2015/2/10 o u 11.8 13 Blue M15-339387 Sanora Frampton  Suite B, 340 Hill Carter Pkwy, Ashland, Va 230052324
+VA South 2015/8/1 p k 9.2 -1 Indigo M15-656398 Dorenda Groat  9504 Center Street, Manassas, Va 201105520
+VA South 2015/5/9 p k 21.1 -1 Blue A05-376751 Carl Kincaid  1014 S Main Street, Culpeper, Va 227013423
+VA South 2015/5/11 o u 22.7 22.8 Green M30-764603 Marianela Mullins  245 East Williamsburg Rd, Sandston, Va 231501636
+VA South 2015/4/23 p a 19.5 -1 Violet A05-636749 Amanda Nguyen  5107 Leesburg Pike Ste 1700, Falls Church, Va 220413289
+VA South 2015/1/31 o a 28.3 32.9 Green M30-270877 Trena Robinson  Rm 1504, 5107 Leesburg Pike, Falls Church, Va 220413222
+VA South 2015/1/14 p a 8.1 -1 Indigo A05-553526 Erica Schuelke  Ste 1500, 5107 Leeseburg Pike, Falls Church, Va 220413222
+VA South 2015/5/11 p k 15.2 -1 Yellow M15-257154 Brandice Shafron  Suite 190, 6295 Edsall Road, Alexandria, Va 223122675
+VA South 2015/3/24 o u 5.9 6.1 Red M30-294962 Mary Taylor  Ste 1407, 5107 Leesburg Pike, Falls Church, Va 220413260
+VA South 2015/5/25 p a 0.5 -1 Violet U02-914636 J Vacanti  3295 Us Hwy 29, Danville, Va 245401433
+VA South 2015/1/27 y u 23 26.7 Yellow U02-548192 Sally Williams  3305 Airline Blvd, Portsmouth, Va 237012620
+VA South 2015/7/5 o u 13.1 13.7 Yellow M15-996519 Cathy Williams-Hall  3Rd Flr, 5850 Lake Herbertdr, Norfolk, Va 235022238
+AL South 2015/5/20 o k 17.3 20.4 Blue M30-824766 Ann Aiken  1200 8Th Floor, 1200 Reverend Abraham Woods Jr Blvd, Birmingham, Al 352850003
+AL South 2015/5/7 p u 23 -1 Orange U02-471907 Jacque Allen  Ste 100, 4344 Carmichael Road, Montgomery, Al 361063732
+AL South 2015/2/8 o k 4.2 4.4 Yellow U02-761826 Jennifer Allen  Suite 1200, 2005 University Blvd, Tuscaloosa, Al 354011567
+AL South 2015/2/12 y a 11 11.9 Indigo M15-257716 Margaret Bowers  Bssc 8Th Floor, 1200 Rev Abraham Woods Jr Blvd, Birmingham, Al 352850003
+AL South 2015/1/20 o k 33 35.2 Green M30-530697 Thomas Cahill  2Nd Flr Computer Rm, 1200 8Th Ave North, Birmingham, Al 352850003
+AL South 2015/2/13 p k 21.8 -1 Yellow A05-948672 Sabrina Johnson  Bssc, 1200 Rev Abraham Woods Jr Blvd, Birmingham, Al 352850003
+AL South 2015/2/5 y u 22.4 25.2 Violet A05-822677 Patsy Miller  Bmtsc Directors Office 8Th Floor, 1200 Rev Abraham Woods Jr Blvd, Birmingham, Al 352850003
+AL South 2015/7/7 y u 21.9 25.2 Yellow A05-917476 Jeremy Peed  1908 Commerce Ave Nw, Cullman, Al 350556150
+AR South 2015/6/13 p k 7.3 -1 Violet M30-948583 Jerrald Jenkins  Ste 475, 5111 Rogers Avenue, Fort Smith, Ar 729032045
+AR South 2015/2/26 o a 16.8 18.3 Yellow U02-473606 Cindy Mclarty  131 W Industrial Park Drive, Harrison, Ar 726012205
+AR South 2015/2/19 o a 23 31.9 Green A05-359402 Jason Monroe  3608 E Kiehl Ave, Sherwood, Ar 721203384
+AR South 2015/8/8 o a 34.1 36.6 Violet M30-525382 Phyllis Watson  1403 S Division St, Blytheville, Ar 723155405
+FL South 2015/4/19 p k 27.3 -1 Violet M15-437827 Donna Bailey  Suite 200, 1600 Tamiami Trail, Port Charlotte, Fl 339481017
+FL South 2015/2/7 p k 12.5 -1 Green M15-618470 Margaret Bird-Torres  2428 Old Moultrie Rd, St Augustine, Fl 320860000
+FL South 2015/6/14 o a 19.8 22.5 Green A05-658581 Edith Brown  Fountain Square Ii Ste 200, 4925 Independence Pkwy, Tampa, Fl 336347552
+FL South 2015/3/15 y u 32 38 Blue A05-524326 Steve Chandler  724 20Th Street, Vero Beach, Fl 329605442
+FL South 2015/5/28 o u 22.1 24.3 Indigo U02-698563 Arpana Fernandez  Ste 100, 7185 Bonneval Road, Jacksonville, Fl 322567578
+FL South 2015/1/7 p u 24.9 -1 Blue A05-581869 Susan Gebhardt  1715 W. Nasa Blvd, Melbourne, Fl 329012611
+FL South 2015/4/11 Q u 19.9 21.4 Blue M30-320231 Rene Hayes-Aladenika  Ste 1000Th Floor, 500 East Broward Blvd, Fort Lauderdale, Fl 333943026
+FL South 2015/8/29 o a 4.5 5 Red M30-288711 Robin Haynes  310 Canaveral Groves Blvd, Cocoa, Fl 329265963
+FL South 2015/8/30 o k 30.6 33 Yellow A05-350783 Charles Hernandez  14361 Commerce Way, Ste 301, Miami Lakes, Fl 330161561
+FL South 2015/5/17 y u 31.2 34 Yellow M15-670988 Elizabeth Joseph  2Nd Floor, 830 Central Ave, Saint Petersburg, Fl 337013622
+FL South 2015/7/28 p u 34.8 -1 Red A05-962811 Jeanette Kerns  Ste 201 2Nd Floor, 4010 Gunn Hwy, Tampa, Fl 336188744
+FL South 2015/1/17 y u 22.3 24.1 Indigo U02-971523 Lynne Lagrande  1395 Havendale Blvd Nw, Winter Haven, Fl 338811336
+FL South 2015/8/14 y u 4.7 5.2 Orange M15-805540 Gladys Leverette  14128 Vasconia Ct, Orlando, Fl 328374772
+FL South 2015/2/10 p u 17.2 -1 Indigo M15-431427 Alexandra Luzbel  1251 Nw 36 St, Miami, Fl 331425532
+FL South 2015/8/27 y u 31.2 33.7 Violet U02-266351 Linda Partin  Ste 1114, 2659 Professional Circle, Naples, Fl 341198092
+FL South 2015/6/2 y k 27.8 31.9 Indigo M30-286027 Pedro Perez  Rm 300, 6101 Blue Lagoon Drive, Miami, Fl 331262050
+FL South 2015/7/9 p k 11.9 -1 Violet M15-686631 Carol Phillips  Ste 180, 380 Park Place Blvd, Clearwater, Fl 337594962
+FL South 2015/6/21 Q u 4.2 5.7 Turquoise A05-844049 Michael Ramos  3700 Commercial Dr, Sebring, Fl 338701315
+FL South 2015/5/24 y k 10.8 11.2 Green M30-916732 Erik Ristow  Suite 101, 5520 Gatlin Ave, Orlando, Fl 328127775
+FL South 2015/1/2 o a 25.6 29.3 Blue M30-831228 Erika Simms  Suite 400, 621 Nw 53 St, Boca Raton, Fl 334878241
+FL South 2015/7/21 o u 13.8 17.6 Orange M30-978666 Belinda Tarver  1629 S Adelle Ave, Deland, Fl 327207906
+FL South 2015/1/15 o k 33.9 35.9 Green A05-304565 Denise Valencia  Ste 100, 8501 W Sunrise Blvd, Plantation, Fl 333224010
+FL South 2015/8/9 y a 10.9 10.9 Indigo M30-495588 Victoria Woolward  1395 Havendale Blvd, Winter Haven, Fl 338811336
+GA South 2015/8/23 y a 27.5 33.7 Orange M15-991939 Leachia Ashley  3105 Clairmont Rd, Atlanta, Ga 303291015
+GA South 2015/8/1 y u 18.4 22.6 Indigo A05-694957 Carla Aveirls  245 Peachtree Center Ave, Marquis One Ste 500, Atlanta, Ga 303031222
+GA South 2015/3/9 y a 7.7 10 Violet A05-271203 Heather Davis  7263 North Lake Dr, Columbus, Ga 319092767
+GA South 2015/8/26 o u 30.8 33.2 Red M30-464760 Shawn Glanville  Ste 2837, 401 W Peachtree St Nw, Atlanta, Ga 303083538
+GA South 2015/6/4 y u 11.9 13.1 Indigo A05-414902 Patricia Guobaitis  115 Robert C Daniel Jr Pkwy, Augusta, Ga 309090810
+GA South 2015/2/2 o k 19.9 20.5 Red M30-787797 Rose Martin  732 2Nd Street West, Tifton, Ga 317944202
+GA South 2015/2/5 p u 10.9 -1 Indigo M30-240703 Calvin Mills  1415 Franklin Rd, Marietta, Ga 300678774
+GA South 2015/5/31 o k 33.1 33.3 Orange U02-574626 Jimmy Norton  6670 Merchants Way, Morrow, Ga 302602340
+GA South 2015/7/4 y a 24.2 24.4 Green M30-556490 Kimberly Orwig  155 Big A Road, Toccoa, Ga 305772570
+GA South 2015/2/10 o u 11.5 11.9 Orange M30-589368 Mona Pace  Rm 20T45, 61 Forsyth St, Atlanta, Ga 303038910
+GA South 2015/7/18 p u 35.3 -1 Red U02-828440 Judy Phelps  1050 Brannen St, Statesboro, Ga 304615805
+GA South 2015/2/18 p k 29 -1 Red A05-508884 Jodi Redecker  61 Forsyth St S W, Atlanta, Ga 303038931
+GA South 2015/3/15 y u 35.2 35.7 Green U02-669785 Carol Rice  510 E 15Th Ave, Cordele, Ga 310151437
+GA South 2015/2/6 y u 15.2 15.5 Green M15-356321 Ryan Sbrissa  134 Juniper Ct, Brunswick, Ga 315201944
+GA South 2015/1/13 o a 18.2 18.7 Green A05-829378 Charles Tarver  61 Forsyth St Sw, Ste 22T64, Atlanta, Ga 303038908
+GA South 2015/2/21 o k 10.4 14.2 Yellow A05-626582 Gerald Thompson  1548 Flynt St, Griffin, Ga 302232063
+GA South 2015/8/23 y a 33.6 34.6 Orange U02-364657 Christopher Young  389 East Broad St, Winder, Ga 306802278
+KY South 2015/3/29 y a 11.5 11.9 Green A05-662526 Janet Bragg  7 Youell, Florence, Ky 410422018
+KY South 2015/6/6 p u 4.7 -1 Indigo U02-277441 Michele Cox  103 Belinda Blvd, Danville, Ky 404223212
+KY South 2015/6/11 o a 9.6 12.2 Green A05-452916 Carroll Duncan  Ste 200, 4730 Village Square Drive, Paducah, Ky 420017438
+KY South 2015/2/14 p a 13 -1 Indigo U02-946590 Gloria Gladney  Suite 110, 2241 Buena Vista Rd, Lexington, Ky 405054826
+KY South 2015/1/21 p k 11.3 -1 Violet A05-793397 Lisa Hopper  1897 Ky Rt 321, Prestonsburg, Ky 416539103
+KY South 2015/5/6 o a 31.2 45.4 Red U02-276196 Katie Horlander  Room 101, 601 W Broadway, Louisville, Ky 402022227
+KY South 2015/7/31 p u 10.5 -1 Green M15-798356 Robert Mcdaniel  125 Brett Chase, Paducah, Ky 420035755
+KY South 2015/4/23 y u 23.6 24.9 Violet U02-856397 Erin Mclaughlin  Ste 100, 400 Bellerive Blvd, Nicholasville, Ky 403568135
+KY South 2015/3/25 o u 16.5 17.9 Violet M30-636049 Meredith Montgomery  101 Hiestand Farm Rd, Campbellsville, Ky 427188491
+KY South 2015/7/2 y k 12.3 14.2 Violet M15-951419 Stephen Schneider  10 Tech Park Drive, Middlesboro, Ky 409652850
+KY South 2015/8/4 y a 35.1 46.5 Violet U02-648646 Jerry Sturgill  4431 Hanson Rd, Madisonville, Ky 424316194
+KY South 2015/7/3 p k 11.1 -1 Orange M15-322668 Lynn Tichenor  4532 Lucky Strike Loop, Owensboro, Ky 423037765
+KY South 2015/1/3 p a 35.6 -1 Green M15-539129 Jeremy Wilson  2724 Chandler Drive, Bowling Green, Ky 421046255
+LA South 2015/2/13 p k 18.6 -1 Green A05-608462 Carolyn Anderson  701 La Twr, 401 Edwards St, Shreveport, La 711013289
+LA South 2015/6/24 o k 3.5 3.8 Green A05-798622 Terry Austin  825 Ryan St, Lake Charles, La 706014295
+LA South 2015/4/29 y u 18.5 19.2 Indigo A05-596563 Yolanda Escort  4332 Harding Blvd, Baton Rouge, La 708075238
+LA South 2015/4/29 y u 19.4 20.4 Violet U02-809623 Jennifer Jenkins  950 Keyser, Natchitoches, La 714576266
+LA South 2015/2/22 o u 5.5 5.5 Green A05-673761 Barbara Terance  Ste 500, 400 Poydras St, New Orleans, La 701303323
+MS South 2015/8/21 p u 4.3 -1 Red A05-331208 Mary Posey  4817 N Park Dr, Meridian, Ms 393052652
+MS South 2015/4/6 y u 20 21.3 Red U02-923618 Sharon Rouse  Po Box 1757, Natchez, Ms 391211757
+MS South 2015/1/13 o k 34.8 36.7 Blue A05-521480 Myra Simmons  12/30/1899, 1150 South Green, Tupelo, Ms 388044904
+NC South 2015/8/1 o a 21.9 23.1 Red A05-815861 Etta Atwood  1420 Mccarthy Blvd, New Bern, Nc 285622002
+NC South 2015/7/31 p u 33 -1 Red A05-266401 Thomas Bachmann  1187 N Andy Griffith Pkwy, Mount Airy, Nc 270302528
+NC South 2015/4/3 p a 32.7 -1 Orange M30-339272 Joy Brewer  Ste 300, 101 S Edgeworth St, Greensboro, Nc 274016025
+NC South 2015/7/24 y a 10.6 22.1 Red A05-859849 James Davis  1231 W First St, Ahoskie, Nc 279102984
+NC South 2015/3/10 p u 6.3 -1 Orange M30-533580 Libby Drye  Ste 300, 6701 Carmel Rd, Charlotte, Nc 282260205
+NC South 2015/3/9 p a 11.3 -1 Yellow M30-657597 Dean Hittleman  800 Centrepark Drive, Asheville, Nc 288051277
+NC South 2015/4/28 y k 31.1 34.7 Violet A05-266795 Aretha Richardson  1071 Hunter Hill Road, Rocky Mount, Nc 278041767
+NC South 2015/3/1 y k 29.4 32.1 Yellow M15-545043 Cedrick Thomas  220 East Green Street, Rockingham, Nc 283793422
+NC South 2015/6/5 p a 18.2 -1 Green U02-257011 Valerie Whitfield  633 Venture Dr, Smithfield, Nc 275774769
+SC South 2015/1/19 o a 11.2 12.2 Yellow U02-777401 Loretta Blanchard-White  181 Dozier Blvd, Florence, Sc 295014026
+SC South 2015/8/19 p k 25.5 -1 Indigo A05-697778 Gregory Branch  1379 Sims Street, Orangeburg, Sc 291153456
+SC South 2015/7/31 o a 35.5 36 Orange A05-854647 Karen Curtis  1391 Middleton Street, Orangeburg, Sc 291153115
+SC South 2015/2/10 p a 22.9 -1 Orange M15-940645 Dana Jenkins  Ste C, 115 Enterprise Ct, Greenwood, Sc 296491689
+SC South 2015/8/23 p u 35.9 -1 Violet A05-606212 Corchanda Means  Ste 300, 145 North Church Street, Spartanburg, Sc 293065190
+SC South 2015/1/9 p u 20.5 -1 Blue M15-827033 Pam Sprinkle  319 Pelham Rd, Greenville, Sc 296153110
+SC South 2015/2/14 o a 19.2 23.6 Blue M15-911536 Aretha Wright  Ste 200, 1927 Thurmond Mall Blvd, Columbia, Sc 292012387
+TN South 2015/5/5 y u 8.8 9.2 Yellow M15-305357 Alice Carpenter  140 Sharp Perkins Road, Jacksboro, Tn 377572507
+TN South 2015/6/27 p k 17.1 -1 Red U02-236345 Derek Clay  Ste 350, 6840 Carothers Parkway, Franklin, Tn 370676538
+TN South 2015/3/7 y u 19.9 22.4 Violet M30-832610 Kenneth Cook  186 Commerce St, Paris, Tn 382424917
+TN South 2015/3/31 y k 31.7 33.3 Blue A05-922607 Jason Cornett  1885 Shady Brook Street, Columbia, Tn 384013945
+TN South 2015/5/3 p k 17.2 -1 Violet U02-633136 Thomas Frazier  222 Keller Lane, Maryville, Tn 378016202
+TN South 2015/7/28 o u 29.3 30.8 Indigo A05-522312 Kimberly Hendrix  1232 Premier Dr Ste 200, Chattanooga, Tn 374214151
+TN South 2015/3/25 p k 25.4 -1 Violet U02-271128 Regina Rivers  1800 Old Troy Rd, Union City, Tn 382615519
+TN South 2015/6/29 o k 21.3 25.3 Red U02-732013 Pamela Rodriguez  1885 Shady Brook St, Columbia, Tn 384013945
+TN South 2015/5/5 y k 16.1 21.8 Green U02-309377 Rodney Royston  1618 Old Tusculum Rd, Greeneville, Tn 377454305
+TN South 2015/7/16 p k 27.8 -1 Blue A05-907512 Christopher Seal  Ste 315, 220 Athens Way, Nashville, Tn 372281304
+TN South 2015/5/31 y k 19.7 20.9 Violet U02-869924 Linda Skramstad  1290 Premier Drive, Chattanooga, Tn 374213707
+TN South 2015/3/10 o u 9.4 10.2 Red A05-261701 Timothy Spalding  637 Commons Drive, Gallatin, Tn 370666318
+TN South 2015/2/8 p a 13.8 -1 Violet M30-709417 Noah Stefanick  900 Sparta St, Mcminnville, Tn 371101720
+TN South 2015/6/8 o a 4.2 5.8 Violet U02-668798 Carmen Watson  529 Inman Street W, Cleveland, Tn 373111768
+VA South 2015/3/27 o k 27.8 29.7 Violet M15-384158 Anita Asbell  Ste 100, 2875 Sabre St, Virginia Beach, Va 234527365
+VA South 2015/6/18 p k 13.2 -1 Red A05-793326 Takia Cardwell  Ste 504, 5107 Leesburg Pike, Falls Church, Va 220413260
+VA South 2015/5/16 y k 3 3.7 Orange U02-706389 Dena Collett  351 North Mason Street, Harrisonburg, Va 228024128
+VA South 2015/8/1 o u 25.7 28.2 Orange U02-264613 Susan Daniels  340A Hill Carter Pkwy, Ashland, Va 230052324
+VA South 2015/4/2 p k 21 -1 Orange A05-771099 Valerie Ercelebi  340A Hill Carter Pkwy, Ashland, Va 230052324
+VA South 2015/5/22 p k 32.2 -1 Orange M15-356792 Michelle Larosa  Ste 100, 612 South Jefferson Street, Roanoke, Va 240112434
+VA South 2015/6/5 y u 34.9 41.8 Green U02-314234 Jamie Press  Ste 100, 612 South Jefferson Street, Roanoke, Va 240112434
+VA South 2015/7/3 p u 34.2 -1 Indigo M15-943606 Lendria Smith  4401 Ford Ave, Suite 1400, Alexandria, Va 223021432
+VA South 2015/1/3 y a 32 33.8 Orange A05-592368 Jennifer Trollinger  Ste 102 Skyline Tower, 5107 Leesburg Pike, Falls Church, Va 220413260
+AL South 2015/5/4 o u 25.4 26.6 Violet M30-598673 Elverna Abston  Ste 100, 550 Government St, Mobile, Al 366022009
+AL South 2015/7/21 y k 32.1 35.7 Green A05-722553 Dana Brannan  Suite 100, 550 Government Street, Mobile, Al 366022009
+AL South 2015/6/25 p a 31.1 -1 Orange M30-386812 Eleanor Duren  1972 Gadsden Highway, Birmingham, Al 352353227
+AL South 2015/2/7 p u 23.4 -1 Red M30-542558 Claudia Harris  8Th Flr Csi, 1200 Rev Abraham Woods Jr Blvd, Birmingham, Al 352850003
+AL South 2015/4/21 o u 22.6 24.3 Orange M15-622403 Gina Kelly  1778 Whatley Dr, Dothan, Al 363031998
+AL South 2015/4/7 y u 30.4 39.2 Orange M15-875933 Teresa Roberts  120 Executive Park Lane, Selma, Al 367017734
+AR South 2015/7/15 p a 20.5 -1 Yellow A05-794072 Dana Edgar  1809 Latourette, Jonesboro, Ar 724040755
+AR South 2015/2/23 o u 5.8 5.9 Blue M30-371563 Donna Runyan  151 Dry Kiln Rd, Batesville, Ar 725018393
+FL South 2015/7/8 y u 12.3 14 Green U02-647862 James Bauman  Ste 100, 8661 Citizens Drive, New Port Richey, Fl 346545557
+FL South 2015/8/20 p u 27.5 -1 Violet A05-724441 Steven Bosheers  724 20Th Street, Vero Beach, Fl 329605442
+FL South 2015/2/5 o a 19.8 21.3 Green M15-758330 Jacqueline Botello  Ste 100, 8661 Citizens Drive, New Port Richey, Fl 346545557
